@@ -1,0 +1,1512 @@
+{
+    "id": 1441,
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "nwfv",
+    "league_category_id": "",
+    "league_class_id": "300",
+    "league_system_id": "",
+    "league_type": "league",
+    "name": "Verbandsliga U 13 Kleinfeld Süd",
+    "female": false,
+    "enable_scorer": true,
+    "short_name": "VL U 13 KF Süd",
+    "season_id": "15",
+    "order_key": "13",
+    "game_day_numbers": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "game_day_titles": [
+        {
+            "game_day_number": 1,
+            "title": "1. Spieltag"
+        },
+        {
+            "game_day_number": 2,
+            "title": "2. Spieltag"
+        },
+        {
+            "game_day_number": 3,
+            "title": "3. Spieltag"
+        },
+        {
+            "game_day_number": 4,
+            "title": "4. Spieltag"
+        }
+    ],
+    "deadline": "2010-12-31",
+    "before_deadline": false,
+    "legacy_league": false,
+    "field_size": "KF",
+    "league_modus": "league",
+    "has_preround": false,
+    "table_modus": "classic",
+    "periods": 2,
+    "period_length": 20,
+    "overtime_length": 5,
+    "similar_leagues": [
+        {
+            "id": 1532,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Qualifikation U13 KF Junioren DM",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Quali U13",
+            "season_id": "15",
+            "order_key": "1",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1508,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Meisterrunde U13 Kleinfeld Regionalliga Nordwest",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "MR U13 KF RL NW",
+            "season_id": "15",
+            "order_key": "10",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": "2010-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1509,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Platzierungsrunde U13 Kleinfeld Regionalliga Nordwest",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "PR U13 KF RL NW",
+            "season_id": "15",
+            "order_key": "11",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": "2010-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1528,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "U13 Kleinfeld Playoffs",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U13_KF_PO",
+            "season_id": "15",
+            "order_key": "669",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": "2011-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1503,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Kleinfeld Masterround",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U13_KF_MR",
+            "season_id": "15",
+            "order_key": "670",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2011-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1504,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Kleinfeld Challengeround",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U13_KF_CR",
+            "season_id": "15",
+            "order_key": "690",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": "2011-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1456,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Kleinfeld Staffel A",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U13KFA",
+            "season_id": "15",
+            "order_key": "700",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": "2011-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1457,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Kleinfeld Staffel B",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U13KFB",
+            "season_id": "15",
+            "order_key": "710",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": "2011-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1526,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "U13 Kleinfeld Playoffs Mädchen",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "U13w_KF_PO",
+            "season_id": "15",
+            "order_key": "749",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": "2011-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1458,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Kleinfeld Mädchen",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "U13KFW",
+            "season_id": "15",
+            "order_key": "750",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                }
+            ],
+            "deadline": "2011-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1383,
+            "game_operation_id": 4,
+            "game_operation_name": "Floorball-Verband Baden-Württemberg",
+            "game_operation_short_name": "FVBW",
+            "game_operation_slug": "fvbw",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Regionalliga Südwest (KF)",
+            "female": false,
+            "enable_scorer": false,
+            "short_name": "RL U13",
+            "season_id": "15",
+            "order_key": "40",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1485,
+            "game_operation_id": 5,
+            "game_operation_name": "Floorballverband Schleswig-Holstein",
+            "game_operation_short_name": "FLV-SH",
+            "game_operation_slug": "flvsh",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 KF Masterround Regionalliga Nord",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U13 KF Master",
+            "season_id": "15",
+            "order_key": "7",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1378,
+            "game_operation_id": 5,
+            "game_operation_name": "Floorballverband Schleswig-Holstein",
+            "game_operation_short_name": "FLV-SH",
+            "game_operation_slug": "flvsh",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 KF Regionalliga Nord",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U13 KF",
+            "season_id": "15",
+            "order_key": "7",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1488,
+            "game_operation_id": 5,
+            "game_operation_name": "Floorballverband Schleswig-Holstein",
+            "game_operation_short_name": "FLV-SH",
+            "game_operation_slug": "flvsh",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 KF Challengeround Regionalliga Nord",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U13 KF Challenge",
+            "season_id": "15",
+            "order_key": "7",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1545,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "U13 Juniorinnen Kleinfeld DM Quali",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "U13wKFDMQ",
+            "season_id": "15",
+            "order_key": "70",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1544,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "U13 Junioren Kleinfeld DM Quali",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "U13KFDMQ",
+            "season_id": "15",
+            "order_key": "71",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1407,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Junioren Regionalliga Ost",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RLU13GF",
+            "season_id": "15",
+            "order_key": "73",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 15,
+            "overtime_length": 5
+        },
+        {
+            "id": 1477,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Juniorinnen Kleinfeld Regionalliga Ost",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "RLU13wKF",
+            "season_id": "15",
+            "order_key": "74",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1474,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Junioren Kleinfeld Meisterrunde Ost",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "MRU13KF",
+            "season_id": "15",
+            "order_key": "75",
+            "game_day_numbers": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 0,
+                    "title": "0. Spieltag"
+                },
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1473,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Junioren Kleinfeld Platzierungsrunde Ost",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "PRU13KF",
+            "season_id": "15",
+            "order_key": "76",
+            "game_day_numbers": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 0,
+                    "title": "0. Spieltag"
+                },
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1408,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Junioren Kleinfeld Regionalliga Ost St. 1",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RlU13KF1",
+            "season_id": "15",
+            "order_key": "77",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1409,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Junioren Kleinfeld Regionalliga Ost St. 2",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RLU13KF2",
+            "season_id": "15",
+            "order_key": "78",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1410,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "U13 Junioren Kleinfeld Regionalliga Ost St. 3",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RLU13KF3",
+            "season_id": "15",
+            "order_key": "79",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1489,
+            "game_operation_id": 9,
+            "game_operation_name": "Floorball Verband Bayern",
+            "game_operation_short_name": "FVB",
+            "game_operation_slug": "fvb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Meisterrunde U13 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "MR U13 KF",
+            "season_id": "15",
+            "order_key": "13",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": "2011-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1490,
+            "game_operation_id": 9,
+            "game_operation_name": "Floorball Verband Bayern",
+            "game_operation_short_name": "FVB",
+            "game_operation_slug": "fvb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Platzierungsrunde U13 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "PR U13 KF",
+            "season_id": "15",
+            "order_key": "14",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2011-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1529,
+            "game_operation_id": 9,
+            "game_operation_name": "Floorball Verband Bayern",
+            "game_operation_short_name": "FVB",
+            "game_operation_slug": "fvb",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Süddeutsche Meisterschaft U13 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "SDM U13 KF",
+            "season_id": "15",
+            "order_key": "21",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": "2010-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1436,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga U 13 Kleinfeld weiblich",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "RL U 13 w. ",
+            "season_id": "15",
+            "order_key": "11",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": "2010-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1434,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga U 13 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RL U 13 KF",
+            "season_id": "15",
+            "order_key": "12",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2010-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1440,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "300",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Verbandsliga U 13 Kleinfeld Nord",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VL U 13 KF Nord",
+            "season_id": "15",
+            "order_key": "13",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": "2010-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        }
+    ]
+}

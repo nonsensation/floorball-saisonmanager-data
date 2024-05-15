@@ -1,0 +1,159 @@
+{
+    "id": 5913,
+    "game_number": "66",
+    "start_time": "11:00",
+    "actual_start_time": null,
+    "date": "2014-04-19",
+    "game_day": {
+        "game_day_number": 9,
+        "title": "9. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": null,
+    "home_team_name": "SSF Dragons Bonn II",
+    "guest_team_name": "BSV Roxel",
+    "home_team_id": 507,
+    "guest_team_id": 1614,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [],
+    "players": {
+        "home": [
+            {
+                "player_id": 8213,
+                "goalkeeper": true,
+                "player_name": "Canisius",
+                "trikot_number": 1,
+                "player_firstname": "Hannah",
+                "position": "Tor"
+            },
+            {
+                "player_id": 7038,
+                "player_name": "Bartz",
+                "trikot_number": 16,
+                "player_firstname": "Nike",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15676,
+                "player_name": "Vieren",
+                "trikot_number": 40,
+                "player_firstname": "Annika",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 13372,
+                "player_name": "Oertel",
+                "trikot_number": 64,
+                "player_firstname": "Kristin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7321,
+                "player_name": "Steinbrügge",
+                "trikot_number": 78,
+                "player_firstname": "Marie",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2485,
+                "player_name": "Lasak",
+                "trikot_number": 82,
+                "player_firstname": "Anna-Marie",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": false,
+    "ended": false,
+    "result_string": null,
+    "result": null,
+    "league_id": 333,
+    "league_name": "Westliga Herren Kleinfeld U13",
+    "league_short_name": "Westliga U13 KF",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 162,
+    "arena_name": "Schulzentrum Roxel",
+    "arena_address": "Tillbecker Straße 34, 48161 Münster",
+    "arena_short": "Münster, Schulzentrum Roxel",
+    "nominated_referees": "ASV Köln",
+    "deletable": true,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": []
+}

@@ -1,0 +1,401 @@
+{
+    "id": 32393,
+    "game_number": "6",
+    "start_time": "11:45",
+    "actual_start_time": "12:00",
+    "date": "2023-09-24",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "2. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period3",
+    "audience": 25,
+    "home_team_name": "SG Marburg/Ebersgöns",
+    "guest_team_name": "ASV Köln",
+    "home_team_id": 6123,
+    "guest_team_id": 6136,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--05f27d683089453fdf147095d81a94997b1c1268/185-marburgerelche.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--05f27d683089453fdf147095d81a94997b1c1268/185-marburgerelche.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c4bec542fb257c8ce173f29e882d4a9d40d9148d/126-asvkoeln.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c4bec542fb257c8ce173f29e882d4a9d40d9148d/126-asvkoeln.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "10:22",
+            "sortkey": "1-10:22",
+            "number": 47,
+            "assist": 99,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "17:33",
+            "sortkey": "2-17:33",
+            "number": 57,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 901,
+            "penalty_reason_string": "Stockschlag"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 3,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "33:02",
+            "sortkey": "3-33:02",
+            "number": 99,
+            "assist": 43,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 3,
+            "time": "40:45",
+            "sortkey": "3-40:45"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 3,
+            "home_goals": 3,
+            "guest_goals": 0,
+            "time": "41:52",
+            "sortkey": "3-41:52",
+            "number": 47,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 4596,
+                "goalkeeper": true,
+                "player_name": "Keller",
+                "trikot_number": 23,
+                "player_firstname": "Klaus",
+                "position": "Tor"
+            },
+            {
+                "player_id": 18495,
+                "player_name": "Tröster",
+                "trikot_number": 52,
+                "player_firstname": "Samuel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2747,
+                "player_name": "Meyer",
+                "trikot_number": 47,
+                "player_firstname": "Martin",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 9023,
+                "player_name": "Fischer",
+                "trikot_number": 42,
+                "player_firstname": "Henry",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17942,
+                "player_name": "Fuhrmann",
+                "trikot_number": 27,
+                "player_firstname": "Philipp ",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13355,
+                "player_name": "Kröll",
+                "trikot_number": 43,
+                "player_firstname": "Lasse",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13290,
+                "player_name": "Memedi",
+                "trikot_number": 99,
+                "player_firstname": "Elian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9140,
+                "player_name": "Linke",
+                "trikot_number": 36,
+                "player_firstname": "Jonas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21191,
+                "player_name": "Schardt",
+                "trikot_number": 46,
+                "player_firstname": "Johann",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3397,
+                "player_name": "Dallmann",
+                "trikot_number": 38,
+                "player_firstname": "Dennis",
+                "position": "Feld"
+            },
+            {
+                "player_id": 12262,
+                "player_name": "Schubert",
+                "trikot_number": 32,
+                "player_firstname": "Chris",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17946,
+                "player_name": "Millard ",
+                "trikot_number": 18,
+                "player_firstname": "Amos",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20318,
+                "player_name": "Geib",
+                "trikot_number": 69,
+                "player_firstname": "Leon",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 20454,
+                "player_name": "Böcking",
+                "trikot_number": 52,
+                "player_firstname": "Marius",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 14880,
+                "player_name": "Kehne",
+                "trikot_number": 72,
+                "player_firstname": "Daniel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24530,
+                "player_name": "Börjesson",
+                "trikot_number": 84,
+                "player_firstname": "Annie",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24529,
+                "player_name": "Sjöberg",
+                "trikot_number": 70,
+                "player_firstname": "Linus",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17914,
+                "player_name": "Cavucci",
+                "trikot_number": 6,
+                "player_firstname": "Luca",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21372,
+                "player_name": "Sicora",
+                "trikot_number": 57,
+                "player_firstname": "Kai Alexander",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16044,
+                "player_name": "Ajaxson",
+                "trikot_number": 74,
+                "player_firstname": "Christer",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6121,
+                "player_name": "Schäfer",
+                "trikot_number": 83,
+                "player_firstname": "Henry",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21144,
+                "player_name": "Bitschnau",
+                "trikot_number": 85,
+                "player_firstname": "Manuel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20773,
+                "goalkeeper": true,
+                "player_name": "Harcourt-Smith",
+                "trikot_number": 99,
+                "player_firstname": "Ian",
+                "position": "Tor"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "3:0",
+    "result": {
+        "home_goals": 3,
+        "guest_goals": 0,
+        "home_goals_period": [
+            1,
+            0,
+            2,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1425,
+    "league_name": "Regionalliga West",
+    "league_short_name": "RL West",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Drittel",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "P1",
+            "title": "1. Drittelpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Drittel",
+            "status_id": "period2",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "P2",
+            "title": "2. Drittelpause",
+            "status_id": "pause2",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "3",
+            "title": "3. Drittel",
+            "status_id": "period3",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 3.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 5,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 3,
+        "short_title": "3",
+        "title": "3. Drittel",
+        "status_id": "period3",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 431,
+    "arena_name": "Gymnasium Philippinum",
+    "arena_address": "Leopold-Lucas-Straße 18, 35037 Marburg",
+    "arena_short": "Marburg, Gymnasium Philippinum",
+    "nominated_referees": "Floorball Griedel",
+    "deletable": false,
+    "notice_type": "",
+    "notice_string": "",
+    "referees": [
+        {
+            "license_id": "0",
+            "first_name": "Moritz",
+            "last_name": "Wirth"
+        }
+    ]
+}

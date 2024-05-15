@@ -1,0 +1,351 @@
+{
+    "id": 32929,
+    "game_number": "19",
+    "start_time": "13:00",
+    "actual_start_time": "13:00",
+    "date": "2024-03-09",
+    "game_day": {
+        "game_day_number": 4,
+        "title": "4. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period1",
+    "audience": null,
+    "home_team_name": "Dümptener Füchse 2",
+    "guest_team_name": "DJK Holzbüttgen Starter",
+    "home_team_id": 6189,
+    "guest_team_id": 6192,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2cdedb01591ceeac63dc6aff55380b5162bd2e3/46-dumpten.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2cdedb01591ceeac63dc6aff55380b5162bd2e3/46-dumpten.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "12:05",
+            "sortkey": "1-12:05",
+            "number": 21,
+            "assist": 75,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "0:27",
+            "sortkey": "2-00:27",
+            "number": 15,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 1,
+            "time": "9:58",
+            "sortkey": "2-09:58",
+            "number": 14,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 1,
+            "time": "13:18",
+            "sortkey": "2-13:18",
+            "number": 20,
+            "assist": 1,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 25192,
+                "player_name": "De Almeda Sousa",
+                "trikot_number": 23,
+                "player_firstname": "Eva",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25188,
+                "player_name": "Haspeslagh",
+                "trikot_number": 16,
+                "player_firstname": "Johannes",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 25190,
+                "player_name": "Heinlein",
+                "trikot_number": 20,
+                "player_firstname": "Lio",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22956,
+                "goalkeeper": true,
+                "player_name": "Kallweit",
+                "trikot_number": 1,
+                "player_firstname": "Luise",
+                "position": "Tor"
+            },
+            {
+                "player_id": 25193,
+                "player_name": "Kirchmeyer",
+                "trikot_number": 19,
+                "player_firstname": "Emily",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25191,
+                "player_name": "Knauf",
+                "trikot_number": 14,
+                "player_firstname": "Lennart",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22958,
+                "player_name": "Schneider",
+                "trikot_number": 15,
+                "player_firstname": "Franziska",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25189,
+                "player_name": "Winter",
+                "trikot_number": 17,
+                "player_firstname": "Felix",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "captain": true,
+                "player_id": 25142,
+                "player_name": "von Rüden",
+                "trikot_number": 46,
+                "player_firstname": "Charlotte",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25136,
+                "player_name": "Höck",
+                "trikot_number": 17,
+                "player_firstname": "Hannah",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25133,
+                "player_name": "Beck",
+                "trikot_number": 27,
+                "player_firstname": "Ida",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25134,
+                "player_name": "Esch",
+                "trikot_number": 29,
+                "player_firstname": "Lara",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25138,
+                "player_name": "Porten",
+                "trikot_number": 75,
+                "player_firstname": "Matteo",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25139,
+                "player_name": "Porten",
+                "trikot_number": 5,
+                "player_firstname": "Milo",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25137,
+                "player_name": "Levin",
+                "trikot_number": 28,
+                "player_firstname": "Philipp",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25140,
+                "player_name": "Schmidtchen",
+                "trikot_number": 11,
+                "player_firstname": "Robin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25141,
+                "goalkeeper": true,
+                "player_name": "Schnell",
+                "trikot_number": 86,
+                "player_firstname": "Judy",
+                "position": "Tor"
+            },
+            {
+                "player_id": 25156,
+                "player_name": "Wesche",
+                "trikot_number": 35,
+                "player_firstname": "Jakob",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23322,
+                "player_name": "Krekeler",
+                "trikot_number": 21,
+                "player_firstname": "Romina",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "3:1",
+    "result": {
+        "home_goals": 3,
+        "guest_goals": 1,
+        "home_goals_period": [
+            0,
+            3,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1438,
+    "league_name": "Verbandsliga U 11 Kleinfeld",
+    "league_short_name": "VL U 11 KF",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 1,
+        "short_title": "1",
+        "title": "1. Hälfte",
+        "status_id": "period1",
+        "can_end_game": false,
+        "optional": false,
+        "running": true
+    },
+    "arena": 146,
+    "arena_name": "Sporthalle Ludwig-Wolker-Straße",
+    "arena_address": "Ludwig-Wolker-Straße 35, 45468 Mülheim an der Ruhr",
+    "arena_short": "Mülheim an der Ruhr, Sporthalle Ludwig-Wolker-Straße",
+    "nominated_referees": "TV Refrath Tigers",
+    "deletable": false,
+    "notice_type": "",
+    "notice_string": "",
+    "referees": [
+        {
+            "license_id": "0",
+            "first_name": "Mario",
+            "last_name": "Piec"
+        },
+        {
+            "license_id": "0",
+            "first_name": "Leo",
+            "last_name": "Piec"
+        }
+    ]
+}

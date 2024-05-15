@@ -1,0 +1,323 @@
+{
+    "id": 32923,
+    "game_number": "8",
+    "start_time": "12:00",
+    "actual_start_time": "12:00",
+    "date": "2023-11-12",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "2. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 80,
+    "home_team_name": "SV Rabbits Neukirchen",
+    "guest_team_name": "TV Refrath Tigers",
+    "home_team_id": 6190,
+    "guest_team_id": 6191,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--33dc24e0e29fc5950e8dd97ea709e3d2ecc33fdd/253-Spielverein%20Neukirchen.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--33dc24e0e29fc5950e8dd97ea709e3d2ecc33fdd/253-Spielverein%20Neukirchen.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBldz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b212fd1752b7b9d6ec7a7a3486647ce0933f195d/167-tvrefrath.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBldz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b212fd1752b7b9d6ec7a7a3486647ce0933f195d/167-tvrefrath.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "9:13",
+            "sortkey": "1-09:13",
+            "number": 9,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 2,
+            "time": "14:09",
+            "sortkey": "1-14:09",
+            "number": 12,
+            "assist": 11,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "7:12",
+            "sortkey": "2-07:12",
+            "number": 10,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 25208,
+                "player_name": "Buchheit",
+                "trikot_number": 9,
+                "player_firstname": "Emil",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25391,
+                "player_name": "Arbes",
+                "trikot_number": 11,
+                "player_firstname": "Janis",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25205,
+                "player_name": "Bretschneider",
+                "trikot_number": 7,
+                "player_firstname": "Matteo",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25211,
+                "player_name": "Huldtgren",
+                "trikot_number": 12,
+                "player_firstname": "Livia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25209,
+                "player_name": "Kamp",
+                "trikot_number": 6,
+                "player_firstname": "Hannes",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25210,
+                "player_name": "Kluten",
+                "trikot_number": 10,
+                "player_firstname": "Tom",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 25207,
+                "player_name": "Scharbatke",
+                "trikot_number": 2,
+                "player_firstname": "Anton Gerrit",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25390,
+                "goalkeeper": true,
+                "player_name": "Schmidt",
+                "trikot_number": 1,
+                "player_firstname": "Hendrik",
+                "position": "Tor"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 25331,
+                "player_name": "Heib",
+                "trikot_number": 9,
+                "player_firstname": "Hugo",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24771,
+                "player_name": "Pieske",
+                "trikot_number": 12,
+                "player_firstname": "Florian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23209,
+                "player_name": "Schwamborn",
+                "trikot_number": 11,
+                "player_firstname": "Julia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23206,
+                "player_name": "Pawelka",
+                "trikot_number": 90,
+                "player_firstname": "Clara Elise",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25122,
+                "player_name": "Hunkemöller",
+                "trikot_number": 14,
+                "player_firstname": "Henri",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 24772,
+                "player_name": "Krämer",
+                "trikot_number": 17,
+                "player_firstname": "Tom",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24768,
+                "goalkeeper": true,
+                "player_name": "Schulte",
+                "trikot_number": 84,
+                "player_firstname": "Mika",
+                "position": "Tor"
+            },
+            {
+                "player_id": 24770,
+                "player_name": "Weingartz",
+                "trikot_number": 7,
+                "player_firstname": "Simon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24810,
+                "player_name": "Schremmer",
+                "trikot_number": 6,
+                "player_firstname": "Juri",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "1:2",
+    "result": {
+        "home_goals": 1,
+        "guest_goals": 2,
+        "home_goals_period": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1438,
+    "league_name": "Verbandsliga U 11 Kleinfeld",
+    "league_short_name": "VL U 11 KF",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 290,
+    "arena_name": "Halle am Bruchweg",
+    "arena_address": "Bruchweg 5, 41564 Kaarst",
+    "arena_short": "Kaarst, Halle am Bruchweg",
+    "nominated_referees": "Dümptener Füchse 2",
+    "deletable": false,
+    "notice_type": "",
+    "notice_string": "",
+    "referees": [
+        {
+            "license_id": "2661",
+            "first_name": "Jana",
+            "last_name": "Baccus"
+        },
+        {
+            "license_id": "0",
+            "first_name": "Lio",
+            "last_name": "Heinlein"
+        }
+    ]
+}

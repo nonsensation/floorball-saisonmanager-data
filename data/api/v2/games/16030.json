@@ -1,0 +1,357 @@
+{
+    "id": 16030,
+    "game_number": "9",
+    "start_time": "12:00",
+    "actual_start_time": null,
+    "date": "2018-11-11",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "2. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 50,
+    "home_team_name": "SSVg 09/12 Heiligenhaus",
+    "guest_team_name": "SV LöWi",
+    "home_team_id": 2487,
+    "guest_team_id": 2481,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd34dd31eebec7d8978f6720ca048220d5fe0529/211-ssvgheiligenhaus.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd34dd31eebec7d8978f6720ca048220d5fe0529/211-ssvgheiligenhaus.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBiUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b10aa31afb1d5ab6e3a51034dafc1572fc9e2327/130-svloewi.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBiUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b10aa31afb1d5ab6e3a51034dafc1572fc9e2327/130-svloewi.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "1:00",
+            "sortkey": "1-01:00",
+            "number": 4,
+            "assist": 10,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "10:15",
+            "sortkey": "1-10:15",
+            "number": 14,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "13:17",
+            "sortkey": "1-13:17",
+            "number": 27,
+            "assist": 23,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 3,
+            "time": "11:10",
+            "sortkey": "2-11:10",
+            "number": 39,
+            "assist": 11,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 3,
+            "time": "14:19",
+            "sortkey": "2-14:19",
+            "number": 10,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 18521,
+                "goalkeeper": true,
+                "player_name": "Uhlig",
+                "trikot_number": 1,
+                "player_firstname": "Timon",
+                "position": "Tor"
+            },
+            {
+                "player_id": 18515,
+                "player_name": "Birkhoff",
+                "trikot_number": 2,
+                "player_firstname": "Jan",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18523,
+                "player_name": "Lainck",
+                "trikot_number": 4,
+                "player_firstname": "Julian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18516,
+                "player_name": "Buick",
+                "trikot_number": 5,
+                "player_firstname": "Marlon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18520,
+                "player_name": "Otten",
+                "trikot_number": 6,
+                "player_firstname": "Eric",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18522,
+                "player_name": "Lainck",
+                "trikot_number": 9,
+                "player_firstname": "Jakob",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 5807,
+                "player_name": "Kluge",
+                "trikot_number": 10,
+                "player_firstname": "Felix",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18519,
+                "player_name": "Osterloh",
+                "trikot_number": 11,
+                "player_firstname": "Leonie",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 18490,
+                "goalkeeper": true,
+                "player_name": "Lehwald",
+                "trikot_number": 1,
+                "player_firstname": "Tom",
+                "position": "Tor"
+            },
+            {
+                "captain": true,
+                "player_id": 9031,
+                "player_name": "Heisig",
+                "trikot_number": 23,
+                "player_firstname": "Moritz",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18491,
+                "player_name": "Baum",
+                "trikot_number": 11,
+                "player_firstname": "Maximilian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17356,
+                "player_name": "Meid",
+                "trikot_number": 68,
+                "player_firstname": "Moritz",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3729,
+                "player_name": "Waldhof",
+                "trikot_number": 63,
+                "player_firstname": "Ben",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2107,
+                "player_name": "Adam",
+                "trikot_number": 13,
+                "player_firstname": "Greta",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4316,
+                "player_name": "Büll",
+                "trikot_number": 27,
+                "player_firstname": "Leo",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13340,
+                "player_name": "Heithus",
+                "trikot_number": 39,
+                "player_firstname": "Tom",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7296,
+                "player_name": "Tokarev",
+                "trikot_number": 44,
+                "player_firstname": "Damian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18280,
+                "player_name": "Rosenkränzer",
+                "trikot_number": 14,
+                "player_firstname": "Isabel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18281,
+                "player_name": "Daub",
+                "trikot_number": 64,
+                "player_firstname": "Luis",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18489,
+                "player_name": "Lindlar",
+                "trikot_number": 67,
+                "player_firstname": "Laurin",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "2:3",
+    "result": {
+        "home_goals": 2,
+        "guest_goals": 3,
+        "home_goals_period": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            1,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 642,
+    "league_name": "Regionalliga NRW Herren U11 KF",
+    "league_short_name": "U11KF",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 160,
+    "arena_name": "Sportpark Nord",
+    "arena_address": "Kölnstraße 250, 53117 Bonn",
+    "arena_short": "Bonn, Sportpark Nord",
+    "nominated_referees": "Dümptener Füchse",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "1561",
+            "first_name": "Tim",
+            "last_name": "Osterkamp"
+        }
+    ]
+}

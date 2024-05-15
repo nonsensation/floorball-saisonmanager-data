@@ -1,0 +1,391 @@
+{
+    "id": 33062,
+    "game_number": "4",
+    "start_time": "10:00",
+    "actual_start_time": "10:00",
+    "date": "2023-12-10",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "2. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period3",
+    "audience": 11,
+    "home_team_name": "SG ASV Köln-Kölner FC",
+    "guest_team_name": "BSV Roxel 2",
+    "home_team_id": 6143,
+    "guest_team_id": 6142,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c4bec542fb257c8ce173f29e882d4a9d40d9148d/126-asvkoeln.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c4bec542fb257c8ce173f29e882d4a9d40d9148d/126-asvkoeln.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "4:54",
+            "sortkey": "1-04:54",
+            "number": 20,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "6:00",
+            "sortkey": "2-06:00",
+            "number": 2,
+            "assist": 57,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 0,
+            "time": "6:24",
+            "sortkey": "2-06:24",
+            "number": 2,
+            "assist": 74,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 3,
+            "time": "11:34",
+            "sortkey": "3-11:34"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 3,
+            "home_goals": 4,
+            "guest_goals": 0,
+            "time": "13:22",
+            "sortkey": "3-13:22",
+            "number": 20,
+            "assist": 2,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 18088,
+                "player_name": "Bendler",
+                "trikot_number": 39,
+                "player_firstname": "Paul",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21372,
+                "player_name": "Sicora",
+                "trikot_number": 57,
+                "player_firstname": "Kai Alexander",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 16044,
+                "player_name": "Ajaxson",
+                "trikot_number": 74,
+                "player_firstname": "Christer",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18121,
+                "player_name": "Pollert",
+                "trikot_number": 48,
+                "player_firstname": "Till",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6121,
+                "player_name": "Schäfer",
+                "trikot_number": 20,
+                "player_firstname": "Henry",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10925,
+                "player_name": "Heisig",
+                "trikot_number": 11,
+                "player_firstname": "Philip",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24877,
+                "player_name": "Oehmke",
+                "trikot_number": 86,
+                "player_firstname": "Jonathan",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20773,
+                "goalkeeper": true,
+                "player_name": "Harcourt-Smith",
+                "trikot_number": 99,
+                "player_firstname": "Ian",
+                "position": "Tor"
+            },
+            {
+                "player_id": 13207,
+                "player_name": "Lutz",
+                "trikot_number": 95,
+                "player_firstname": "David",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11977,
+                "player_name": "Grates",
+                "trikot_number": 22,
+                "player_firstname": "Simon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2741,
+                "player_name": "Büll",
+                "trikot_number": 2,
+                "player_firstname": "Lias",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 20245,
+                "player_name": "Deutz",
+                "trikot_number": 15,
+                "player_firstname": "Kian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2253,
+                "player_name": "David",
+                "trikot_number": 67,
+                "player_firstname": "Tim",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9376,
+                "player_name": "Eibrink",
+                "trikot_number": 12,
+                "player_firstname": "Jonah",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25393,
+                "player_name": "Geßner",
+                "trikot_number": 11,
+                "player_firstname": "Lilly",
+                "position": "Feld"
+            },
+            {
+                "player_id": 8382,
+                "player_name": "Gross",
+                "trikot_number": 24,
+                "player_firstname": "Tobias",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 17837,
+                "player_name": "Lebok",
+                "trikot_number": 23,
+                "player_firstname": "Lando",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20891,
+                "goalkeeper": true,
+                "player_name": "Büchter",
+                "trikot_number": 27,
+                "player_firstname": "Louis",
+                "position": "Tor"
+            },
+            {
+                "player_id": 20886,
+                "player_name": "Reinert",
+                "trikot_number": 19,
+                "player_firstname": "Fabian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15976,
+                "player_name": "van Rickelen",
+                "trikot_number": 81,
+                "player_firstname": "Philip",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10932,
+                "player_name": "Schu-Schätter",
+                "trikot_number": 25,
+                "player_firstname": "Elias",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "4:0",
+    "result": {
+        "home_goals": 4,
+        "guest_goals": 0,
+        "home_goals_period": [
+            1,
+            2,
+            1,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1429,
+    "league_name": "Verbandsliga Großfeld",
+    "league_short_name": "VL GF",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Drittel",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "P1",
+            "title": "1. Drittelpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Drittel",
+            "status_id": "period2",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "P2",
+            "title": "2. Drittelpause",
+            "status_id": "pause2",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "3",
+            "title": "3. Drittel",
+            "status_id": "period3",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 3.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 5,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 3,
+        "short_title": "3",
+        "title": "3. Drittel",
+        "status_id": "period3",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 197,
+    "arena_name": "ASV-Halle",
+    "arena_address": "Olympiaweg 3, 50933 Köln",
+    "arena_short": "Köln, ASV-Halle",
+    "nominated_referees": "Floorball Mainz 2",
+    "deletable": false,
+    "notice_type": "",
+    "notice_string": "",
+    "referees": [
+        {
+            "license_id": "1675",
+            "first_name": "Tobias",
+            "last_name": "Biesenbaum"
+        },
+        {
+            "license_id": "5434",
+            "first_name": "Felix",
+            "last_name": "Stein"
+        }
+    ]
+}
