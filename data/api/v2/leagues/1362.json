@@ -1,0 +1,2931 @@
+{
+    "id": 1362,
+    "game_operation_id": 6,
+    "game_operation_name": "SBK Ost",
+    "game_operation_short_name": "SBK Ost",
+    "game_operation_slug": "ost",
+    "league_category_id": "",
+    "league_class_id": "30",
+    "league_system_id": "",
+    "league_type": "cup",
+    "name": "Playoffs Regionalliga Ost U15 Junioren",
+    "female": false,
+    "enable_scorer": true,
+    "short_name": "PORLU15GF",
+    "season_id": "14",
+    "order_key": "40",
+    "game_day_numbers": [
+        1
+    ],
+    "game_day_titles": [
+        {
+            "game_day_number": 1,
+            "title": "1. Spieltag"
+        }
+    ],
+    "deadline": null,
+    "before_deadline": null,
+    "legacy_league": false,
+    "field_size": "GF",
+    "league_modus": "cup",
+    "has_preround": false,
+    "table_modus": "classic",
+    "periods": 3,
+    "period_length": 15,
+    "overtime_length": 5,
+    "similar_leagues": [
+        {
+            "id": 1371,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Relegation 2. FBL Herren / Regionalliga",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "REL 2. FBL / RL",
+            "season_id": "14",
+            "order_key": "51",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1345,
+            "game_operation_id": 1,
+            "game_operation_name": "Floorball Deutschland",
+            "game_operation_short_name": "FVD",
+            "game_operation_slug": "fvd",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Regionalligameisterschaft Nord/West",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RLM N/W",
+            "season_id": "14",
+            "order_key": "55",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1333,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Norddeutsche Meisterschaft - Regionalliga GF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RL - NDM",
+            "season_id": "14",
+            "order_key": "11",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1233,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Jamasi Regionalliga Nordwest Herren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Jamasi Regio ",
+            "season_id": "14",
+            "order_key": "12",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1232,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Nordwest Damen Kleinfeld",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "Damen KF",
+            "season_id": "14",
+            "order_key": "21",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1235,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Nordwest Herren Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Regio Herren KF",
+            "season_id": "14",
+            "order_key": "22",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1314,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB Herren Masterround",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "GFRLFVBBHEMR",
+            "season_id": "14",
+            "order_key": "125",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                }
+            ],
+            "deadline": "2008-02-28",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1315,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB Herren Challengeround",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "GFRLFVBBHECR",
+            "season_id": "14",
+            "order_key": "150",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2008-02-28",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1288,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB Herren Hauptrunde",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "GFRLFVBBHEHR",
+            "season_id": "14",
+            "order_key": "170",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                }
+            ],
+            "deadline": "2008-02-28",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1316,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB Herren Kleinfeld Masterround",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "KFRLFVBBHEMR",
+            "season_id": "14",
+            "order_key": "225",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": "2007-12-31",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1317,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB Herren Kleinfeld Challengeround",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "KFRLFVBBHECR",
+            "season_id": "14",
+            "order_key": "250",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": "2007-12-31",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1289,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB Herren Kleinfeld Hauptrunde",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RLFVBBHEKFHR",
+            "season_id": "14",
+            "order_key": "270",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2007-12-31",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1354,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Ü30 Playoffs",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "UE30_Playoffs",
+            "season_id": "14",
+            "order_key": "350",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": "1992-12-31",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1298,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB U17",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "GFRLFVBBU17",
+            "season_id": "14",
+            "order_key": "390",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "2005-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1291,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB U15 Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "REFVBBU15KF",
+            "season_id": "14",
+            "order_key": "400",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2007-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1292,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB U13 Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RLFVBBU13KF",
+            "season_id": "14",
+            "order_key": "500",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                },
+                {
+                    "game_day_number": 12,
+                    "title": "12. Spieltag"
+                },
+                {
+                    "game_day_number": 13,
+                    "title": "13. Spieltag"
+                }
+            ],
+            "deadline": "2009-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1293,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga FloorballBB U11 Kleinfeld Medi-Tore",
+            "female": false,
+            "enable_scorer": false,
+            "short_name": "RLFVBBU11KFMT",
+            "season_id": "14",
+            "order_key": "600",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                },
+                {
+                    "game_day_number": 12,
+                    "title": "12. Spieltag"
+                }
+            ],
+            "deadline": "2011-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 15,
+            "overtime_length": 5
+        },
+        {
+            "id": 1335,
+            "game_operation_id": 4,
+            "game_operation_name": "Floorball-Verband Baden-Württemberg",
+            "game_operation_short_name": "FVBW",
+            "game_operation_slug": "fvbw",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Süddeutsche Meisterschaft Herren (KF)",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "SDM KF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1211,
+            "game_operation_id": 4,
+            "game_operation_name": "Floorball-Verband Baden-Württemberg",
+            "game_operation_short_name": "FVBW",
+            "game_operation_slug": "fvbw",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Süd (Staffel BW)",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RL GF",
+            "season_id": "14",
+            "order_key": "10",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                },
+                {
+                    "game_day_number": 12,
+                    "title": "12. Spieltag"
+                },
+                {
+                    "game_day_number": 13,
+                    "title": "13. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1259,
+            "game_operation_id": 5,
+            "game_operation_name": "Floorballverband Schleswig-Holstein",
+            "game_operation_short_name": "FLV-SH",
+            "game_operation_slug": "flvsh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Nord Herren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Herren GF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                },
+                {
+                    "game_day_number": 12,
+                    "title": "12. Spieltag"
+                },
+                {
+                    "game_day_number": 13,
+                    "title": "13. Spieltag"
+                },
+                {
+                    "game_day_number": 14,
+                    "title": "14. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1299,
+            "game_operation_id": 5,
+            "game_operation_name": "Floorballverband Schleswig-Holstein",
+            "game_operation_short_name": "FLV-SH",
+            "game_operation_slug": "flvsh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Nord Damen",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "D RL",
+            "season_id": "14",
+            "order_key": "2",
+            "game_day_numbers": [],
+            "game_day_titles": [],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1260,
+            "game_operation_id": 5,
+            "game_operation_name": "Floorballverband Schleswig-Holstein",
+            "game_operation_short_name": "FLV-SH",
+            "game_operation_slug": "flvsh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Nord Herren Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Herren KF RL",
+            "season_id": "14",
+            "order_key": "6",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1341,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Regionalligameisterschaft Ost Herren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RLM",
+            "season_id": "14",
+            "order_key": "4",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1222,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Ost Herren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RLHeGF",
+            "season_id": "14",
+            "order_key": "5",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                },
+                {
+                    "game_day_number": 12,
+                    "title": "12. Spieltag"
+                },
+                {
+                    "game_day_number": 13,
+                    "title": "13. Spieltag"
+                },
+                {
+                    "game_day_number": 14,
+                    "title": "14. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1346,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Playoffs Regionalliga Ost Herren Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "POVLHeKF",
+            "season_id": "14",
+            "order_key": "11",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1224,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Ost Herren Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RLHeKF",
+            "season_id": "14",
+            "order_key": "12",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1348,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Relegation Regionalliga Ost Herren Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RelRLHeKF",
+            "season_id": "14",
+            "order_key": "13",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1347,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Playoffs Regionalliga Ost Damen Kleinfeld",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "PORLDaKF",
+            "season_id": "14",
+            "order_key": "17",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1226,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Ost Damen Kleinfeld",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "RLDaKF",
+            "season_id": "14",
+            "order_key": "18",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1358,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Playoffs Regionalliga Ost U13 Junioren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "PORLU13GF",
+            "season_id": "14",
+            "order_key": "50",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 15,
+            "overtime_length": 5
+        },
+        {
+            "id": 1370,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Playoffs Regionalliga Ost U9 Junioren Kleintor",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "PORLU9KT",
+            "season_id": "14",
+            "order_key": "70",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 15,
+            "overtime_length": 5
+        },
+        {
+            "id": 1272,
+            "game_operation_id": 8,
+            "game_operation_name": "Floorball Verband Hessen",
+            "game_operation_short_name": "FVH",
+            "game_operation_slug": "fvh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "RL West (Hessen) Herren KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RL West (Hessen) Herren KF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2007-10-11",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1274,
+            "game_operation_id": 8,
+            "game_operation_name": "Floorball Verband Hessen",
+            "game_operation_short_name": "FVH",
+            "game_operation_slug": "fvh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "RL West (Hessen) Damen KF",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "RL West (Hessen) Damen KF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [],
+            "game_day_titles": [],
+            "deadline": "2007-10-11",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1270,
+            "game_operation_id": 8,
+            "game_operation_name": "Floorball Verband Hessen",
+            "game_operation_short_name": "FVH",
+            "game_operation_slug": "fvh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "RL Süd-West Damen GF",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "RL Süd-West Damen GF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                }
+            ],
+            "deadline": "2009-09-01",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1332,
+            "game_operation_id": 8,
+            "game_operation_name": "Floorball Verband Hessen",
+            "game_operation_short_name": "FVH",
+            "game_operation_slug": "fvh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "cup",
+            "name": "Final4West",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Final4West",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "2008-01-01",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "cup",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1271,
+            "game_operation_id": 8,
+            "game_operation_name": "Floorball Verband Hessen",
+            "game_operation_short_name": "FVH",
+            "game_operation_slug": "fvh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "RL West (Hessen) Herren GF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RL West (Hessen) Herren GF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                }
+            ],
+            "deadline": "2007-09-11",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1276,
+            "game_operation_id": 8,
+            "game_operation_name": "Floorball Verband Hessen",
+            "game_operation_short_name": "FVH",
+            "game_operation_slug": "fvh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Hessenliga U11 KT",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Hessenliga U11 KT",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": "2012-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 15,
+            "overtime_length": 5
+        },
+        {
+            "id": 1277,
+            "game_operation_id": 8,
+            "game_operation_name": "Floorball Verband Hessen",
+            "game_operation_short_name": "FVH",
+            "game_operation_slug": "fvh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Hessenliga U13 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Hessenliga U13 KF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2010-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1278,
+            "game_operation_id": 8,
+            "game_operation_name": "Floorball Verband Hessen",
+            "game_operation_short_name": "FVH",
+            "game_operation_slug": "fvh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Hessenliga U15 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Hessenliga U15 KF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2008-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1279,
+            "game_operation_id": 8,
+            "game_operation_name": "Floorball Verband Hessen",
+            "game_operation_short_name": "FVH",
+            "game_operation_slug": "fvh",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Hessenliga U17 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Hessenliga U17 KF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2006-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1212,
+            "game_operation_id": 9,
+            "game_operation_name": "Floorball Verband Bayern",
+            "game_operation_short_name": "FVB",
+            "game_operation_slug": "fvb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Süd Staffel Bayern Herren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Regio Süd Herren GF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                }
+            ],
+            "deadline": "2007-12-31",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1214,
+            "game_operation_id": 9,
+            "game_operation_name": "Floorball Verband Bayern",
+            "game_operation_short_name": "FVB",
+            "game_operation_slug": "fvb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga Süd Damen KF",
+            "female": true,
+            "enable_scorer": true,
+            "short_name": "Regio Süd Damen KF",
+            "season_id": "14",
+            "order_key": "3",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": "2009-12-31",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1328,
+            "game_operation_id": 9,
+            "game_operation_name": "Floorball Verband Bayern",
+            "game_operation_short_name": "FVB",
+            "game_operation_slug": "fvb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Süddeutsche Meisterschaft Herren GF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "SDM Herren GF",
+            "season_id": "14",
+            "order_key": "19",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "2007-12-31",
+            "before_deadline": true,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 20,
+            "overtime_length": 10
+        },
+        {
+            "id": 1331,
+            "game_operation_id": 9,
+            "game_operation_name": "Floorball Verband Bayern",
+            "game_operation_short_name": "FVB",
+            "game_operation_slug": "fvb",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Süddeutsche Meisterschaft U15 Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "SDM U15KF",
+            "season_id": "14",
+            "order_key": "20",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": "2008-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1266,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga NRW Kleinfeld Herren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RL KF ",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1338,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Qualifikation deutsche Meisterschaft u 15 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DMQ U 15 KF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": "2007-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1337,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Qualifikation deutsche Meisterschaft U 13 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DMQ U 13",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": "2009-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1336,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Qualifikation deutsche Meisterschaft Herren KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DMQ He. KF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1339,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Qualifikation deutsche Meisterschaft U 17 KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "DMQ U 17 KF",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": "2005-12-31",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "KF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 2,
+            "period_length": 20,
+            "overtime_length": 5
+        },
+        {
+            "id": 1280,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga NRW",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RL NRW",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 15,
+            "overtime_length": 10
+        },
+        {
+            "id": 1258,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga NRW Herren alt",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RL NRW alt",
+            "season_id": "14",
+            "order_key": "1",
+            "game_day_numbers": [
+                1
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                }
+            ],
+            "deadline": null,
+            "before_deadline": null,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 15,
+            "overtime_length": 5
+        },
+        {
+            "id": 1268,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "",
+            "league_class_id": "30",
+            "league_system_id": "",
+            "league_type": "league",
+            "name": "Regionalliga NRW U 17",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "RL U 17",
+            "season_id": "14",
+            "order_key": "4",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "2006-01-01",
+            "before_deadline": false,
+            "legacy_league": false,
+            "field_size": "GF",
+            "league_modus": "league",
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": 3,
+            "period_length": 15,
+            "overtime_length": 5
+        }
+    ]
+}

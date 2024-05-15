@@ -1,0 +1,912 @@
+{
+    "id": 1169,
+    "game_operation_id": 6,
+    "game_operation_name": "SBK Ost",
+    "game_operation_short_name": "SBK Ost",
+    "game_operation_slug": "ost",
+    "league_category_id": "3",
+    "league_class_id": "40",
+    "league_system_id": "1",
+    "league_type": "cup",
+    "name": "Playoffs Verbandsliga Ost Herren Kleinfeld",
+    "female": false,
+    "enable_scorer": true,
+    "short_name": "POVLHeKF",
+    "season_id": "13",
+    "order_key": "20",
+    "game_day_numbers": [
+        1,
+        2
+    ],
+    "game_day_titles": [
+        {
+            "game_day_number": 1,
+            "title": "Runde 1"
+        },
+        {
+            "game_day_number": 2,
+            "title": "Runde 2"
+        }
+    ],
+    "deadline": "",
+    "before_deadline": true,
+    "legacy_league": true,
+    "field_size": null,
+    "league_modus": null,
+    "has_preround": false,
+    "table_modus": "classic",
+    "periods": null,
+    "period_length": null,
+    "overtime_length": null,
+    "similar_leagues": [
+        {
+            "id": 1061,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "1",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Verbandsliga Nordwest Herren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VL H",
+            "season_id": "13",
+            "order_key": "20",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1064,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "2",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Verbandsliga Nordwest Herren (KF)",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VL H (KF)",
+            "season_id": "13",
+            "order_key": "50",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1134,
+            "game_operation_id": 2,
+            "game_operation_name": "Floorball Niedersachsen",
+            "game_operation_short_name": "FVNB",
+            "game_operation_slug": "fvnb",
+            "league_category_id": "2",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Verbandsliga Nordwest Herren (KF)Platzierungsrunde",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VL H (KF)Platzierungsrunde",
+            "season_id": "13",
+            "order_key": "130",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1073,
+            "game_operation_id": 3,
+            "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+            "game_operation_short_name": "FVBB",
+            "game_operation_slug": "fvbb",
+            "league_category_id": "2",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Herren Kleinfeld Verbandsliga",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "FVBBHeKFVL",
+            "season_id": "13",
+            "order_key": "5",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                }
+            ],
+            "deadline": "2007-12-31",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1100,
+            "game_operation_id": 4,
+            "game_operation_name": "Floorball-Verband Baden-Württemberg",
+            "game_operation_short_name": "FVBW",
+            "game_operation_slug": "fvbw",
+            "league_category_id": "2",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Verbandsliga BW (KF)",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VL BW (KF)",
+            "season_id": "13",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                99
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                },
+                {
+                    "game_day_number": 99,
+                    "title": "99. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1162,
+            "game_operation_id": 4,
+            "game_operation_name": "Floorball-Verband Baden-Württemberg",
+            "game_operation_short_name": "FVBW",
+            "game_operation_slug": "fvbw",
+            "league_category_id": "3",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "cup",
+            "name": "Süddeutsche Meisterschaft Herren KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "SDM KF",
+            "season_id": "13",
+            "order_key": "5",
+            "game_day_numbers": [
+                1,
+                2
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "Runde 1"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "Runde 2"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1036,
+            "game_operation_id": 5,
+            "game_operation_name": "Floorballverband Schleswig-Holstein",
+            "game_operation_short_name": "FLV-SH",
+            "game_operation_slug": "flvsh",
+            "league_category_id": "2",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Herren Kleinfeld Verbandsliga Schleswig-Holstein",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Herren KF VL",
+            "season_id": "13",
+            "order_key": "8",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1167,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "4",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "cup",
+            "name": "Playoffs Verbandsliga Ost Herren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "POVLHeGF",
+            "season_id": "13",
+            "order_key": "11",
+            "game_day_numbers": [
+                1,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "Runde 1"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "Runde 3"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1081,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "1",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Verbandsliga Ost Herren",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VLHeGF",
+            "season_id": "13",
+            "order_key": "12",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                9,
+                10,
+                11,
+                12,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                100
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 9,
+                    "title": "9. Spieltag"
+                },
+                {
+                    "game_day_number": 10,
+                    "title": "10. Spieltag"
+                },
+                {
+                    "game_day_number": 11,
+                    "title": "11. Spieltag"
+                },
+                {
+                    "game_day_number": 12,
+                    "title": "12. Spieltag"
+                },
+                {
+                    "game_day_number": 20,
+                    "title": "20. Spieltag"
+                },
+                {
+                    "game_day_number": 21,
+                    "title": "21. Spieltag"
+                },
+                {
+                    "game_day_number": 22,
+                    "title": "22. Spieltag"
+                },
+                {
+                    "game_day_number": 23,
+                    "title": "23. Spieltag"
+                },
+                {
+                    "game_day_number": 24,
+                    "title": "24. Spieltag"
+                },
+                {
+                    "game_day_number": 25,
+                    "title": "25. Spieltag"
+                },
+                {
+                    "game_day_number": 26,
+                    "title": "26. Spieltag"
+                },
+                {
+                    "game_day_number": 100,
+                    "title": "100. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1083,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "2",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Verbandsliga Ost Herren Kleinfeld St. 1",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VLHeKF1",
+            "season_id": "13",
+            "order_key": "21",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1084,
+            "game_operation_id": 6,
+            "game_operation_name": "SBK Ost",
+            "game_operation_short_name": "SBK Ost",
+            "game_operation_slug": "ost",
+            "league_category_id": "2",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Verbandsliga Ost Herren Kleinfeld St. 2",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VLHeKF2",
+            "season_id": "13",
+            "order_key": "22",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1101,
+            "game_operation_id": 9,
+            "game_operation_name": "Floorball Verband Bayern",
+            "game_operation_short_name": "FVB",
+            "game_operation_slug": "fvb",
+            "league_category_id": "2",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Verbandsliga Bayern Herren KF",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "Herren KF",
+            "season_id": "13",
+            "order_key": "2",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                },
+                {
+                    "game_day_number": 6,
+                    "title": "6. Spieltag"
+                },
+                {
+                    "game_day_number": 7,
+                    "title": "7. Spieltag"
+                },
+                {
+                    "game_day_number": 8,
+                    "title": "8. Spieltag"
+                }
+            ],
+            "deadline": "2006-01-01",
+            "before_deadline": false,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1110,
+            "game_operation_id": 10,
+            "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+            "game_operation_short_name": "NWFV",
+            "game_operation_slug": "nwfv",
+            "league_category_id": "2",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "league",
+            "name": "Verbandsliga Kleinfeld",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VL KF",
+            "season_id": "13",
+            "order_key": "3",
+            "game_day_numbers": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "1. Spieltag"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "2. Spieltag"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "3. Spieltag"
+                },
+                {
+                    "game_day_number": 4,
+                    "title": "4. Spieltag"
+                },
+                {
+                    "game_day_number": 5,
+                    "title": "5. Spieltag"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        },
+        {
+            "id": 1098,
+            "game_operation_id": 11,
+            "game_operation_name": "Rheinland-Pfalz/Saar",
+            "game_operation_short_name": "rlpsaar",
+            "game_operation_slug": "rlpsaar",
+            "league_category_id": "3",
+            "league_class_id": "40",
+            "league_system_id": "1",
+            "league_type": "cup",
+            "name": "Verbandsliga Herren Rheinland- Pfalz/ Saarland  (KF)",
+            "female": false,
+            "enable_scorer": true,
+            "short_name": "VL Rheinland- Pfalz/ Saarland (KF)",
+            "season_id": "13",
+            "order_key": "1",
+            "game_day_numbers": [
+                1,
+                2,
+                3
+            ],
+            "game_day_titles": [
+                {
+                    "game_day_number": 1,
+                    "title": "Runde 1"
+                },
+                {
+                    "game_day_number": 2,
+                    "title": "Runde 2"
+                },
+                {
+                    "game_day_number": 3,
+                    "title": "Runde 3"
+                }
+            ],
+            "deadline": "",
+            "before_deadline": true,
+            "legacy_league": true,
+            "field_size": null,
+            "league_modus": null,
+            "has_preround": false,
+            "table_modus": "classic",
+            "periods": null,
+            "period_length": null,
+            "overtime_length": null
+        }
+    ]
+}
