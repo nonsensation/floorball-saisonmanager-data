@@ -1,0 +1,410 @@
+{
+    "id": 34114,
+    "game_number": "24",
+    "start_time": "12:45",
+    "actual_start_time": "12:47",
+    "date": "2023-11-19",
+    "game_day": {
+        "game_day_number": 4,
+        "title": "4. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 75,
+    "home_team_name": "UHC Elster",
+    "guest_team_name": "MFBC Grimma",
+    "home_team_id": 5785,
+    "guest_team_id": 5796,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGtCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--290590413b91d745599e52ba514888de2f2bfab5/139-elster.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGtCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--290590413b91d745599e52ba514888de2f2bfab5/139-elster.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d8ea4ed93fa56d95c4e547b7861b930571eb21ee/20-grimma.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d8ea4ed93fa56d95c4e547b7861b930571eb21ee/20-grimma.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "5:22",
+            "sortkey": "1-05:22",
+            "number": 19,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "13:46",
+            "sortkey": "1-13:46",
+            "number": 32,
+            "assist": 2,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "14:44",
+            "sortkey": "1-14:44",
+            "number": 45,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 3,
+            "time": "8:50",
+            "sortkey": "2-08:50",
+            "number": 9,
+            "assist": 8,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 5,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 3,
+            "time": "10:37",
+            "sortkey": "2-10:37",
+            "number": 32,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 925,
+            "penalty_reason_string": "Reklamieren"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 2,
+            "time": "10:37",
+            "sortkey": "2-10:37"
+        },
+        {
+            "event_id": 6,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 4,
+            "time": "14:58",
+            "sortkey": "2-14:58",
+            "number": 8,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 21847,
+                "player_name": "Gückel",
+                "trikot_number": 24,
+                "player_firstname": "Levin",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 23495,
+                "player_name": "Moldenhauer",
+                "trikot_number": 21,
+                "player_firstname": "Hannah",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21854,
+                "player_name": "Röder",
+                "trikot_number": 23,
+                "player_firstname": "Enni Paula",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24510,
+                "goalkeeper": true,
+                "player_name": "Röder",
+                "trikot_number": 11,
+                "player_firstname": "Vincent",
+                "position": "Tor"
+            },
+            {
+                "player_id": 23498,
+                "player_name": "Jennert",
+                "trikot_number": 17,
+                "player_firstname": "Edda",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23497,
+                "player_name": "Jennert",
+                "trikot_number": 25,
+                "player_firstname": "Hertha",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21843,
+                "player_name": "Tudorica",
+                "trikot_number": 19,
+                "player_firstname": "Serafim",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25408,
+                "player_name": "Aranyosi",
+                "trikot_number": 16,
+                "player_firstname": "Oliver",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21852,
+                "player_name": "Thieme",
+                "trikot_number": 18,
+                "player_firstname": "Tilda",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 24123,
+                "player_name": "Gotter",
+                "trikot_number": 9,
+                "player_firstname": "Hanna",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24122,
+                "player_name": "Gutschale",
+                "trikot_number": 4,
+                "player_firstname": "Antonia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23438,
+                "player_name": "Hörig",
+                "trikot_number": 45,
+                "player_firstname": "Philipp",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23437,
+                "player_name": "Kahnt",
+                "trikot_number": 74,
+                "player_firstname": "Lea Marie",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25312,
+                "player_name": "Knobelsdorf",
+                "trikot_number": 2,
+                "player_firstname": "Vincent",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24124,
+                "player_name": "Motzka",
+                "trikot_number": 88,
+                "player_firstname": "Sophia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24121,
+                "player_name": "Römisch",
+                "trikot_number": 8,
+                "player_firstname": "Franz",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23629,
+                "goalkeeper": true,
+                "player_name": "Scharschmidt",
+                "trikot_number": 97,
+                "player_firstname": "Emil",
+                "position": "Tor"
+            },
+            {
+                "player_id": 24155,
+                "player_name": "Schiller",
+                "trikot_number": 13,
+                "player_firstname": "Lotta",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22458,
+                "player_name": "Schönherr",
+                "trikot_number": 32,
+                "player_firstname": "Henry",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 22672,
+                "player_name": "Weinhold",
+                "trikot_number": 11,
+                "player_firstname": "Henri",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24120,
+                "player_name": "Weinhold",
+                "trikot_number": 85,
+                "player_firstname": "Oskar",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21591,
+                "goalkeeper": true,
+                "player_name": "Wojtyschak",
+                "trikot_number": 86,
+                "player_firstname": "Anton",
+                "position": "Tor"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "1:4",
+    "result": {
+        "home_goals": 1,
+        "guest_goals": 4,
+        "home_goals_period": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            2,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1475,
+    "league_name": "U11 Junioren Kleinfeld Platzierungsrunde Ost",
+    "league_short_name": "PRU11KF",
+    "game_operation_id": 6,
+    "game_operation_name": "SBK Ost",
+    "game_operation_short_name": "SBK Ost",
+    "game_operation_slug": "SBK Ost",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 78,
+    "arena_name": "Seume-Sporthalle",
+    "arena_address": "Colditzer Str. 30, 04668 Grimma",
+    "arena_short": "Grimma, Seume-Sporthalle",
+    "nominated_referees": "Ausrichter",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "1490",
+            "first_name": "Charlotte",
+            "last_name": "Russel"
+        },
+        {
+            "license_id": "6077",
+            "first_name": "Mario",
+            "last_name": "Blümel"
+        }
+    ]
+}

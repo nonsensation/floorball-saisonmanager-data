@@ -1,0 +1,332 @@
+{
+    "id": 32001,
+    "game_number": "2",
+    "start_time": "10:55",
+    "actual_start_time": "10:56",
+    "date": "2023-09-10",
+    "game_day": {
+        "game_day_number": 1,
+        "title": "1. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 55,
+    "home_team_name": "Black Lions Landsberg",
+    "guest_team_name": "Floorball Pinguine Jena",
+    "home_team_id": 5791,
+    "guest_team_id": 5790,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cda7988ec5ddf306487c2509c75eb483068c6f0c/40-blacklionslandsberg.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cda7988ec5ddf306487c2509c75eb483068c6f0c/40-blacklionslandsberg.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--95089c9f6090dfa928fec6dd0c1f6b832f9fc09d/117-jena.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--95089c9f6090dfa928fec6dd0c1f6b832f9fc09d/117-jena.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "3:29",
+            "sortkey": "1-03:29",
+            "number": 17,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "penalty",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "12:55",
+            "sortkey": "2-12:55",
+            "number": 23,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 920,
+            "penalty_reason_string": "Handspiel"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 2,
+            "time": "12:55",
+            "sortkey": "2-12:55"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 23293,
+                "player_name": "England",
+                "trikot_number": 19,
+                "player_firstname": "Valentina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21872,
+                "player_name": "Gwenner",
+                "trikot_number": 15,
+                "player_firstname": "Marius",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24216,
+                "player_name": "Ladenthin",
+                "trikot_number": 18,
+                "player_firstname": "Theodor",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21875,
+                "player_name": "Möser",
+                "trikot_number": 14,
+                "player_firstname": "Rio",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21876,
+                "player_name": "Nitschke",
+                "trikot_number": 21,
+                "player_firstname": "Kilian Leon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21880,
+                "player_name": "Pietsch",
+                "trikot_number": 23,
+                "player_firstname": "Ansgar",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 21881,
+                "player_name": "Schwarzkopf",
+                "trikot_number": 17,
+                "player_firstname": "Albert",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23294,
+                "player_name": "Weber",
+                "trikot_number": 27,
+                "player_firstname": "Emil",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21873,
+                "goalkeeper": true,
+                "player_name": "Wolk",
+                "trikot_number": 16,
+                "player_firstname": "Niklas",
+                "position": "Tor"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 23672,
+                "player_name": "Bernuzzi",
+                "trikot_number": 96,
+                "player_firstname": "Johannes",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23864,
+                "player_name": "Dargatz",
+                "trikot_number": 51,
+                "player_firstname": "Marla",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23671,
+                "player_name": "Dargatz",
+                "trikot_number": 4,
+                "player_firstname": "Tamio",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23726,
+                "player_name": "Große",
+                "trikot_number": 31,
+                "player_firstname": "Felix",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 22280,
+                "goalkeeper": true,
+                "player_name": "Hartmann",
+                "trikot_number": 46,
+                "player_firstname": "Fiona",
+                "position": "Tor"
+            },
+            {
+                "player_id": 22282,
+                "player_name": "Linn",
+                "trikot_number": 42,
+                "player_firstname": "Nora",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23813,
+                "player_name": "Pommerening",
+                "trikot_number": 68,
+                "player_firstname": "Lara",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22278,
+                "player_name": "Rauch",
+                "trikot_number": 39,
+                "player_firstname": "Marek",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22486,
+                "player_name": "Strobel",
+                "trikot_number": 73,
+                "player_firstname": "Jaro",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24310,
+                "player_name": "Nadolny",
+                "trikot_number": 71,
+                "player_firstname": "Wilhelm",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "1:0",
+    "result": {
+        "home_goals": 1,
+        "guest_goals": 0,
+        "home_goals_period": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1412,
+    "league_name": "U11 Junioren Kleinfeld Regionalliga Ost St. 2",
+    "league_short_name": "RLU11KF2",
+    "game_operation_id": 6,
+    "game_operation_name": "SBK Ost",
+    "game_operation_short_name": "SBK Ost",
+    "game_operation_slug": "SBK Ost",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 226,
+    "arena_name": "Sporthalle der BBS",
+    "arena_address": "Tagewerbener Straße 75, 06667 Weißenfels",
+    "arena_short": "Weißenfels, Sporthalle der BBS",
+    "nominated_referees": "Ausrichter",
+    "deletable": false,
+    "notice_type": "",
+    "notice_string": "",
+    "referees": [
+        {
+            "license_id": "0",
+            "first_name": "Florian",
+            "last_name": "Böttcher"
+        },
+        {
+            "license_id": "0",
+            "first_name": "Mika",
+            "last_name": "Blanke"
+        }
+    ]
+}
