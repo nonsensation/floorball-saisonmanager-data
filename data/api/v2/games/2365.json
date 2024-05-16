@@ -1,0 +1,326 @@
+{
+    "id": 2365,
+    "game_number": "20",
+    "start_time": "15:00",
+    "actual_start_time": null,
+    "date": "2017-02-05",
+    "game_day": {
+        "game_day_number": 4,
+        "title": "4. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 11,
+    "home_team_name": "TuS Löwen Lintorf",
+    "guest_team_name": "TV Kalkar",
+    "home_team_id": 271,
+    "guest_team_id": 1368,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9b0ae5a158032ad0bd6fff5577f8f5246bda0146/98-lintorf.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9b0ae5a158032ad0bd6fff5577f8f5246bda0146/98-lintorf.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBmUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c15e66b4e60497c052e66364fc460a6320a89513/156-tvkalkar.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBmUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c15e66b4e60497c052e66364fc460a6320a89513/156-tvkalkar.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "18:15",
+            "sortkey": "1-18:15",
+            "number": 60,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "14:44",
+            "sortkey": "2-14:44",
+            "number": 5,
+            "assist": 11,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 2,
+            "time": "14:44",
+            "sortkey": "2-14:44"
+        },
+        {
+            "event_id": null,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "19:59",
+            "sortkey": "2-19:59",
+            "number": 7,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 915,
+            "penalty_reason_string": "unkorrekter Abstand"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 1448,
+                "goalkeeper": true,
+                "player_name": "Matschy",
+                "trikot_number": 45,
+                "player_firstname": "Alexander",
+                "position": "Tor"
+            },
+            {
+                "player_id": 5672,
+                "player_name": "Brakonier",
+                "trikot_number": 44,
+                "player_firstname": "Sascha",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15536,
+                "player_name": "Graul",
+                "trikot_number": 14,
+                "player_firstname": "Michele",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1001,
+                "player_name": "Klein",
+                "trikot_number": 11,
+                "player_firstname": "David",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4884,
+                "player_name": "Rabenstein",
+                "trikot_number": 23,
+                "player_firstname": "Judith",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 12047,
+                "player_name": "Ritter",
+                "trikot_number": 10,
+                "player_firstname": "Andreas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1259,
+                "player_name": "Schuster",
+                "trikot_number": 19,
+                "player_firstname": "Janina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13734,
+                "player_name": "Simbeck",
+                "trikot_number": 5,
+                "player_firstname": "Yannik",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9692,
+                "player_name": "Wolf",
+                "trikot_number": 33,
+                "player_firstname": "Maximilian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2491,
+                "player_name": "Gottschick",
+                "trikot_number": 16,
+                "player_firstname": "Dietmar",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 8303,
+                "goalkeeper": true,
+                "player_name": "Schwarz",
+                "trikot_number": 1,
+                "player_firstname": "Dennis",
+                "position": "Tor"
+            },
+            {
+                "captain": true,
+                "player_id": 7347,
+                "player_name": "Vermeulen",
+                "trikot_number": 26,
+                "player_firstname": "Andreas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4671,
+                "player_name": "Aymanns",
+                "trikot_number": 4,
+                "player_firstname": "Lennart",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5559,
+                "player_name": "Cronen",
+                "trikot_number": 62,
+                "player_firstname": "Silke",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14707,
+                "player_name": "Kisters",
+                "trikot_number": 52,
+                "player_firstname": "Lukas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4063,
+                "player_name": "Schmidt",
+                "trikot_number": 60,
+                "player_firstname": "Christian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13398,
+                "player_name": "Görtz",
+                "trikot_number": 7,
+                "player_firstname": "Alexander",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14730,
+                "player_name": "Schullenberg",
+                "trikot_number": 61,
+                "player_firstname": "Matthias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7208,
+                "player_name": "Aymans",
+                "trikot_number": 51,
+                "player_firstname": "Justus",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "1:2",
+    "result": {
+        "home_goals": 1,
+        "guest_goals": 2,
+        "home_goals_period": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 416,
+    "league_name": "Verbandsliga West Herren KF",
+    "league_short_name": "VLKF",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 232,
+    "arena_name": "Hochdahl, Rankestraße",
+    "arena_address": "Rankestraße 4-6, 40699 Erkrath",
+    "arena_short": "Erkrath, Hochdahl, Rankestraße",
+    "nominated_referees": "TSV Hochdahl",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": []
+}

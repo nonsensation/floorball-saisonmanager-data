@@ -1,0 +1,344 @@
+{
+    "id": 7542,
+    "game_number": "2",
+    "start_time": "12:15",
+    "actual_start_time": null,
+    "date": "2016-09-25",
+    "game_day": {
+        "game_day_number": 1,
+        "title": "1. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": null,
+    "home_team_name": "TV Eiche Horn Bremen (grün)",
+    "guest_team_name": "TV Eiche Horn Bremen (gelb)",
+    "home_team_id": 518,
+    "guest_team_id": 336,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "04:03",
+            "sortkey": "2-04:03",
+            "number": 22,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "10:40",
+            "sortkey": "2-10:40",
+            "number": 10,
+            "assist": 11,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 2,
+            "time": "15:55",
+            "sortkey": "2-15:55"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "19:12",
+            "sortkey": "2-19:12"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 4230,
+                "goalkeeper": true,
+                "player_name": "Jodeit",
+                "trikot_number": 1,
+                "player_firstname": "Dania",
+                "position": "Tor"
+            },
+            {
+                "player_id": 14837,
+                "player_name": "Eikhorst",
+                "trikot_number": 8,
+                "player_firstname": "Ann-kathrin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14302,
+                "player_name": "Lavagno",
+                "trikot_number": 15,
+                "player_firstname": "Alissa",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14363,
+                "player_name": "Codagnone",
+                "trikot_number": 21,
+                "player_firstname": "Greta",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3295,
+                "player_name": "Noel",
+                "trikot_number": 22,
+                "player_firstname": "Julia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15454,
+                "player_name": "Främbs",
+                "trikot_number": 24,
+                "player_firstname": "Tilia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 791,
+                "player_name": "Teetz",
+                "trikot_number": 33,
+                "player_firstname": "Nina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 707,
+                "player_name": "Werpup",
+                "trikot_number": 49,
+                "player_firstname": "Anne",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 3854,
+                "player_name": "Werpup",
+                "trikot_number": 66,
+                "player_firstname": "Lina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 122,
+                "player_name": "Eikhorst",
+                "trikot_number": 69,
+                "player_firstname": "Patrizia",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 12039,
+                "player_name": "Lüddens",
+                "trikot_number": 6,
+                "player_firstname": "Mara",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5840,
+                "player_name": "Treml",
+                "trikot_number": 10,
+                "player_firstname": "Johanna",
+                "position": "Feld"
+            },
+            {
+                "player_id": 12690,
+                "player_name": "Rathcke",
+                "trikot_number": 11,
+                "player_firstname": "Jonna",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 7219,
+                "player_name": "Treml",
+                "trikot_number": 13,
+                "player_firstname": "Antonia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9658,
+                "player_name": "Mordhorst",
+                "trikot_number": 18,
+                "player_firstname": "Freya",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10531,
+                "player_name": "Stern",
+                "trikot_number": 19,
+                "player_firstname": "Natalie",
+                "position": "Feld"
+            },
+            {
+                "player_id": 587,
+                "player_name": "Gossing",
+                "trikot_number": 21,
+                "player_firstname": "Jasmina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2536,
+                "player_name": "Buchal",
+                "trikot_number": 24,
+                "player_firstname": "Lydia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 502,
+                "player_name": "Zirkelbach",
+                "trikot_number": 26,
+                "player_firstname": "Anna",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5994,
+                "player_name": "Melde",
+                "trikot_number": 33,
+                "player_firstname": "Britta",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14329,
+                "goalkeeper": true,
+                "player_name": "Everlo",
+                "trikot_number": 81,
+                "player_firstname": "Marloes",
+                "position": "Tor"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "1:1 n.V.",
+    "result": {
+        "home_goals": 1,
+        "guest_goals": 1,
+        "home_goals_period": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "n.V.",
+            "long": "nach Verlängerung"
+        },
+        "forfait": false,
+        "overtime": true
+    },
+    "league_id": 402,
+    "league_name": "Regionalliga Nordwest Damen (KF)",
+    "league_short_name": "RL Damen (KF)",
+    "game_operation_id": 2,
+    "game_operation_name": "Floorball Niedersachsen",
+    "game_operation_short_name": "FVNB",
+    "game_operation_slug": "FVNB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 100,
+    "arena_name": "Sportzentrum Eiche Horn",
+    "arena_address": "Berckstraße 87, 28359 Bremen",
+    "arena_short": "Bremen, Sportzentrum Eiche Horn",
+    "nominated_referees": "Floorball Falcons Wahnbek",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "748",
+            "first_name": "Martin",
+            "last_name": "Günther"
+        },
+        {
+            "license_id": "3508",
+            "first_name": "Jennifer",
+            "last_name": "Winkler"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": 22535,
+    "game_number": "22",
+    "start_time": "11:15",
+    "actual_start_time": null,
+    "date": "2021-02-14",
+    "game_day": {
+        "game_day_number": 5,
+        "title": "5. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": null,
+    "home_team_name": "TV Augsburg",
+    "guest_team_name": "SG Donau Floorball Ingolstadt / Nordheim / Haunwöhr",
+    "home_team_id": 4321,
+    "guest_team_id": 4334,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1k9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10479296baaa60c5071dc18e25b58123b71907ae/37-augsburg.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1k9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10479296baaa60c5071dc18e25b58123b71907ae/37-augsburg.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY0E9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0aac0cf23aa1a9d10339c88f4f2e48434cf3089a/109-ingolstadt.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY0E9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0aac0cf23aa1a9d10339c88f4f2e48434cf3089a/109-ingolstadt.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [],
+    "players": {},
+    "started": false,
+    "ended": false,
+    "result_string": null,
+    "result": null,
+    "league_id": 1015,
+    "league_name": "Verbandsliga Bayern Herren KF",
+    "league_short_name": "Herren KF",
+    "game_operation_id": 9,
+    "game_operation_name": "Floorball Verband Bayern",
+    "game_operation_short_name": "FVB",
+    "game_operation_slug": "FVB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 513,
+    "arena_name": "Friedrich-Ebert-Mittelschule",
+    "arena_address": "Friedrich-Ebert-Straße 18, 86199 Augsburg",
+    "arena_short": "Augsburg, Friedrich-Ebert-Mittelschule",
+    "nominated_referees": "",
+    "deletable": true,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": []
+}

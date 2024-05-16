@@ -1,0 +1,133 @@
+{
+    "id": 10837,
+    "game_number": "21",
+    "start_time": "12:20",
+    "actual_start_time": null,
+    "date": "2018-02-17",
+    "game_day": {
+        "game_day_number": 4,
+        "title": "4. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": null,
+    "home_team_name": "Bredstedter TSV",
+    "guest_team_name": "PSV Flensburg",
+    "home_team_id": 2079,
+    "guest_team_id": 2083,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYWM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--676d3d9a939d26657b52384f4ccefe9618683420/206-bredstedtertsv.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYWM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--676d3d9a939d26657b52384f4ccefe9618683420/206-bredstedtertsv.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBXUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e822721828892ec0e055a13377823b03daafff58/108-psvflensburg.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBXUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e822721828892ec0e055a13377823b03daafff58/108-psvflensburg.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [],
+    "players": {},
+    "started": false,
+    "ended": false,
+    "result_string": "0:8",
+    "result": {
+        "home_goals": 0,
+        "guest_goals": 8,
+        "home_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": " (forfait)",
+            "long": " kampflos"
+        },
+        "forfait": true,
+        "overtime": false
+    },
+    "league_id": 502,
+    "league_name": "Damen Kleinfeld Regionalliga Nord",
+    "league_short_name": "Damen KF RL",
+    "game_operation_id": 5,
+    "game_operation_name": "Floorballverband Schleswig-Holstein",
+    "game_operation_short_name": "FLV-SH",
+    "game_operation_slug": "FLV-SH",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 336,
+    "arena_name": "Schulzentrum Achter de Weiden",
+    "arena_address": "Achter de Weiden 32, 22869 Schenefeld",
+    "arena_short": "Schenefeld, Schulzentrum Achter de Weiden",
+    "nominated_referees": "GTV",
+    "deletable": true,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": []
+}

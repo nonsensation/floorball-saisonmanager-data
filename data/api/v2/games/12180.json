@@ -1,0 +1,309 @@
+{
+    "id": 12180,
+    "game_number": "33",
+    "start_time": "13:00",
+    "actual_start_time": null,
+    "date": "2018-02-24",
+    "game_day": {
+        "game_day_number": 6,
+        "title": "6. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 25,
+    "home_team_name": "Eisbären Juniors Berlin",
+    "guest_team_name": "Berliner FK Juniors",
+    "home_team_id": 1770,
+    "guest_team_id": 1765,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26d2fd957ffe99d427c3ed6b7f4e0f960347ae4a/203-berlinjuniors.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26d2fd957ffe99d427c3ed6b7f4e0f960347ae4a/203-berlinjuniors.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a15bcaf40e4d63e1983a893ab732f7e1235a224b/97-berlinerfk.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a15bcaf40e4d63e1983a893ab732f7e1235a224b/97-berlinerfk.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "7:39",
+            "sortkey": "1-07:39",
+            "number": 45,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "14:26",
+            "sortkey": "1-14:26",
+            "number": 45,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 2,
+            "time": "9:18",
+            "sortkey": "2-09:18"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 0,
+            "time": "17:52",
+            "sortkey": "2-17:52",
+            "number": 45,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 4,
+            "guest_goals": 0,
+            "time": "25:51",
+            "sortkey": "2-25:51",
+            "number": 9,
+            "assist": 41,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 16958,
+                "goalkeeper": true,
+                "player_name": "Surigin",
+                "trikot_number": 1,
+                "player_firstname": "Valeria ",
+                "position": "Tor"
+            },
+            {
+                "captain": true,
+                "player_id": 16959,
+                "player_name": "Mirwald",
+                "trikot_number": 9,
+                "player_firstname": "Philipp",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16947,
+                "player_name": "Reichert",
+                "trikot_number": 29,
+                "player_firstname": "Vincent",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17261,
+                "goalkeeper": true,
+                "player_name": "von Maikowski",
+                "trikot_number": 31,
+                "player_firstname": "Lea",
+                "position": "Tor"
+            },
+            {
+                "player_id": 16965,
+                "player_name": "Kaiser",
+                "trikot_number": 41,
+                "player_firstname": "Diego Joe",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16953,
+                "player_name": "von Baehr",
+                "trikot_number": 45,
+                "player_firstname": "Timon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17250,
+                "player_name": "Brunner",
+                "trikot_number": 50,
+                "player_firstname": "Josef",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16952,
+                "player_name": "Löhlein",
+                "trikot_number": 53,
+                "player_firstname": "Peer",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 16937,
+                "player_name": "Kirchhof",
+                "trikot_number": 3,
+                "player_firstname": "Stephan",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16932,
+                "player_name": "Pajonzeck",
+                "trikot_number": 5,
+                "player_firstname": "Florian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16931,
+                "player_name": "Ehrlich",
+                "trikot_number": 6,
+                "player_firstname": "Niclas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16934,
+                "goalkeeper": true,
+                "player_name": "Pietschmann",
+                "trikot_number": 22,
+                "player_firstname": "Janik",
+                "position": "Tor"
+            },
+            {
+                "captain": true,
+                "player_id": 16938,
+                "player_name": "Siewczynski",
+                "trikot_number": 4,
+                "player_firstname": "Dario",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16936,
+                "player_name": "Thumernicht",
+                "trikot_number": 10,
+                "player_firstname": "Lars",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "4:0",
+    "result": {
+        "home_goals": 4,
+        "guest_goals": 0,
+        "home_goals_period": [
+            2,
+            2,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 449,
+    "league_name": "U13 Kleinfeld Regionalliga",
+    "league_short_name": "U13KFRL",
+    "game_operation_id": 3,
+    "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+    "game_operation_short_name": "FVBB",
+    "game_operation_slug": "FVBB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 516,
+    "arena_name": "Kolibri-Grundschule",
+    "arena_address": "Schönewalderstr. 9, 12627 Berlin",
+    "arena_short": "Berlin, Kolibri-Grundschule",
+    "nominated_referees": "Rangsdorf",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "3368",
+            "first_name": "Andreas",
+            "last_name": "Galow"
+        }
+    ]
+}

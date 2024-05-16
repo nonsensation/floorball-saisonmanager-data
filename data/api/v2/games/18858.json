@@ -1,0 +1,338 @@
+{
+    "id": 18858,
+    "game_number": "3",
+    "start_time": "12:30",
+    "actual_start_time": null,
+    "date": "2019-10-06",
+    "game_day": {
+        "game_day_number": 1,
+        "title": "1. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 30,
+    "home_team_name": "BTG Teutonia Bielefeld",
+    "guest_team_name": "SG Floorball Steinfurt",
+    "home_team_id": 3526,
+    "guest_team_id": 3525,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYlU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--993dbaec6b3e7d67207b9eb2459d21d179dcbba0/89-bielefeldertg.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYlU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--993dbaec6b3e7d67207b9eb2459d21d179dcbba0/89-bielefeldertg.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1U9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--017f17378573ab63ccbd9ae76f8bd73f1b069176/205-fsvsteinfurt.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1U9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--017f17378573ab63ccbd9ae76f8bd73f1b069176/205-fsvsteinfurt.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "02:43",
+            "sortkey": "1-02:43",
+            "number": 30,
+            "assist": 27,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "18:40",
+            "sortkey": "1-18:40",
+            "number": 39,
+            "assist": 19,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "19:01",
+            "sortkey": "1-19:01",
+            "number": 30,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 3,
+            "time": "03:39",
+            "sortkey": "2-03:39",
+            "number": 27,
+            "assist": 30,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "17:59",
+            "sortkey": "2-17:59"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 4,
+            "time": "18:49",
+            "sortkey": "2-18:49",
+            "number": 25,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 19700,
+                "player_name": "Britt",
+                "trikot_number": 42,
+                "player_firstname": "Kim",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 19701,
+                "player_name": "Britt",
+                "trikot_number": 20,
+                "player_firstname": "Leon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19697,
+                "player_name": "Buchholz",
+                "trikot_number": 13,
+                "player_firstname": "Maximilian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19705,
+                "player_name": "Fast",
+                "trikot_number": 39,
+                "player_firstname": "Dominic",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19696,
+                "goalkeeper": true,
+                "player_name": "Lutz",
+                "trikot_number": 21,
+                "player_firstname": "Nathanael",
+                "position": "Tor"
+            },
+            {
+                "player_id": 19703,
+                "player_name": "Soll",
+                "trikot_number": 14,
+                "player_firstname": "Julius",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19706,
+                "player_name": "Stückemann",
+                "trikot_number": 33,
+                "player_firstname": "Teetje",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19702,
+                "player_name": "von Ahlen",
+                "trikot_number": 19,
+                "player_firstname": "David",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19707,
+                "player_name": "Weber",
+                "trikot_number": 23,
+                "player_firstname": "Neo",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 18020,
+                "goalkeeper": true,
+                "player_name": "Czerniawski",
+                "trikot_number": 1,
+                "player_firstname": "Jakub",
+                "position": "Tor"
+            },
+            {
+                "player_id": 18218,
+                "player_name": "Borneck",
+                "trikot_number": 25,
+                "player_firstname": "Lars",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19749,
+                "goalkeeper": true,
+                "player_name": "Darley",
+                "trikot_number": 12,
+                "player_firstname": "Ilka ",
+                "position": "Tor"
+            },
+            {
+                "captain": true,
+                "player_id": 19748,
+                "player_name": "Darley",
+                "trikot_number": 30,
+                "player_firstname": "Severin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19750,
+                "player_name": "Darley",
+                "trikot_number": 3,
+                "player_firstname": "Laurenz",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19751,
+                "player_name": "Kleimeier",
+                "trikot_number": 9,
+                "player_firstname": "Eva",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7001,
+                "player_name": "Grüneklee",
+                "trikot_number": 27,
+                "player_firstname": "Paul",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "1:4",
+    "result": {
+        "home_goals": 1,
+        "guest_goals": 4,
+        "home_goals_period": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            2,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 849,
+    "league_name": "Verbandsliga U 15 Kleinfeld",
+    "league_short_name": "U 15 KFVL",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 162,
+    "arena_name": "Schulzentrum Roxel",
+    "arena_address": "Tillbecker Straße 34, 48161 Münster",
+    "arena_short": "Münster, Schulzentrum Roxel",
+    "nominated_referees": "DJK Ennepetal",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "3946",
+            "first_name": "Torben",
+            "last_name": "Thiel"
+        }
+    ]
+}

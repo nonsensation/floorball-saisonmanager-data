@@ -1,0 +1,112 @@
+{
+    "id": 23226,
+    "game_number": "7",
+    "start_time": "11:00",
+    "actual_start_time": null,
+    "date": "2021-02-27",
+    "game_day": {
+        "game_day_number": 3,
+        "title": "3. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": null,
+    "home_team_name": "SV 03 Tübingen Sharks",
+    "guest_team_name": "Sportvg Feuerbach",
+    "home_team_id": 4284,
+    "guest_team_id": 4289,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85485697516eb810bce15e413f7a2674d573ca38/190-tuebingen.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85485697516eb810bce15e413f7a2674d573ca38/190-tuebingen.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [],
+    "players": {},
+    "started": false,
+    "ended": false,
+    "result_string": null,
+    "result": null,
+    "league_id": 1014,
+    "league_name": "Regionalliga Südwest U11 (KF)",
+    "league_short_name": "U11 (KF)",
+    "game_operation_id": 4,
+    "game_operation_name": "Floorball-Verband Baden-Württemberg",
+    "game_operation_short_name": "FVBW",
+    "game_operation_slug": "FVBW",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 360,
+    "arena_name": "Hugo-Kunzi-Halle",
+    "arena_address": "Am Sportpark 4, 70469 Stuttgart",
+    "arena_short": "Stuttgart, Hugo-Kunzi-Halle",
+    "nominated_referees": "Calw",
+    "deletable": true,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": []
+}

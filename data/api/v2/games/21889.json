@@ -1,0 +1,112 @@
+{
+    "id": 21889,
+    "game_number": "17",
+    "start_time": "11:15",
+    "actual_start_time": null,
+    "date": "2021-01-23",
+    "game_day": {
+        "game_day_number": 4,
+        "title": "4. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": null,
+    "home_team_name": "Hannover 96",
+    "guest_team_name": "TB Uphusen Vikings",
+    "home_team_id": 4116,
+    "guest_team_id": 4145,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWlE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9cd6ab4f9abfacadc94369137f4cea0637d7d72b/43-uphusenvikings.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWlE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9cd6ab4f9abfacadc94369137f4cea0637d7d72b/43-uphusenvikings.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [],
+    "players": {},
+    "started": false,
+    "ended": false,
+    "result_string": null,
+    "result": null,
+    "league_id": 980,
+    "league_name": "Verbandsliga Nordwest Herren (KF)",
+    "league_short_name": "VL H (KF)",
+    "game_operation_id": 2,
+    "game_operation_name": "Floorball Niedersachsen",
+    "game_operation_short_name": "FVNB",
+    "game_operation_slug": "FVNB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 65,
+    "arena_name": "Sporthalle Arenkamp",
+    "arena_address": "Arenkamp , 28832 Achim",
+    "arena_short": "Achim, Sporthalle Arenkamp",
+    "nominated_referees": "SV Nordenham",
+    "deletable": true,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": []
+}

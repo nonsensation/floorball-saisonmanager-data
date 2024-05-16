@@ -1,0 +1,323 @@
+{
+    "id": 5638,
+    "game_number": "20",
+    "start_time": "11:05",
+    "actual_start_time": null,
+    "date": "2017-02-05",
+    "game_day": {
+        "game_day_number": 4,
+        "title": "4. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 35,
+    "home_team_name": "BW96 Schenefeld",
+    "guest_team_name": "TuRa Meldorf",
+    "home_team_id": 124,
+    "guest_team_id": 174,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb18cc21afc2e7d181f9f9e22c6a7ee1d739330f/68-schenefeld.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5139fd40079673d3fca8effa8da3bd7a0cbf6bbe/100-meldorf.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5139fd40079673d3fca8effa8da3bd7a0cbf6bbe/100-meldorf.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "8:57",
+            "sortkey": "1-08:57",
+            "number": 9,
+            "assist": 22,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "16:26",
+            "sortkey": "1-16:26",
+            "number": 75,
+            "assist": 28,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "17:44",
+            "sortkey": "2-17:44"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 13265,
+                "goalkeeper": true,
+                "player_name": "Scherpe",
+                "trikot_number": 1,
+                "player_firstname": "Detlef",
+                "position": "Tor"
+            },
+            {
+                "player_id": 1973,
+                "player_name": "Tietgen",
+                "trikot_number": 4,
+                "player_firstname": "Sven",
+                "position": "Feld"
+            },
+            {
+                "player_id": 8883,
+                "player_name": "Sigmund",
+                "trikot_number": 7,
+                "player_firstname": "Johannes",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9103,
+                "player_name": "Matousek",
+                "trikot_number": 9,
+                "player_firstname": "Miroslav",
+                "position": "Feld"
+            },
+            {
+                "player_id": 755,
+                "player_name": "Karevaara",
+                "trikot_number": 11,
+                "player_firstname": "Teemu",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7172,
+                "player_name": "Hrouda",
+                "trikot_number": 13,
+                "player_firstname": "Peter",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7790,
+                "player_name": "Madsen",
+                "trikot_number": 22,
+                "player_firstname": "Thore",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 10699,
+                "player_name": "Thiell",
+                "trikot_number": 33,
+                "player_firstname": "Bernd",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11489,
+                "player_name": "Urban",
+                "trikot_number": 54,
+                "player_firstname": "Madeleine",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 2693,
+                "goalkeeper": true,
+                "player_name": "Melsa-Hagge",
+                "trikot_number": 1,
+                "player_firstname": "Steffen",
+                "position": "Tor"
+            },
+            {
+                "player_id": 14636,
+                "player_name": "Meers",
+                "trikot_number": 11,
+                "player_firstname": "Manuela",
+                "position": "Feld"
+            },
+            {
+                "player_id": 387,
+                "player_name": "Martens",
+                "trikot_number": 14,
+                "player_firstname": "Ilka",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11998,
+                "player_name": "Schär",
+                "trikot_number": 15,
+                "player_firstname": "Dirk",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4090,
+                "player_name": "Rißmann",
+                "trikot_number": 23,
+                "player_firstname": "Ulf",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 7841,
+                "player_name": "Calsen",
+                "trikot_number": 26,
+                "player_firstname": "Joachim",
+                "position": "Feld"
+            },
+            {
+                "player_id": 8671,
+                "player_name": "Evers",
+                "trikot_number": 28,
+                "player_firstname": "Lutz",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6611,
+                "player_name": "Witt",
+                "trikot_number": 75,
+                "player_firstname": "Reimer",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7632,
+                "player_name": "Janßen",
+                "trikot_number": 76,
+                "player_firstname": "Daniel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1580,
+                "player_name": "Szelat",
+                "trikot_number": 99,
+                "player_firstname": "Rainer",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "1:1 n.V.",
+    "result": {
+        "home_goals": 1,
+        "guest_goals": 1,
+        "home_goals_period": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "n.V.",
+            "long": "nach Verlängerung"
+        },
+        "forfait": false,
+        "overtime": true
+    },
+    "league_id": 401,
+    "league_name": "Ü30 Kleinfeld Regionalliga Nord",
+    "league_short_name": "Ü30 RL",
+    "game_operation_id": 5,
+    "game_operation_name": "Floorballverband Schleswig-Holstein",
+    "game_operation_short_name": "FLV-SH",
+    "game_operation_slug": "FLV-SH",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 208,
+    "arena_name": "Großsporthalle",
+    "arena_address": "Büttelsweg , 25704 Meldorf",
+    "arena_short": "Meldorf, Großsporthalle",
+    "nominated_referees": "NWI",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "2270",
+            "first_name": "Thomas",
+            "last_name": "Dethlefsen"
+        },
+        {
+            "license_id": "2069",
+            "first_name": "Simon",
+            "last_name": "Ramm"
+        }
+    ]
+}

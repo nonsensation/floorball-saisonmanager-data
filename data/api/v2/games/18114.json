@@ -1,0 +1,312 @@
+{
+    "id": 18114,
+    "game_number": "11",
+    "start_time": "12:50",
+    "actual_start_time": null,
+    "date": "2020-01-11",
+    "game_day": {
+        "game_day_number": 3,
+        "title": "3. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 20,
+    "home_team_name": "TuRa Meldorf",
+    "guest_team_name": "MTSV Hohenwestedt",
+    "home_team_id": 3367,
+    "guest_team_id": 3368,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5139fd40079673d3fca8effa8da3bd7a0cbf6bbe/100-meldorf.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5139fd40079673d3fca8effa8da3bd7a0cbf6bbe/100-meldorf.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBaUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--af3852bebca49ffa73242fe38f9fd84629ebf138/106-hohenwestedt.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBaUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--af3852bebca49ffa73242fe38f9fd84629ebf138/106-hohenwestedt.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "08:58",
+            "sortkey": "1-08:58",
+            "number": 7,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "17:18",
+            "sortkey": "1-17:18",
+            "number": 7,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 3,
+            "time": "03:03",
+            "sortkey": "2-03:03",
+            "number": 12,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 2,
+            "time": "07:56",
+            "sortkey": "2-07:56",
+            "number": 12,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "07:56",
+            "sortkey": "2-07:56"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 1,
+            "time": "16:31",
+            "sortkey": "2-16:31",
+            "number": 12,
+            "assist": 4,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 19179,
+                "goalkeeper": true,
+                "player_name": "Heuer",
+                "trikot_number": 1,
+                "player_firstname": "Marlene",
+                "position": "Tor"
+            },
+            {
+                "player_id": 15900,
+                "player_name": "Hosseini",
+                "trikot_number": 7,
+                "player_firstname": "Hossein",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 15829,
+                "player_name": "Hack",
+                "trikot_number": 8,
+                "player_firstname": "Lyonell",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19626,
+                "player_name": "Becker",
+                "trikot_number": 14,
+                "player_firstname": "Mirko",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15989,
+                "player_name": "Bartel",
+                "trikot_number": 22,
+                "player_firstname": "Finja Nené",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 8613,
+                "goalkeeper": true,
+                "player_name": "von Wahl",
+                "trikot_number": 1,
+                "player_firstname": "Oke ",
+                "position": "Tor"
+            },
+            {
+                "player_id": 20101,
+                "player_name": "Pfeiffer",
+                "trikot_number": 2,
+                "player_firstname": "Nele",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20100,
+                "player_name": "Heinacher",
+                "trikot_number": 3,
+                "player_firstname": "Elin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1247,
+                "player_name": "Warncke",
+                "trikot_number": 4,
+                "player_firstname": "Jan-Luca",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1543,
+                "player_name": "Figule",
+                "trikot_number": 6,
+                "player_firstname": "Simon Manuel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11676,
+                "player_name": "Theede",
+                "trikot_number": 8,
+                "player_firstname": "Julian Christopher",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 12320,
+                "player_name": "Claussen",
+                "trikot_number": 12,
+                "player_firstname": "Kevin",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "2:3",
+    "result": {
+        "home_goals": 2,
+        "guest_goals": 3,
+        "home_goals_period": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            3,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 833,
+    "league_name": "U17 Kleinfeld Verbandsliga Nord",
+    "league_short_name": "U17 KF VL",
+    "game_operation_id": 5,
+    "game_operation_name": "Floorballverband Schleswig-Holstein",
+    "game_operation_short_name": "FLV-SH",
+    "game_operation_slug": "FLV-SH",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 576,
+    "arena_name": "Albinus-Gemeinschaftsschule",
+    "arena_address": "Schulstr. 1, 21481 Lauenburg",
+    "arena_short": "Lauenburg, Albinus-Gemeinschaftsschule",
+    "nominated_referees": "GTV",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "5221",
+            "first_name": "Julia",
+            "last_name": "Wichelmann"
+        },
+        {
+            "license_id": "5175",
+            "first_name": "Carmen",
+            "last_name": "Heise"
+        }
+    ]
+}
