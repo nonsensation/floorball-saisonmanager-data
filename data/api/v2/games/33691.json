@@ -1,0 +1,301 @@
+{
+    "id": 33691,
+    "game_number": "2",
+    "start_time": "11:00",
+    "actual_start_time": "10:58",
+    "date": "2023-10-14",
+    "game_day": {
+        "game_day_number": 1,
+        "title": "1. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 98,
+    "home_team_name": "Berlin Rockets",
+    "guest_team_name": "RSV Eintracht 1949",
+    "home_team_id": 5998,
+    "guest_team_id": 5992,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f62a30a93a375afd70ffc4ff2f966a1c42a9cf3e/240-rsveintracht.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f62a30a93a375afd70ffc4ff2f966a1c42a9cf3e/240-rsveintracht.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "4:53",
+            "sortkey": "1-04:53",
+            "number": 6,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 2,
+            "time": "7:06",
+            "sortkey": "1-07:06",
+            "number": 4,
+            "assist": 7,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 0,
+            "guest_goals": 3,
+            "time": "4:54",
+            "sortkey": "2-04:54",
+            "number": 6,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 24294,
+                "player_name": "Ahrens",
+                "trikot_number": 48,
+                "player_firstname": "Aurelia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25092,
+                "player_name": "Hass",
+                "trikot_number": 2,
+                "player_firstname": "Sam",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24306,
+                "goalkeeper": true,
+                "player_name": "Marquardt",
+                "trikot_number": 1,
+                "player_firstname": "Luuk",
+                "position": "Tor"
+            },
+            {
+                "player_id": 24444,
+                "player_name": "Blüthgen",
+                "trikot_number": 6,
+                "player_firstname": "Nora",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 24843,
+                "player_name": "Ebermann",
+                "trikot_number": 5,
+                "player_firstname": "Lene",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24839,
+                "player_name": "Hundertmark",
+                "trikot_number": 8,
+                "player_firstname": "Justus",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24838,
+                "player_name": "Kniesche",
+                "trikot_number": 6,
+                "player_firstname": "Leano",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24837,
+                "goalkeeper": true,
+                "player_name": "Kowalski",
+                "trikot_number": 9,
+                "player_firstname": "Leon",
+                "position": "Tor"
+            },
+            {
+                "player_id": 24840,
+                "player_name": "Kühnel",
+                "trikot_number": 7,
+                "player_firstname": "Max",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24845,
+                "player_name": "Mühlberg",
+                "trikot_number": 3,
+                "player_firstname": "Anna",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24842,
+                "player_name": "Stubbe",
+                "trikot_number": 4,
+                "player_firstname": "Mathe",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25088,
+                "player_name": "Weidner",
+                "trikot_number": 10,
+                "player_firstname": "Jonas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25087,
+                "player_name": "Weidner",
+                "trikot_number": 11,
+                "player_firstname": "Niklas",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 24841,
+                "player_name": "Zimmermann",
+                "trikot_number": 12,
+                "player_firstname": "Albert",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "0:3",
+    "result": {
+        "home_goals": 0,
+        "guest_goals": 3,
+        "home_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            1,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1461,
+    "league_name": "U9 Kleinfeld",
+    "league_short_name": "U9KF",
+    "game_operation_id": 3,
+    "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+    "game_operation_short_name": "FVBB",
+    "game_operation_slug": "FVBB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 448,
+    "arena_name": "Mehrzweckhalle Mellensee",
+    "arena_address": "Hauptstraße 21, 15834 Am Mellensee",
+    "arena_short": "Am Mellensee, Mehrzweckhalle Mellensee",
+    "nominated_referees": "SC Potsdam",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "0",
+            "first_name": "Thomas",
+            "last_name": "Grebe"
+        },
+        {
+            "license_id": "5522",
+            "first_name": "Sascha",
+            "last_name": "Ahrens"
+        }
+    ]
+}

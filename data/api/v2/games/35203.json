@@ -1,0 +1,410 @@
+{
+    "id": 35203,
+    "game_number": "15",
+    "start_time": "13:45",
+    "actual_start_time": "13:45",
+    "date": "2024-04-14",
+    "game_day": {
+        "game_day_number": 3,
+        "title": "3. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 39,
+    "home_team_name": "Osnabrücker SC",
+    "guest_team_name": "TV Dinklage",
+    "home_team_id": 6333,
+    "guest_team_id": 6336,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd2cf303bf0f236f86ed3fcdcff8d7d5fa44cf01/54-osnabrueck.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd2cf303bf0f236f86ed3fcdcff8d7d5fa44cf01/54-osnabrueck.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58525cb11a2239cef5c9282e61bea17ba282c615/118-dinklage.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58525cb11a2239cef5c9282e61bea17ba282c615/118-dinklage.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "10:03",
+            "sortkey": "1-10:03",
+            "number": 27,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "11:02",
+            "sortkey": "1-11:02",
+            "number": 23,
+            "assist": 17,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 3,
+            "guest_goals": 0,
+            "time": "11:21",
+            "sortkey": "1-11:21",
+            "number": 6,
+            "assist": 27,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 4,
+            "event_type": "penalty",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 3,
+            "guest_goals": 0,
+            "time": "12:16",
+            "sortkey": "1-12:16",
+            "number": 6,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 915,
+            "penalty_reason_string": "unkorrekter Abstand"
+        },
+        {
+            "event_id": 5,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 3,
+            "guest_goals": 1,
+            "time": "13:10",
+            "sortkey": "1-13:10",
+            "number": 10,
+            "assist": 12,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 6,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 3,
+            "guest_goals": 2,
+            "time": "18:28",
+            "sortkey": "1-18:28",
+            "number": 4,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 2,
+            "time": "5:54",
+            "sortkey": "2-05:54"
+        },
+        {
+            "event_id": 7,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 3,
+            "time": "15:45",
+            "sortkey": "2-15:45",
+            "number": 12,
+            "assist": 85,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 8,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 4,
+            "guest_goals": 3,
+            "time": "16:24",
+            "sortkey": "2-16:24",
+            "number": 23,
+            "assist": 17,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "16:24",
+            "sortkey": "2-16:24"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 1008,
+                "player_name": "Balitzki",
+                "trikot_number": 27,
+                "player_firstname": "Markus",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10174,
+                "player_name": "Hartmann",
+                "trikot_number": 92,
+                "player_firstname": "Sarah-Linn",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 21407,
+                "player_name": "Jasper",
+                "trikot_number": 17,
+                "player_firstname": "Simon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 24360,
+                "player_name": "Kamolz",
+                "trikot_number": 19,
+                "player_firstname": "Lidia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16770,
+                "player_name": "Mai",
+                "trikot_number": 6,
+                "player_firstname": "Johnny",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13983,
+                "player_name": "Sass",
+                "trikot_number": 23,
+                "player_firstname": "Antonia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21739,
+                "player_name": "Wöltge",
+                "trikot_number": 73,
+                "player_firstname": "Roman",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23910,
+                "player_name": "Ziegler",
+                "trikot_number": 94,
+                "player_firstname": "Carolina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22890,
+                "goalkeeper": true,
+                "player_name": "Wiens",
+                "trikot_number": 99,
+                "player_firstname": "Thomas",
+                "position": "Tor"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 11308,
+                "goalkeeper": true,
+                "player_name": "Kaiser",
+                "trikot_number": 17,
+                "player_firstname": "Steffen",
+                "position": "Tor"
+            },
+            {
+                "player_id": 7874,
+                "player_name": "Ruholl",
+                "trikot_number": 85,
+                "player_firstname": "Daniel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4158,
+                "player_name": "Kaluschke",
+                "trikot_number": 8,
+                "player_firstname": "Tobias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23046,
+                "player_name": "Tabeling",
+                "trikot_number": 4,
+                "player_firstname": "Matti",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25721,
+                "player_name": "Bittner",
+                "trikot_number": 66,
+                "player_firstname": "Luke",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23796,
+                "player_name": "Naß",
+                "trikot_number": 97,
+                "player_firstname": "Jonathan",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6816,
+                "player_name": "Albers",
+                "trikot_number": 10,
+                "player_firstname": "Philipp",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 14851,
+                "player_name": "Arns-Bünnemeyer",
+                "trikot_number": 12,
+                "player_firstname": "Michael",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "4:3",
+    "result": {
+        "home_goals": 4,
+        "guest_goals": 3,
+        "home_goals_period": [
+            3,
+            1,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            1,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1512,
+    "league_name": "Platzierungsrunde Herren KF Regionalliga Nordwest",
+    "league_short_name": "PL Herren KF RL NW",
+    "game_operation_id": 2,
+    "game_operation_name": "Floorball Niedersachsen",
+    "game_operation_short_name": "FVNB",
+    "game_operation_slug": "FVNB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 95,
+    "arena_name": "Graf-Stauffenberg-Gymnasium",
+    "arena_address": "Gottlieb-Planck-Str. 1, 49080 Osnabrück",
+    "arena_short": "Osnabrück, Graf-Stauffenberg-Gymnasium",
+    "nominated_referees": "Sailors Bremerhaven",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "0",
+            "first_name": "Mathias",
+            "last_name": "Bruhn"
+        },
+        {
+            "license_id": "745",
+            "first_name": "Kevin",
+            "last_name": "Priewe"
+        }
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "id": 28595,
+    "game_number": "50",
+    "start_time": "14:45",
+    "actual_start_time": "20:50",
+    "date": "2023-04-29",
+    "game_day": {
+        "game_day_number": 11,
+        "title": "11. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 50,
+    "home_team_name": "RSV Eintracht 1949",
+    "guest_team_name": "Berlin Rockets",
+    "home_team_id": 5452,
+    "guest_team_id": 5451,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f62a30a93a375afd70ffc4ff2f966a1c42a9cf3e/240-rsveintracht.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f62a30a93a375afd70ffc4ff2f966a1c42a9cf3e/240-rsveintracht.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "1:04",
+            "sortkey": "1-01:04",
+            "number": 18,
+            "assist": 21,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 2,
+            "time": "1:49",
+            "sortkey": "1-01:49",
+            "number": 28,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 2,
+            "time": "11:04",
+            "sortkey": "1-11:04",
+            "number": 20,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 920,
+            "penalty_reason_string": "Handspiel"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 3,
+            "time": "11:34",
+            "sortkey": "1-11:34",
+            "number": 18,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 5,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 0,
+            "guest_goals": 4,
+            "time": "0:47",
+            "sortkey": "2-00:47",
+            "number": 18,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 6,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 0,
+            "guest_goals": 5,
+            "time": "5:31",
+            "sortkey": "2-05:31",
+            "number": 18,
+            "assist": 21,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 2,
+            "time": "10:21",
+            "sortkey": "2-10:21"
+        }
+    ],
+    "players": {
+        "guest": [
+            {
+                "player_id": 23001,
+                "player_name": "Schütze",
+                "trikot_number": 44,
+                "player_firstname": "Jonathan",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23004,
+                "player_name": "Geske",
+                "trikot_number": 16,
+                "player_firstname": "Felix",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22996,
+                "player_name": "Glieske",
+                "trikot_number": 17,
+                "player_firstname": "Jesse",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 17879,
+                "goalkeeper": true,
+                "player_name": "Hockenholz",
+                "trikot_number": 1,
+                "player_firstname": "Jonas",
+                "position": "Tor"
+            },
+            {
+                "player_id": 17916,
+                "player_name": "Laube",
+                "trikot_number": 18,
+                "player_firstname": "Joonatan",
+                "position": "Feld"
+            },
+            {
+                "player_id": 18958,
+                "player_name": "Marquard",
+                "trikot_number": 21,
+                "player_firstname": "Emil",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22997,
+                "player_name": "Muth",
+                "trikot_number": 28,
+                "player_firstname": "Ole",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22998,
+                "player_name": "Schilling",
+                "trikot_number": 13,
+                "player_firstname": "Carl",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23000,
+                "player_name": "Schubert",
+                "trikot_number": 19,
+                "player_firstname": "Valentin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22993,
+                "player_name": "Etter",
+                "trikot_number": 8,
+                "player_firstname": "Adam",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22991,
+                "player_name": "Bruns",
+                "trikot_number": 20,
+                "player_firstname": "Oskar",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "0:5 n.V.",
+    "result": {
+        "home_goals": 0,
+        "guest_goals": 5,
+        "home_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            3,
+            2,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "n.V.",
+            "long": "nach Verlängerung"
+        },
+        "forfait": false,
+        "overtime": true
+    },
+    "league_id": 1293,
+    "league_name": "Regionalliga FloorballBB U11 Kleinfeld Medi-Tore",
+    "league_short_name": "RLFVBBU11KFMT",
+    "game_operation_id": 3,
+    "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+    "game_operation_short_name": "FVBB",
+    "game_operation_slug": "FVBB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 361,
+    "arena_name": "Borsigwalder Grundschule",
+    "arena_address": "Miraustraße 100, 13509 Berlin",
+    "arena_short": "Berlin, Borsigwalder Grundschule",
+    "nominated_referees": "5455",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "6574",
+            "first_name": "Jan",
+            "last_name": "Große"
+        },
+        {
+            "license_id": "6608",
+            "first_name": "Leon",
+            "last_name": "Göcmen"
+        }
+    ]
+}

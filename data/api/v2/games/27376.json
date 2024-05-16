@@ -1,0 +1,353 @@
+{
+    "id": 27376,
+    "game_number": "15",
+    "start_time": "12:30",
+    "actual_start_time": "12:30",
+    "date": "2023-03-19",
+    "game_day": {
+        "game_day_number": 4,
+        "title": "4. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 32,
+    "home_team_name": "TV Augsburg",
+    "guest_team_name": "SG Nürnberg / Regensburg",
+    "home_team_id": 5086,
+    "guest_team_id": 5083,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1k9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10479296baaa60c5071dc18e25b58123b71907ae/37-augsburg.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1k9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10479296baaa60c5071dc18e25b58123b71907ae/37-augsburg.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWmc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f949244b574ca5ddef526d7e6d440da88bbf9340/134-nuernberg.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWmc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f949244b574ca5ddef526d7e6d440da88bbf9340/134-nuernberg.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "1:53",
+            "sortkey": "1-01:53",
+            "number": 9,
+            "assist": 17,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "6:33",
+            "sortkey": "1-06:33",
+            "number": 55,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "9:57",
+            "sortkey": "1-09:57",
+            "number": 30,
+            "assist": 21,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 2,
+            "time": "13:00",
+            "sortkey": "1-13:00",
+            "number": 13,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 5,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 3,
+            "time": "15:13",
+            "sortkey": "1-15:13",
+            "number": 17,
+            "assist": 21,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "17:09",
+            "sortkey": "2-17:09"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 13571,
+                "goalkeeper": true,
+                "player_name": "Finkenzeller",
+                "trikot_number": 74,
+                "player_firstname": "Martin",
+                "position": "Tor"
+            },
+            {
+                "player_id": 15923,
+                "goalkeeper": true,
+                "player_name": "Yiu",
+                "trikot_number": 99,
+                "player_firstname": "Shouei",
+                "position": "Tor"
+            },
+            {
+                "captain": true,
+                "player_id": 143,
+                "player_name": "Holzinger",
+                "trikot_number": 13,
+                "player_firstname": "Michael",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9774,
+                "player_name": "Bracks",
+                "trikot_number": 9,
+                "player_firstname": "Alexander",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10262,
+                "player_name": "Franz",
+                "trikot_number": 24,
+                "player_firstname": "Kristin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15903,
+                "player_name": "Merz",
+                "trikot_number": 7,
+                "player_firstname": "Marius",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3253,
+                "player_name": "Essler",
+                "trikot_number": 47,
+                "player_firstname": "Markus",
+                "position": "Feld"
+            },
+            {
+                "player_id": 8610,
+                "player_name": "Braunwarth",
+                "trikot_number": 8,
+                "player_firstname": "Andreas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 12327,
+                "player_name": "Schichl",
+                "trikot_number": 17,
+                "player_firstname": "Tobias",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "captain": true,
+                "player_id": 9566,
+                "player_name": "Mumperow",
+                "trikot_number": 17,
+                "player_firstname": "Jonas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20443,
+                "goalkeeper": true,
+                "player_name": "Morlock",
+                "trikot_number": 42,
+                "player_firstname": "Cory",
+                "position": "Tor"
+            },
+            {
+                "player_id": 17795,
+                "player_name": "Glaser",
+                "trikot_number": 30,
+                "player_firstname": "Sebastian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16747,
+                "player_name": "Platten",
+                "trikot_number": 21,
+                "player_firstname": "Joshua",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4290,
+                "player_name": "Göldner",
+                "trikot_number": 55,
+                "player_firstname": "Gregor",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20583,
+                "player_name": "Gehl",
+                "trikot_number": 56,
+                "player_firstname": "Christoph",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22350,
+                "player_name": "Beiderbeck",
+                "trikot_number": 52,
+                "player_firstname": "Michael",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "2:3",
+    "result": {
+        "home_goals": 2,
+        "guest_goals": 3,
+        "home_goals_period": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            3,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1213,
+    "league_name": "Verbandsliga Herren KF",
+    "league_short_name": "Herren KF",
+    "game_operation_id": 9,
+    "game_operation_name": "Floorball Verband Bayern",
+    "game_operation_short_name": "FVB",
+    "game_operation_slug": "FVB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 504,
+    "arena_name": "Laurenzer Halle",
+    "arena_address": "Mitterlängstr.  10, 82178 Puchheim",
+    "arena_short": "Puchheim, Laurenzer Halle",
+    "nominated_referees": "Sportfreunde Puchheim",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "0",
+            "first_name": "Rene",
+            "last_name": "Dod"
+        },
+        {
+            "license_id": "0",
+            "first_name": "Florian",
+            "last_name": "Ntischke"
+        }
+    ]
+}

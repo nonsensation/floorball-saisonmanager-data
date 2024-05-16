@@ -1,0 +1,456 @@
+{
+    "id": 26793,
+    "game_number": "3",
+    "start_time": "11:00",
+    "actual_start_time": null,
+    "date": "2022-05-15",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "Runde 2"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 0,
+    "home_team_name": "Sportvg Feuerbach",
+    "guest_team_name": "SG Schriesheim-Mannheim",
+    "home_team_id": 4845,
+    "guest_team_id": 4851,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4904114b09e2d499d9f57ee3ae89d000ce2880ec/56-feuerbach.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d657c7d877ced5bdd139d1997537746204fc1927/186-schriesheim.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "02:07",
+            "sortkey": "1-02:07",
+            "number": 46,
+            "assist": 16,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "09:18",
+            "sortkey": "1-09:18",
+            "number": 77,
+            "assist": 38,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "19:32",
+            "sortkey": "1-19:32",
+            "number": 46,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 921,
+            "penalty_reason_string": "Kopfspiel"
+        },
+        {
+            "event_id": null,
+            "event_type": "penalty",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "09:44",
+            "sortkey": "2-09:44",
+            "number": 29,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 911,
+            "penalty_reason_string": "Sperren"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 1,
+            "time": "16:47",
+            "sortkey": "2-16:47",
+            "number": 38,
+            "assist": 10,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 3,
+            "home_goals": 3,
+            "guest_goals": 1,
+            "time": "03:15",
+            "sortkey": "3-03:15",
+            "number": 77,
+            "assist": 29,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 3,
+            "time": "04:30",
+            "sortkey": "3-04:30"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 19868,
+                "goalkeeper": true,
+                "player_name": "Otto",
+                "trikot_number": 96,
+                "player_firstname": "Julian",
+                "position": "Tor"
+            },
+            {
+                "player_id": 8141,
+                "goalkeeper": true,
+                "player_name": "Becker",
+                "trikot_number": 20,
+                "player_firstname": "Sami",
+                "position": "Tor"
+            },
+            {
+                "captain": true,
+                "player_id": 17940,
+                "player_name": "Steinhauser",
+                "trikot_number": 93,
+                "player_firstname": "Fabian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2903,
+                "player_name": "Plewa",
+                "trikot_number": 29,
+                "player_firstname": "Salome",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3335,
+                "player_name": "Vyroubal",
+                "trikot_number": 38,
+                "player_firstname": "Matej",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10613,
+                "player_name": "Tiusanen",
+                "trikot_number": 10,
+                "player_firstname": "Jussi",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17046,
+                "player_name": "Vogt",
+                "trikot_number": 21,
+                "player_firstname": "Marius",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15036,
+                "player_name": "Friedrich",
+                "trikot_number": 77,
+                "player_firstname": "Martin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16580,
+                "player_name": "Jockers",
+                "trikot_number": 82,
+                "player_firstname": "Daniel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10694,
+                "player_name": "Grega",
+                "trikot_number": 98,
+                "player_firstname": "Adam",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13443,
+                "player_name": "Adler",
+                "trikot_number": 81,
+                "player_firstname": "Julian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21547,
+                "player_name": "Zimmer",
+                "trikot_number": 49,
+                "player_firstname": "Marco",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11843,
+                "player_name": "Brauel",
+                "trikot_number": 17,
+                "player_firstname": "Marcel",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 17227,
+                "goalkeeper": true,
+                "player_name": "Hüsing",
+                "trikot_number": 1,
+                "player_firstname": "Elmar",
+                "position": "Tor"
+            },
+            {
+                "player_id": 16435,
+                "player_name": "Bartoniczek",
+                "trikot_number": 16,
+                "player_firstname": "Jonathan",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5498,
+                "player_name": "Jesch",
+                "trikot_number": 97,
+                "player_firstname": "David",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4484,
+                "player_name": "Hartmann",
+                "trikot_number": 12,
+                "player_firstname": "Peter",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14209,
+                "player_name": "Hecht",
+                "trikot_number": 22,
+                "player_firstname": "Niels",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 12222,
+                "player_name": "Koch",
+                "trikot_number": 57,
+                "player_firstname": "Moritz",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7482,
+                "player_name": "Schwab",
+                "trikot_number": 10,
+                "player_firstname": "Vincent",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17042,
+                "player_name": "Postels",
+                "trikot_number": 35,
+                "player_firstname": "Joshua",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20750,
+                "player_name": "Hahn",
+                "trikot_number": 4,
+                "player_firstname": "Luca",
+                "position": "Feld"
+            },
+            {
+                "player_id": 324,
+                "player_name": "Feigenbutz",
+                "trikot_number": 24,
+                "player_firstname": "Nicolas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14721,
+                "player_name": "Arras",
+                "trikot_number": 7,
+                "player_firstname": "Patrick",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11755,
+                "player_name": "Drohmann",
+                "trikot_number": 44,
+                "player_firstname": "Christoph",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3148,
+                "player_name": "Perotto",
+                "trikot_number": 33,
+                "player_firstname": "Micha",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13827,
+                "player_name": "Weißling",
+                "trikot_number": 46,
+                "player_firstname": "Stefan",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "3:1",
+    "result": {
+        "home_goals": 3,
+        "guest_goals": 1,
+        "home_goals_period": [
+            1,
+            1,
+            1,
+            0
+        ],
+        "guest_goals_period": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1164,
+    "league_name": "Süddeutsche Meisterschaft Herren GF",
+    "league_short_name": "SDM GF",
+    "game_operation_id": 4,
+    "game_operation_name": "Floorball-Verband Baden-Württemberg",
+    "game_operation_short_name": "FVBW",
+    "game_operation_slug": "FVBW",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Drittel",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "P1",
+            "title": "1. Drittelpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Drittel",
+            "status_id": "period2",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "P2",
+            "title": "2. Drittelpause",
+            "status_id": "pause2",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "3",
+            "title": "3. Drittel",
+            "status_id": "period3",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 3.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 5,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 661,
+    "arena_name": "Sporthalle Stammheim",
+    "arena_address": "Münchinger Str. 60, 70439 Stuttgart",
+    "arena_short": "Stuttgart, Sporthalle Stammheim",
+    "nominated_referees": "M. Fuß / K. Knott",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "3064",
+            "first_name": "Martin",
+            "last_name": "Fuß"
+        },
+        {
+            "license_id": "4763",
+            "first_name": "Kirsten",
+            "last_name": "Knott"
+        }
+    ]
+}

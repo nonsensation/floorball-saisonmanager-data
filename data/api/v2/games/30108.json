@@ -1,0 +1,408 @@
+{
+    "id": 30108,
+    "game_number": "11",
+    "start_time": "13:10",
+    "actual_start_time": "12:51",
+    "date": "2023-03-19",
+    "game_day": {
+        "game_day_number": 3,
+        "title": "3. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 76,
+    "home_team_name": "VfL Red Hocks Kaufering",
+    "guest_team_name": "SV Amendingen Stadtbach Piranhas",
+    "home_team_id": 5103,
+    "guest_team_id": 5107,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBWUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92a95fa5e0f41f8c88c1bac1c37f852af01f8a3e/112-amendingen.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBWUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92a95fa5e0f41f8c88c1bac1c37f852af01f8a3e/112-amendingen.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "3:09",
+            "sortkey": "1-03:09",
+            "number": 14,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "4:39",
+            "sortkey": "1-04:39",
+            "number": 23,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "11:24",
+            "sortkey": "1-11:24",
+            "number": 17,
+            "assist": 7,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 2,
+            "time": "11:57",
+            "sortkey": "1-11:57",
+            "number": 14,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 5,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 3,
+            "time": "9:37",
+            "sortkey": "2-09:37",
+            "number": 23,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 2,
+            "time": "9:37",
+            "sortkey": "2-09:37"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 23196,
+                "goalkeeper": true,
+                "player_name": "Hübner",
+                "trikot_number": 1,
+                "player_firstname": "Nico",
+                "position": "Tor"
+            },
+            {
+                "player_id": 23194,
+                "player_name": "Zerle",
+                "trikot_number": 8,
+                "player_firstname": "Korbinian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23198,
+                "player_name": "Fellner",
+                "trikot_number": 9,
+                "player_firstname": "Severin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21585,
+                "player_name": "Heiß",
+                "trikot_number": 11,
+                "player_firstname": "Lio",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21583,
+                "player_name": "Loibl",
+                "trikot_number": 10,
+                "player_firstname": "Emanuel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21586,
+                "player_name": "Schmidt",
+                "trikot_number": 6,
+                "player_firstname": "Maximilian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21581,
+                "player_name": "Haslinger",
+                "trikot_number": 14,
+                "player_firstname": "Georg",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23193,
+                "player_name": "Ambrosch",
+                "trikot_number": 13,
+                "player_firstname": "Keno",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 23195,
+                "player_name": "Ruß",
+                "trikot_number": 7,
+                "player_firstname": "Lars",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22097,
+                "player_name": "Hihn",
+                "trikot_number": 3,
+                "player_firstname": "Anton",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23191,
+                "player_name": "Kaltner",
+                "trikot_number": 4,
+                "player_firstname": "Benjamin",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 23624,
+                "player_name": "Bilgram",
+                "trikot_number": 11,
+                "player_firstname": "Lukas",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 23117,
+                "player_name": "Geiger",
+                "trikot_number": 17,
+                "player_firstname": "Anton",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23124,
+                "player_name": "Kiwaczinski",
+                "trikot_number": 7,
+                "player_firstname": "Jannis",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23118,
+                "player_name": "Kiwaczinski",
+                "trikot_number": 55,
+                "player_firstname": "Mats",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23633,
+                "player_name": "Kutschera",
+                "trikot_number": 76,
+                "player_firstname": "Jonas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23120,
+                "player_name": "Mai",
+                "trikot_number": 66,
+                "player_firstname": "Carlotta",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23116,
+                "player_name": "Mai",
+                "trikot_number": 20,
+                "player_firstname": "Ludwig",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23125,
+                "player_name": "Norz",
+                "trikot_number": 10,
+                "player_firstname": "Emmy",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23636,
+                "player_name": "Sperling",
+                "trikot_number": 33,
+                "player_firstname": "Simon",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23121,
+                "player_name": "Steiger",
+                "trikot_number": 22,
+                "player_firstname": "Johann",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23119,
+                "player_name": "Steiger",
+                "trikot_number": 99,
+                "player_firstname": "Theodor",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23122,
+                "player_name": "Steiniger",
+                "trikot_number": 23,
+                "player_firstname": "Henry",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23126,
+                "goalkeeper": true,
+                "player_name": "Wamsler",
+                "trikot_number": 1,
+                "player_firstname": "Paula",
+                "position": "Tor"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "2:3",
+    "result": {
+        "home_goals": 2,
+        "guest_goals": 3,
+        "home_goals_period": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            1,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1313,
+    "league_name": "Platzierungsrunde U9",
+    "league_short_name": "Platzierung U9",
+    "game_operation_id": 9,
+    "game_operation_name": "Floorball Verband Bayern",
+    "game_operation_short_name": "FVB",
+    "game_operation_slug": "FVB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 297,
+    "arena_name": "Neudegger Halle",
+    "arena_address": "Neudegger Allee 3, 86609 Donauwörth",
+    "arena_short": "Donauwörth, Neudegger Halle",
+    "nominated_referees": "SV Nordheim",
+    "deletable": false,
+    "notice_type": "",
+    "notice_string": "",
+    "referees": [
+        {
+            "license_id": "0",
+            "first_name": "Nils",
+            "last_name": "Sedelmeier"
+        },
+        {
+            "license_id": "0",
+            "first_name": "Philip",
+            "last_name": "Hofer"
+        }
+    ]
+}

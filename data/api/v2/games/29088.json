@@ -1,0 +1,323 @@
+{
+    "id": 29088,
+    "game_number": "1",
+    "start_time": "10:00",
+    "actual_start_time": "10:05",
+    "date": "2022-10-23",
+    "game_day": {
+        "game_day_number": 1,
+        "title": "1. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 37,
+    "home_team_name": "SSVg Heiligenhaus Heljens Haie 2",
+    "guest_team_name": "Steinfurter Skorpions",
+    "home_team_id": 5473,
+    "guest_team_id": 5359,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd34dd31eebec7d8978f6720ca048220d5fe0529/211-ssvgheiligenhaus.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd34dd31eebec7d8978f6720ca048220d5fe0529/211-ssvgheiligenhaus.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1U9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--017f17378573ab63ccbd9ae76f8bd73f1b069176/205-fsvsteinfurt.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1U9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--017f17378573ab63ccbd9ae76f8bd73f1b069176/205-fsvsteinfurt.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "7:39",
+            "sortkey": "1-07:39",
+            "number": 82,
+            "assist": 85,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "1:09",
+            "sortkey": "2-01:09",
+            "number": 5,
+            "assist": 6,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 1,
+            "time": "3:29",
+            "sortkey": "2-03:29",
+            "number": 20,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 1,
+            "time": "5:39",
+            "sortkey": "2-05:39",
+            "number": 82,
+            "assist": 85,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 23227,
+                "player_name": "David",
+                "trikot_number": 85,
+                "player_firstname": "Lea",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23216,
+                "player_name": "Hackstein",
+                "trikot_number": 62,
+                "player_firstname": "Lara",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23219,
+                "player_name": "Höfer",
+                "trikot_number": 82,
+                "player_firstname": "Paulina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22397,
+                "goalkeeper": true,
+                "player_name": "Keiper",
+                "trikot_number": 1,
+                "player_firstname": "Lara",
+                "position": "Tor"
+            },
+            {
+                "player_id": 23221,
+                "player_name": "Körkemeyer",
+                "trikot_number": 20,
+                "player_firstname": "Tobias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23223,
+                "player_name": "Purgol",
+                "trikot_number": 79,
+                "player_firstname": "Markus",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23218,
+                "player_name": "Schmidt",
+                "trikot_number": 34,
+                "player_firstname": "Lukas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23220,
+                "player_name": "Schmidt",
+                "trikot_number": 96,
+                "player_firstname": "Sem",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 23217,
+                "player_name": "Uhlig",
+                "trikot_number": 26,
+                "player_firstname": "Lias",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "captain": true,
+                "player_id": 22311,
+                "player_name": "Palstring",
+                "trikot_number": 11,
+                "player_firstname": "Piet",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22723,
+                "player_name": "Milwa",
+                "trikot_number": 15,
+                "player_firstname": "Fiete",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22416,
+                "player_name": "Znamirovski",
+                "trikot_number": 5,
+                "player_firstname": "Fabian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22484,
+                "player_name": "Stockhausen",
+                "trikot_number": 7,
+                "player_firstname": "Noah",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22316,
+                "player_name": "Berger",
+                "trikot_number": 6,
+                "player_firstname": "Raphael",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22485,
+                "goalkeeper": true,
+                "player_name": "Tkocz",
+                "trikot_number": 1,
+                "player_firstname": "Finley",
+                "position": "Tor"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "3:1",
+    "result": {
+        "home_goals": 3,
+        "guest_goals": 1,
+        "home_goals_period": [
+            1,
+            2,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1287,
+    "league_name": "Verbandsliga U 11 Kleinfeld",
+    "league_short_name": "VL U 11 KF",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 372,
+    "arena_name": "Otto-Hahn-Schulen",
+    "arena_address": "Saaler Mühle 8, 51429 Bergisch Gladbach",
+    "arena_short": "Bergisch Gladbach, Otto-Hahn-Schulen",
+    "nominated_referees": "TV Refrath Tigers",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "2957",
+            "first_name": "Julian ",
+            "last_name": "Fahl"
+        },
+        {
+            "license_id": "0",
+            "first_name": "Jonte",
+            "last_name": "Reinhold"
+        }
+    ]
+}

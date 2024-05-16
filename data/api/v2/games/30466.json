@@ -1,0 +1,353 @@
+{
+    "id": 30466,
+    "game_number": "10",
+    "start_time": "12:30",
+    "actual_start_time": "12:36",
+    "date": "2023-03-25",
+    "game_day": {
+        "game_day_number": 3,
+        "title": "3. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 19,
+    "home_team_name": "Berliner FK",
+    "guest_team_name": "VfL Tegel",
+    "home_team_id": 5615,
+    "guest_team_id": 5617,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a15bcaf40e4d63e1983a893ab732f7e1235a224b/97-berlinerfk.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a15bcaf40e4d63e1983a893ab732f7e1235a224b/97-berlinerfk.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--37b642197d66ba8ba0d409c1ea679b3afa216a29/73-vfltegel.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--37b642197d66ba8ba0d409c1ea679b3afa216a29/73-vfltegel.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 0,
+            "time": "10:24",
+            "sortkey": "1-10:24",
+            "number": 17,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 913,
+            "penalty_reason_string": "Hoher Fuß"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "19:15",
+            "sortkey": "1-19:15",
+            "number": 32,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "1:06",
+            "sortkey": "2-01:06",
+            "number": 17,
+            "assist": 69,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "12:40",
+            "sortkey": "2-12:40"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 0,
+            "time": "16:15",
+            "sortkey": "2-16:15",
+            "number": 17,
+            "assist": 69,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "captain": true,
+                "player_id": 6853,
+                "player_name": "Herold",
+                "trikot_number": 69,
+                "player_firstname": "Christian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 721,
+                "player_name": "Gorski",
+                "trikot_number": 32,
+                "player_firstname": "Jonas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3430,
+                "player_name": "Hayungs",
+                "trikot_number": 17,
+                "player_firstname": "Dennis",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16938,
+                "player_name": "Siewczynski",
+                "trikot_number": 4,
+                "player_firstname": "Dario",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16899,
+                "player_name": "Häker",
+                "trikot_number": 7,
+                "player_firstname": "Nils",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20940,
+                "player_name": "Hedler",
+                "trikot_number": 31,
+                "player_firstname": "Marc",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20942,
+                "player_name": "Viereck",
+                "trikot_number": 47,
+                "player_firstname": "Ralf",
+                "position": "Feld"
+            },
+            {
+                "player_id": 20938,
+                "goalkeeper": true,
+                "player_name": "Corsalli",
+                "trikot_number": 14,
+                "player_firstname": "Kay Daniel",
+                "position": "Tor"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 6905,
+                "goalkeeper": true,
+                "player_name": "Krebs",
+                "trikot_number": 99,
+                "player_firstname": "Calvin",
+                "position": "Tor"
+            },
+            {
+                "player_id": 15120,
+                "player_name": "Bettge",
+                "trikot_number": 5,
+                "player_firstname": "Santiago",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2119,
+                "player_name": "Lunenburg",
+                "trikot_number": 16,
+                "player_firstname": "Till",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7288,
+                "player_name": "Abonyi",
+                "trikot_number": 4,
+                "player_firstname": "Johannes",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1891,
+                "player_name": "Ganso",
+                "trikot_number": 14,
+                "player_firstname": "Emilia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9715,
+                "player_name": "Thiel",
+                "trikot_number": 10,
+                "player_firstname": "Felix",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14416,
+                "player_name": "Stein",
+                "trikot_number": 17,
+                "player_firstname": "Andreas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 348,
+                "player_name": "Haermeyer",
+                "trikot_number": 19,
+                "player_firstname": "Patrick",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23396,
+                "player_name": "Staudenmayer",
+                "trikot_number": 9,
+                "player_firstname": "Ulf",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 13643,
+                "player_name": "Kornmüller",
+                "trikot_number": 91,
+                "player_firstname": "Lars",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "3:0",
+    "result": {
+        "home_goals": 3,
+        "guest_goals": 0,
+        "home_goals_period": [
+            1,
+            2,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1317,
+    "league_name": "Regionalliga FloorballBB Herren Kleinfeld Challengeround",
+    "league_short_name": "KFRLFVBBHECR",
+    "game_operation_id": 3,
+    "game_operation_name": "Floorball Verband Berlin-Brandenburg",
+    "game_operation_short_name": "FVBB",
+    "game_operation_slug": "FVBB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 415,
+    "arena_name": "Schloßstraße (unten)",
+    "arena_address": "Schlossstraße 56, 14059 Berlin",
+    "arena_short": "Berlin, Schloßstraße (unten)",
+    "nominated_referees": "SCP",
+    "deletable": false,
+    "notice_type": "",
+    "notice_string": "",
+    "referees": [
+        {
+            "license_id": "6187",
+            "first_name": "Sebastian",
+            "last_name": "Vogel"
+        },
+        {
+            "license_id": "2882",
+            "first_name": "Michael",
+            "last_name": "Klamet"
+        }
+    ]
+}

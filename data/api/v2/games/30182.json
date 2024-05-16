@@ -1,0 +1,373 @@
+{
+    "id": 30182,
+    "game_number": "62",
+    "start_time": "14:10",
+    "actual_start_time": "14:07",
+    "date": "2023-05-13",
+    "game_day": {
+        "game_day_number": 10,
+        "title": "10. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period2",
+    "audience": 70,
+    "home_team_name": "Floor Fighters Chemnitz I",
+    "guest_team_name": "SC DHfK Leipzig I",
+    "home_team_id": 5274,
+    "guest_team_id": 5280,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e719d1a7a81419803615ceb7b119669ecffd5f83/125-dhfkleipzig.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e719d1a7a81419803615ceb7b119669ecffd5f83/125-dhfkleipzig.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "3:04",
+            "sortkey": "1-03:04",
+            "number": 3,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "4:01",
+            "sortkey": "1-04:01",
+            "number": 70,
+            "assist": 75,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "2:32",
+            "sortkey": "2-02:32",
+            "number": 19,
+            "assist": 12,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 1,
+            "guest_goals": 3,
+            "time": "12:00",
+            "sortkey": "2-12:00",
+            "number": 19,
+            "assist": 0,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "12:00",
+            "sortkey": "2-12:00"
+        },
+        {
+            "event_id": 5,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 3,
+            "time": "13:02",
+            "sortkey": "2-13:02",
+            "number": 70,
+            "assist": 77,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 21763,
+                "player_name": "Berger",
+                "trikot_number": 76,
+                "player_firstname": "Elias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21764,
+                "player_name": "Bretschneider",
+                "trikot_number": 80,
+                "player_firstname": "Lando ",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 21766,
+                "player_name": "Günther",
+                "trikot_number": 75,
+                "player_firstname": "Karl",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21767,
+                "player_name": "Helminski",
+                "trikot_number": 68,
+                "player_firstname": "Piet",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21824,
+                "goalkeeper": true,
+                "player_name": "Hösel-Uhlig",
+                "trikot_number": 1,
+                "player_firstname": "Quinn",
+                "position": "Tor"
+            },
+            {
+                "player_id": 22322,
+                "player_name": "Nagler",
+                "trikot_number": 77,
+                "player_firstname": "Ansgar",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22885,
+                "player_name": "Schreiter",
+                "trikot_number": 70,
+                "player_firstname": "Jaron",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 17514,
+                "player_name": "Anderson",
+                "trikot_number": 19,
+                "player_firstname": "Carl",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 19337,
+                "player_name": "Baumann",
+                "trikot_number": 17,
+                "player_firstname": "Jonas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22810,
+                "player_name": "Gebhardt",
+                "trikot_number": 6,
+                "player_firstname": "Jonah Marek",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21744,
+                "player_name": "Hornfeck",
+                "trikot_number": 11,
+                "player_firstname": "Flip ",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21748,
+                "player_name": "Lehmann",
+                "trikot_number": 4,
+                "player_firstname": "Emilia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22811,
+                "player_name": "Meier",
+                "trikot_number": 8,
+                "player_firstname": "Anton Enno",
+                "position": "Feld"
+            },
+            {
+                "player_id": 23678,
+                "player_name": "Mühlenbruch",
+                "trikot_number": 7,
+                "player_firstname": "Nora Charlotte",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17513,
+                "player_name": "Peckruhn",
+                "trikot_number": 3,
+                "player_firstname": "Emil",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22500,
+                "player_name": "Peters",
+                "trikot_number": 18,
+                "player_firstname": "Ben",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21903,
+                "player_name": "Trepte",
+                "trikot_number": 20,
+                "player_firstname": "Johann",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21900,
+                "player_name": "Wachs",
+                "trikot_number": 12,
+                "player_firstname": "Carl David",
+                "position": "Feld"
+            },
+            {
+                "player_id": 21740,
+                "goalkeeper": true,
+                "player_name": "Blüthner",
+                "trikot_number": 1,
+                "player_firstname": "Malte",
+                "position": "Tor"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "2:3",
+    "result": {
+        "home_goals": 2,
+        "guest_goals": 3,
+        "home_goals_period": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            1,
+            2,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1252,
+    "league_name": "Meisterrunde Regionalliga Ost U11 Junioren Kleinfeld",
+    "league_short_name": "MRRLU11KF",
+    "game_operation_id": 6,
+    "game_operation_name": "SBK Ost",
+    "game_operation_short_name": "SBK Ost",
+    "game_operation_slug": "SBK Ost",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 2,
+        "short_title": "2",
+        "title": "2. Hälfte",
+        "status_id": "period2",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 152,
+    "arena_name": "Universitätssporthalle",
+    "arena_address": "Selkestraße 7, 06122 Halle (Saale)",
+    "arena_short": "Halle (Saale), Universitätssporthalle",
+    "nominated_referees": "Ausrichter",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "3652",
+            "first_name": "Janik",
+            "last_name": "Hoffmann"
+        },
+        {
+            "license_id": "2428",
+            "first_name": "Pascal",
+            "last_name": "Reichert"
+        }
+    ]
+}
