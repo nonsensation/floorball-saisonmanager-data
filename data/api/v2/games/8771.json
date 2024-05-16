@@ -1,0 +1,338 @@
+{
+    "id": 8771,
+    "game_number": "22",
+    "start_time": "14:00",
+    "actual_start_time": null,
+    "date": "2014-11-23",
+    "game_day": {
+        "game_day_number": 3,
+        "title": "3. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 50,
+    "home_team_name": "TV Eiche Horn I",
+    "guest_team_name": "STV Sedelsberg",
+    "home_team_id": 290,
+    "guest_team_id": 534,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--705e224a571a65d6dceee818e492e08f07a910e0/163-eichehornbremen.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e0b6608b6f7d824c33b26a72e8616f76eeafd60/71-sedelsberg.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e0b6608b6f7d824c33b26a72e8616f76eeafd60/71-sedelsberg.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": null,
+            "time": "5:34",
+            "sortkey": "1-05:34",
+            "number": 15,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": null,
+            "time": "11:48",
+            "sortkey": "1-11:48",
+            "number": 6,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 1,
+            "time": "2:01",
+            "sortkey": "2-02:01",
+            "number": 12,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 2,
+            "time": "12:46",
+            "sortkey": "2-12:46",
+            "number": 12,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 2,
+            "time": "14:38",
+            "sortkey": "2-14:38",
+            "number": 15,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 5194,
+                "goalkeeper": true,
+                "player_name": "Christ",
+                "trikot_number": 1,
+                "player_firstname": "Marcus",
+                "position": "Tor"
+            },
+            {
+                "player_id": 2993,
+                "player_name": "Serfiniak",
+                "trikot_number": 6,
+                "player_firstname": "Daniel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15119,
+                "player_name": "Steinkamp",
+                "trikot_number": 7,
+                "player_firstname": "Finn",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14901,
+                "player_name": "Appenrodt",
+                "trikot_number": 9,
+                "player_firstname": "Justus",
+                "position": "Feld"
+            },
+            {
+                "player_id": 147,
+                "player_name": "Mielke",
+                "trikot_number": 11,
+                "player_firstname": "Marius",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11986,
+                "player_name": "von und zu Gilsa",
+                "trikot_number": 15,
+                "player_firstname": "Tammo",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1922,
+                "player_name": "Klimbert",
+                "trikot_number": 16,
+                "player_firstname": "Hannes",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 4924,
+                "player_name": "Gerdsen",
+                "trikot_number": 17,
+                "player_firstname": "Ole",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 9970,
+                "goalkeeper": true,
+                "player_name": "Gidion",
+                "trikot_number": 1,
+                "player_firstname": "Oliver",
+                "position": "Tor"
+            },
+            {
+                "player_id": 13610,
+                "player_name": "Pik",
+                "trikot_number": 2,
+                "player_firstname": "Angelina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1411,
+                "player_name": "Focken",
+                "trikot_number": 9,
+                "player_firstname": "Lara",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9974,
+                "player_name": "Geringer",
+                "trikot_number": 10,
+                "player_firstname": "Karina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15302,
+                "player_name": "Nebert ",
+                "trikot_number": 11,
+                "player_firstname": "Adrian",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 10984,
+                "player_name": "Hartmann",
+                "trikot_number": 12,
+                "player_firstname": "Jasmin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5122,
+                "player_name": "Krom",
+                "trikot_number": 13,
+                "player_firstname": "Julia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 823,
+                "player_name": "Kromm",
+                "trikot_number": 16,
+                "player_firstname": "Alias ",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2804,
+                "player_name": "Hawighorst",
+                "trikot_number": 91,
+                "player_firstname": "Liane",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": false,
+    "ended": false,
+    "result_string": "3:2",
+    "result": {
+        "home_goals": 3,
+        "guest_goals": 2,
+        "home_goals_period": [
+            2,
+            1,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            2,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 372,
+    "league_name": "Regionalliga Nordwest (U13) - Vorrunde",
+    "league_short_name": "RL NW (U13) - VR",
+    "game_operation_id": 2,
+    "game_operation_name": "Floorball Niedersachsen",
+    "game_operation_short_name": "FVNB",
+    "game_operation_slug": "FVNB",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 101,
+    "arena_name": "Halepaghenschule",
+    "arena_address": "Konopkastraße 5, 21614 Buxtehude",
+    "arena_short": "Buxtehude, Halepaghenschule",
+    "nominated_referees": "Buxtehuder SV",
+    "deletable": true,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "847",
+            "first_name": "Torben",
+            "last_name": "Göbel"
+        },
+        {
+            "license_id": "2656",
+            "first_name": "Michel",
+            "last_name": "Carsten"
+        }
+    ]
+}

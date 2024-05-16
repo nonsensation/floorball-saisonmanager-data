@@ -1,0 +1,406 @@
+{
+    "id": 164,
+    "game_number": "16",
+    "start_time": "11:00",
+    "actual_start_time": null,
+    "date": "2016-06-12",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "2. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 52,
+    "home_team_name": "FC Stern München",
+    "guest_team_name": "VfL Red Hocks Kaufering",
+    "home_team_id": 365,
+    "guest_team_id": 1324,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29f3d38a80d59da81ab8d80a543743962cd1f5a8/184-fbcmuenchen.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29f3d38a80d59da81ab8d80a543743962cd1f5a8/184-fbcmuenchen.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dce22e30122e310a15c3d4c4f7980ce3cd943412/102-kaufering.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "0:26",
+            "sortkey": "1-00:26",
+            "number": 18,
+            "assist": 2,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "05:07",
+            "sortkey": "1-05:07",
+            "number": 10,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 911,
+            "penalty_reason_string": "Sperren"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 1,
+            "time": "05:58",
+            "sortkey": "1-05:58",
+            "number": 83,
+            "assist": 87,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 2,
+            "time": "06:50",
+            "sortkey": "1-06:50",
+            "number": 17,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 2,
+            "time": "08:00",
+            "sortkey": "2-08:00",
+            "number": 83,
+            "assist": 58,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 2,
+            "time": "13:02",
+            "sortkey": "2-13:02"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 2,
+            "time": "14:22",
+            "sortkey": "2-14:22",
+            "number": 15,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 10983,
+                "goalkeeper": true,
+                "player_name": "Barner",
+                "trikot_number": 1,
+                "player_firstname": "Franziska",
+                "position": "Tor"
+            },
+            {
+                "player_id": 12,
+                "player_name": "Brüll",
+                "trikot_number": 3,
+                "player_firstname": "Rebecca",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7308,
+                "player_name": "Miller",
+                "trikot_number": 15,
+                "player_firstname": "Alma",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15776,
+                "player_name": "Schröferl",
+                "trikot_number": 21,
+                "player_firstname": "Emma",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6488,
+                "player_name": "Nöther",
+                "trikot_number": 24,
+                "player_firstname": "Svenja",
+                "position": "Feld"
+            },
+            {
+                "player_id": 12460,
+                "player_name": "Köppl",
+                "trikot_number": 26,
+                "player_firstname": "Felina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1749,
+                "player_name": "Liebetrau",
+                "trikot_number": 55,
+                "player_firstname": "Josefin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9299,
+                "player_name": "Aigner",
+                "trikot_number": 57,
+                "player_firstname": "Lina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14729,
+                "player_name": "Aigner",
+                "trikot_number": 58,
+                "player_firstname": "Lola",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6231,
+                "player_name": "Piehlmeier",
+                "trikot_number": 62,
+                "player_firstname": "Hannah",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11632,
+                "player_name": "Leonhardt",
+                "trikot_number": 83,
+                "player_firstname": "Lotta",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 9508,
+                "player_name": "Aslan",
+                "trikot_number": 87,
+                "player_firstname": "Betül",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 13013,
+                "player_name": "Weeber",
+                "trikot_number": 2,
+                "player_firstname": "Simone",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 5942,
+                "player_name": "Ballweg",
+                "trikot_number": 8,
+                "player_firstname": "Laura",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5066,
+                "player_name": "Gühne",
+                "trikot_number": 9,
+                "player_firstname": "Eileen",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14474,
+                "player_name": "Wodniok",
+                "trikot_number": 10,
+                "player_firstname": "Paula",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2311,
+                "goalkeeper": true,
+                "player_name": "Lutzenberger",
+                "trikot_number": 13,
+                "player_firstname": "Anja",
+                "position": "Tor"
+            },
+            {
+                "player_id": 7387,
+                "player_name": "Jannusch",
+                "trikot_number": 14,
+                "player_firstname": "Emilie",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3660,
+                "player_name": "Opitz",
+                "trikot_number": 17,
+                "player_firstname": "Nina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11359,
+                "player_name": "Lutzenberger",
+                "trikot_number": 18,
+                "player_firstname": "Lisa",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1734,
+                "player_name": "Wagner",
+                "trikot_number": 24,
+                "player_firstname": "Marisa",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2222,
+                "player_name": "Knöpfle",
+                "trikot_number": 28,
+                "player_firstname": "Tabea",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14150,
+                "player_name": "Rodler",
+                "trikot_number": 77,
+                "player_firstname": "Sara",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "3:2",
+    "result": {
+        "home_goals": 3,
+        "guest_goals": 2,
+        "home_goals_period": [
+            1,
+            2,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 133,
+    "league_name": "Stena Line U14 Juniorinnen Kleinfeld Deutsche Meisterschaft",
+    "league_short_name": "DM - U14 (w) KF",
+    "game_operation_id": 1,
+    "game_operation_name": "Floorball Deutschland",
+    "game_operation_short_name": "FVD",
+    "game_operation_slug": "FVD",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 215,
+    "arena_name": "Dreifeld Schulsporthalle",
+    "arena_address": "Lessingstraße 8a, 04435 Schkeuditz",
+    "arena_short": "Schkeuditz, Dreifeld Schulsporthalle",
+    "nominated_referees": "Marklowsky / Schulemann",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "563",
+            "first_name": "Max",
+            "last_name": "Schulemann"
+        },
+        {
+            "license_id": "1083",
+            "first_name": "Stefan",
+            "last_name": "Marklowsky"
+        }
+    ]
+}

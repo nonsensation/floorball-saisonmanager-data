@@ -1,0 +1,205 @@
+{
+    "id": 9247,
+    "game_number": "57",
+    "start_time": "15:00",
+    "actual_start_time": null,
+    "date": "2015-05-03",
+    "game_day": {
+        "game_day_number": 14,
+        "title": "14. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 13,
+    "home_team_name": "UHC Sparkasse Weißenfels",
+    "guest_team_name": "Floor Fighters Chemnitz",
+    "home_team_id": 701,
+    "guest_team_id": 307,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [],
+    "players": {
+        "guest": [
+            {
+                "captain": true,
+                "player_id": 5063,
+                "player_name": "Seifert",
+                "trikot_number": 11,
+                "player_firstname": "Aline ",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6549,
+                "player_name": "Matthes",
+                "trikot_number": 13,
+                "player_firstname": "Laura",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9994,
+                "player_name": "Leißring",
+                "trikot_number": 26,
+                "player_firstname": "Anja",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9846,
+                "player_name": "Busse",
+                "trikot_number": 44,
+                "player_firstname": "Johanne",
+                "position": "Feld"
+            },
+            {
+                "player_id": 8582,
+                "player_name": "Schmidt",
+                "trikot_number": 72,
+                "player_firstname": "Lena",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13384,
+                "player_name": "Götze",
+                "trikot_number": 77,
+                "player_firstname": "Hannah",
+                "position": "Feld"
+            },
+            {
+                "player_id": 9843,
+                "goalkeeper": true,
+                "player_name": "Weiske",
+                "trikot_number": 95,
+                "player_firstname": "Julia",
+                "position": "Tor"
+            },
+            {
+                "player_id": 5161,
+                "player_name": "Beckmann",
+                "trikot_number": 96,
+                "player_firstname": "Manja ",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": false,
+    "ended": false,
+    "result_string": "0:8",
+    "result": {
+        "home_goals": 0,
+        "guest_goals": 8,
+        "home_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": " (forfait)",
+            "long": " kampflos"
+        },
+        "forfait": true,
+        "overtime": false
+    },
+    "league_id": 121,
+    "league_name": "RL Damen KF",
+    "league_short_name": "Damen-KF",
+    "game_operation_id": 6,
+    "game_operation_name": "SBK Ost",
+    "game_operation_short_name": "SBK Ost",
+    "game_operation_slug": "SBK Ost",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 132,
+    "arena_name": "Heidenau",
+    "arena_address": " ,  ",
+    "arena_short": ", Heidenau",
+    "nominated_referees": "Heidenau",
+    "deletable": true,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "2732",
+            "first_name": "Holm",
+            "last_name": "Kegel"
+        },
+        {
+            "license_id": "2820",
+            "first_name": "Nicole",
+            "last_name": "Friedrich"
+        }
+    ]
+}

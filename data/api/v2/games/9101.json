@@ -1,0 +1,418 @@
+{
+    "id": 9101,
+    "game_number": "2",
+    "start_time": "14:00",
+    "actual_start_time": null,
+    "date": "2015-09-27",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "2. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 20,
+    "home_team_name": "SSF Dragons Bonn",
+    "guest_team_name": "BSV Roxel",
+    "home_team_id": 1209,
+    "guest_team_id": 1552,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "5:39",
+            "sortkey": "1-05:39",
+            "number": 10,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "penalty",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "6:55",
+            "sortkey": "1-06:55",
+            "number": 13,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 920,
+            "penalty_reason_string": "Handspiel"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "12:25",
+            "sortkey": "2-12:25",
+            "number": 1000,
+            "goal_type": "owngoal",
+            "goal_type_string": "Eigentor"
+        },
+        {
+            "event_id": null,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "13:45",
+            "sortkey": "2-13:45",
+            "number": 5,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 906,
+            "penalty_reason_string": "Haken"
+        },
+        {
+            "event_id": null,
+            "event_type": "penalty",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "18::3",
+            "sortkey": "2-18::3",
+            "number": 12,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 901,
+            "penalty_reason_string": "Stockschlag"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 3,
+            "home_goals": 3,
+            "guest_goals": 0,
+            "time": "3:14",
+            "sortkey": "3-03:14",
+            "number": 7,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 3,
+            "time": "14:45",
+            "sortkey": "3-14:45"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 3,
+            "home_goals": 4,
+            "guest_goals": 0,
+            "time": "15:23",
+            "sortkey": "3-15:23",
+            "number": 4,
+            "assist": 7,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "player_id": 6492,
+                "goalkeeper": true,
+                "player_name": "Oertel",
+                "trikot_number": 1,
+                "player_firstname": "Marlene",
+                "position": "Tor"
+            },
+            {
+                "player_id": 10840,
+                "player_name": "Bröker",
+                "trikot_number": 4,
+                "player_firstname": "Elena",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 15763,
+                "player_name": "Grünewald",
+                "trikot_number": 5,
+                "player_firstname": "Karen",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10158,
+                "player_name": "Taube",
+                "trikot_number": 6,
+                "player_firstname": "Amira",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3171,
+                "player_name": "Bartz",
+                "trikot_number": 7,
+                "player_firstname": "Leah",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2851,
+                "player_name": "Jahn",
+                "trikot_number": 9,
+                "player_firstname": "Luisa",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3243,
+                "player_name": "Rebmann",
+                "trikot_number": 10,
+                "player_firstname": "Katharina",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5428,
+                "player_name": "Birkigt",
+                "trikot_number": 12,
+                "player_firstname": "Claudia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 1616,
+                "player_name": "Diehl",
+                "trikot_number": 13,
+                "player_firstname": "Julia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10498,
+                "player_name": "Schwend",
+                "trikot_number": 14,
+                "player_firstname": "Gundula",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11201,
+                "player_name": "Nierkamp",
+                "trikot_number": 17,
+                "player_firstname": "Anne-Marie",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 11542,
+                "player_name": "Hübner",
+                "trikot_number": 4,
+                "player_firstname": "Kathleen",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 11860,
+                "player_name": "Paulsen",
+                "trikot_number": 5,
+                "player_firstname": "Berit",
+                "position": "Feld"
+            },
+            {
+                "player_id": 8336,
+                "player_name": "Jöhnk",
+                "trikot_number": 7,
+                "player_firstname": "Anna Lena",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10585,
+                "player_name": "Knittel",
+                "trikot_number": 8,
+                "player_firstname": "Marie",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15808,
+                "player_name": "Heupel Santos",
+                "trikot_number": 13,
+                "player_firstname": "Simone",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6584,
+                "player_name": "Schröder",
+                "trikot_number": 20,
+                "player_firstname": "Julia",
+                "position": "Feld"
+            },
+            {
+                "player_id": 8054,
+                "player_name": "Krause",
+                "trikot_number": 26,
+                "player_firstname": "Nadine",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10748,
+                "player_name": "Nenning",
+                "trikot_number": 77,
+                "player_firstname": "Franziska",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2682,
+                "goalkeeper": true,
+                "player_name": "Menzel",
+                "trikot_number": 88,
+                "player_firstname": "Hannah Maria",
+                "position": "Tor"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "4:0",
+    "result": {
+        "home_goals": 4,
+        "guest_goals": 0,
+        "home_goals_period": [
+            1,
+            1,
+            2,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 291,
+    "league_name": "Westliga Damen",
+    "league_short_name": "Damen",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Drittel",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "P1",
+            "title": "1. Drittelpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Drittel",
+            "status_id": "period2",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "P2",
+            "title": "2. Drittelpause",
+            "status_id": "pause2",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "3",
+            "title": "3. Drittel",
+            "status_id": "period3",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 3.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 5,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 160,
+    "arena_name": "Sportpark Nord",
+    "arena_address": "Kölnstraße 250, 53117 Bonn",
+    "arena_short": "Bonn, Sportpark Nord",
+    "nominated_referees": "",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "753",
+            "first_name": "Mario",
+            "last_name": "Mittermüller"
+        },
+        {
+            "license_id": "958",
+            "first_name": "Lucas",
+            "last_name": "Grünewald"
+        }
+    ]
+}

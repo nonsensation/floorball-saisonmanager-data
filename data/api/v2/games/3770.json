@@ -1,0 +1,151 @@
+{
+    "id": 3770,
+    "game_number": "17",
+    "start_time": "10:00",
+    "actual_start_time": null,
+    "date": "2016-04-16",
+    "game_day": {
+        "game_day_number": 5,
+        "title": "5. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": null,
+    "home_team_name": "BSV Roxel 2",
+    "guest_team_name": "TB Burgsteinfurt 1862",
+    "home_team_id": 1240,
+    "guest_team_id": 871,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBlZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2fb5379631218a25792eead34972649364a7977b/155-tbburgsteinfurt.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBlZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2fb5379631218a25792eead34972649364a7977b/155-tbburgsteinfurt.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [],
+    "players": {},
+    "started": false,
+    "ended": false,
+    "result_string": "5:0",
+    "result": {
+        "home_goals": 5,
+        "guest_goals": 0,
+        "home_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": " (forfait)",
+            "long": " kampflos"
+        },
+        "forfait": true,
+        "overtime": false
+    },
+    "league_id": 155,
+    "league_name": "Verbandsliga Herren",
+    "league_short_name": "Herren VL",
+    "game_operation_id": 10,
+    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
+    "game_operation_short_name": "NWFV",
+    "game_operation_slug": "NWFV",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Drittel",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "P1",
+            "title": "1. Drittelpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Drittel",
+            "status_id": "period2",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "P2",
+            "title": "2. Drittelpause",
+            "status_id": "pause2",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "3",
+            "title": "3. Drittel",
+            "status_id": "period3",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 3.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 5,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 197,
+    "arena_name": "ASV-Halle",
+    "arena_address": "Olympiaweg 3, 50933 Köln",
+    "arena_short": "Köln, ASV-Halle",
+    "nominated_referees": "ASV Köln",
+    "deletable": true,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": []
+}

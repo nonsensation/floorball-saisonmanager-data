@@ -1,0 +1,300 @@
+{
+    "id": 8480,
+    "game_number": "2",
+    "start_time": "11:05",
+    "actual_start_time": null,
+    "date": "2015-10-03",
+    "game_day": {
+        "game_day_number": 1,
+        "title": "1. Spieltag"
+    },
+    "game_status": null,
+    "ingame_status": null,
+    "audience": 50,
+    "home_team_name": "Preetzer TSV",
+    "guest_team_name": "TSV Siems",
+    "home_team_id": 1707,
+    "guest_team_id": 1002,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWXc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f6253f7bcf3df4ea5aa99837bd3c5d051e259537/197-preetzertsv.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWXc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f6253f7bcf3df4ea5aa99837bd3c5d051e259537/197-preetzertsv.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBlUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e9bc6ba32aef3d35f208b86eda4f40acf87fdb1/173-tsvsiems.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBlUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e9bc6ba32aef3d35f208b86eda4f40acf87fdb1/173-tsvsiems.png",
+    "live_stream_link": null,
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 1,
+            "time": "10:47",
+            "sortkey": "1-10:47",
+            "number": 7,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 1,
+            "home_goals": 0,
+            "guest_goals": 2,
+            "time": "15:38",
+            "sortkey": "1-15:38",
+            "number": 1000,
+            "goal_type": "owngoal",
+            "goal_type_string": "Eigentor"
+        },
+        {
+            "event_id": 9001,
+            "event_type": "timeout",
+            "event_team": "home",
+            "period": 2,
+            "time": "15:27",
+            "sortkey": "2-15:27"
+        },
+        {
+            "event_id": null,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 0,
+            "guest_goals": 3,
+            "time": "15:33",
+            "sortkey": "2-15:33",
+            "number": 5,
+            "assist": 9,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "captain": true,
+                "player_id": 2159,
+                "player_name": "Sauer",
+                "trikot_number": 3,
+                "player_firstname": "Philipp",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5729,
+                "player_name": "Paar",
+                "trikot_number": 6,
+                "player_firstname": "Lucas Moritz",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14541,
+                "player_name": "Paysen",
+                "trikot_number": 10,
+                "player_firstname": "Mirko",
+                "position": "Feld"
+            },
+            {
+                "player_id": 8286,
+                "player_name": "Hanschmann",
+                "trikot_number": 17,
+                "player_firstname": "Peter",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11331,
+                "goalkeeper": true,
+                "player_name": "Röhling",
+                "trikot_number": 41,
+                "player_firstname": "Pascal",
+                "position": "Tor"
+            },
+            {
+                "player_id": 7940,
+                "player_name": "Ajeti",
+                "trikot_number": 99,
+                "player_firstname": "Ardian",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "player_id": 12996,
+                "goalkeeper": true,
+                "player_name": "Maiworm",
+                "trikot_number": 1,
+                "player_firstname": "Matthias",
+                "position": "Tor"
+            },
+            {
+                "player_id": 1282,
+                "player_name": "Luther",
+                "trikot_number": 3,
+                "player_firstname": "Jannik",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11605,
+                "player_name": "Jackisch",
+                "trikot_number": 5,
+                "player_firstname": "Vincent",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15126,
+                "player_name": "Tietz",
+                "trikot_number": 7,
+                "player_firstname": "Jonas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 5896,
+                "player_name": "Reichentrog",
+                "trikot_number": 8,
+                "player_firstname": "Marco",
+                "position": "Feld"
+            },
+            {
+                "player_id": 4359,
+                "player_name": "Gottschalk",
+                "trikot_number": 9,
+                "player_firstname": "Roman",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3046,
+                "player_name": "Schulze",
+                "trikot_number": 10,
+                "player_firstname": "Franziska",
+                "position": "Feld"
+            },
+            {
+                "captain": true,
+                "player_id": 12800,
+                "player_name": "Petter",
+                "trikot_number": 11,
+                "player_firstname": "Nicolai",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "0:3",
+    "result": {
+        "home_goals": 0,
+        "guest_goals": 3,
+        "home_goals_period": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "guest_goals_period": [
+            2,
+            1,
+            0,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 128,
+    "league_name": "Herren Kleinfeld Verbandsliga Nord Staffel Nordost",
+    "league_short_name": "Herren KF VL NO",
+    "game_operation_id": 5,
+    "game_operation_name": "Floorballverband Schleswig-Holstein",
+    "game_operation_short_name": "FLV-SH",
+    "game_operation_slug": "FLV-SH",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Hälfte",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "HZ",
+            "title": "Halbzeitpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Hälfte",
+            "status_id": "period2",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": null,
+    "arena": 104,
+    "arena_name": "Burgfeldhalle",
+    "arena_address": "Travemünder Allee 5, 23568 Lübeck",
+    "arena_short": "Lübeck, Burgfeldhalle",
+    "nominated_referees": "STS",
+    "deletable": false,
+    "notice_type": null,
+    "notice_string": null,
+    "referees": [
+        {
+            "license_id": "861",
+            "first_name": "Pascal",
+            "last_name": "Riedel"
+        },
+        {
+            "license_id": "845",
+            "first_name": "Vincent",
+            "last_name": "Maack"
+        }
+    ]
+}
