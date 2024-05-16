@@ -1,0 +1,613 @@
+{
+    "id": 35357,
+    "game_number": "4",
+    "start_time": "14:00",
+    "actual_start_time": "14:00",
+    "date": "2024-04-21",
+    "game_day": {
+        "game_day_number": 2,
+        "title": "2. Spieltag"
+    },
+    "game_status": "match_record_closed",
+    "ingame_status": "period3",
+    "audience": 90,
+    "home_team_name": "Lilienthaler Wölfe II",
+    "guest_team_name": "Hannover 96 I",
+    "home_team_id": 6308,
+    "guest_team_id": 6307,
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2s9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13ef12558154a7adf5db130c76020ca31fa4cd3b/32-hannover96.png",
+    "live_stream_link": "https://www.twitch.tv/balticstorms",
+    "vod_link": null,
+    "events": [
+        {
+            "event_id": 1,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 1,
+            "guest_goals": 0,
+            "time": "8:45",
+            "sortkey": "1-08:45",
+            "number": 5,
+            "assist": 8,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 2,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 1,
+            "home_goals": 2,
+            "guest_goals": 0,
+            "time": "14:27",
+            "sortkey": "1-14:27",
+            "number": 99,
+            "assist": 4,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 3,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 2,
+            "guest_goals": 1,
+            "time": "3:38",
+            "sortkey": "2-03:38",
+            "number": 9,
+            "assist": 23,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 4,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 1,
+            "time": "4:03",
+            "sortkey": "2-04:03",
+            "number": 77,
+            "assist": 4,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 5,
+            "event_type": "penalty",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 1,
+            "time": "6:21",
+            "sortkey": "2-06:21",
+            "number": 99,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 901,
+            "penalty_reason_string": "Stockschlag"
+        },
+        {
+            "event_id": 6,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 2,
+            "time": "9:56",
+            "sortkey": "2-09:56",
+            "number": 12,
+            "assist": 15,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 7,
+            "event_type": "penalty",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 3,
+            "guest_goals": 2,
+            "time": "11:43",
+            "sortkey": "2-11:43",
+            "number": 16,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 920,
+            "penalty_reason_string": "Handspiel"
+        },
+        {
+            "event_id": 8,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 2,
+            "home_goals": 4,
+            "guest_goals": 2,
+            "time": "15:27",
+            "sortkey": "2-15:27",
+            "number": 99,
+            "assist": 77,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9,
+            "event_type": "goal",
+            "event_team": "home",
+            "period": 3,
+            "home_goals": 5,
+            "guest_goals": 2,
+            "time": "2:26",
+            "sortkey": "3-02:26",
+            "number": 99,
+            "assist": 98,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 10,
+            "event_type": "penalty",
+            "event_team": "guest",
+            "period": 3,
+            "home_goals": 5,
+            "guest_goals": 2,
+            "time": "3:43",
+            "sortkey": "3-03:43",
+            "number": 21,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 901,
+            "penalty_reason_string": "Stockschlag"
+        },
+        {
+            "event_id": 11,
+            "event_type": "penalty",
+            "event_team": "home",
+            "period": 3,
+            "home_goals": 5,
+            "guest_goals": 2,
+            "time": "5:38",
+            "sortkey": "3-05:38",
+            "number": 8,
+            "penalty_type": "penalty_2",
+            "penalty_type_string": "2'",
+            "penalty_reason": 901,
+            "penalty_reason_string": "Stockschlag"
+        },
+        {
+            "event_id": 12,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 3,
+            "home_goals": 5,
+            "guest_goals": 3,
+            "time": "15:37",
+            "sortkey": "3-15:37",
+            "number": 12,
+            "assist": 9,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        },
+        {
+            "event_id": 9002,
+            "event_type": "timeout",
+            "event_team": "guest",
+            "period": 3,
+            "time": "15:37",
+            "sortkey": "3-15:37"
+        },
+        {
+            "event_id": 13,
+            "event_type": "goal",
+            "event_team": "guest",
+            "period": 3,
+            "home_goals": 5,
+            "guest_goals": 4,
+            "time": "16:01",
+            "sortkey": "3-16:01",
+            "number": 12,
+            "assist": 23,
+            "goal_type": "regular",
+            "goal_type_string": "Tor"
+        }
+    ],
+    "players": {
+        "home": [
+            {
+                "captain": true,
+                "player_id": 4135,
+                "player_name": "Pape",
+                "trikot_number": 4,
+                "player_firstname": "Daniel",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3998,
+                "player_name": "Schiller",
+                "trikot_number": 77,
+                "player_firstname": "Dennis",
+                "position": "Feld"
+            },
+            {
+                "player_id": 12784,
+                "player_name": "Breuckmann",
+                "trikot_number": 21,
+                "player_firstname": "Jonas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 3654,
+                "player_name": "Minnermann",
+                "trikot_number": 7,
+                "player_firstname": "Klaas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 8777,
+                "player_name": "Entelmann",
+                "trikot_number": 15,
+                "player_firstname": "Lisa Merle",
+                "position": "Feld"
+            },
+            {
+                "player_id": 22525,
+                "player_name": "Kern",
+                "trikot_number": 8,
+                "player_firstname": "Matthias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11771,
+                "player_name": "Krieger",
+                "trikot_number": 17,
+                "player_firstname": "Niklas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 16064,
+                "player_name": "Kraushaar",
+                "trikot_number": 68,
+                "player_firstname": "Till",
+                "position": "Feld"
+            },
+            {
+                "player_id": 329,
+                "player_name": "Melde",
+                "trikot_number": 99,
+                "player_firstname": "Tobias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 17267,
+                "player_name": "Bacher",
+                "trikot_number": 16,
+                "player_firstname": "Tom",
+                "position": "Feld"
+            },
+            {
+                "player_id": 19543,
+                "player_name": "Bauer",
+                "trikot_number": 9,
+                "player_firstname": "Collin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 48,
+                "player_name": "Schneider",
+                "trikot_number": 29,
+                "player_firstname": "Felix Matthias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 2979,
+                "goalkeeper": true,
+                "player_name": "Hallerstede",
+                "trikot_number": 98,
+                "player_firstname": "Nils Christopher",
+                "position": "Tor"
+            },
+            {
+                "player_id": 19249,
+                "player_name": "Brinkmann",
+                "trikot_number": 5,
+                "player_firstname": "Mattis",
+                "position": "Feld"
+            }
+        ],
+        "guest": [
+            {
+                "captain": true,
+                "player_id": 10166,
+                "player_name": "Wildhagen",
+                "trikot_number": 70,
+                "player_firstname": "Maik",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6162,
+                "goalkeeper": true,
+                "player_name": "Wolf",
+                "trikot_number": 91,
+                "player_firstname": "Henrik",
+                "position": "Tor"
+            },
+            {
+                "player_id": 6274,
+                "goalkeeper": true,
+                "player_name": "Bandorf",
+                "trikot_number": 92,
+                "player_firstname": "Tim",
+                "position": "Tor"
+            },
+            {
+                "player_id": 1553,
+                "player_name": "Petersen",
+                "trikot_number": 15,
+                "player_firstname": "Hannes",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11641,
+                "player_name": "Stubbe",
+                "trikot_number": 23,
+                "player_firstname": "Benedikt",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15728,
+                "player_name": "Berens",
+                "trikot_number": 9,
+                "player_firstname": "André",
+                "position": "Feld"
+            },
+            {
+                "player_id": 11593,
+                "player_name": "Richter",
+                "trikot_number": 80,
+                "player_firstname": "Jesse",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14455,
+                "player_name": "Lipinski",
+                "trikot_number": 2,
+                "player_firstname": "Benjamin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 25509,
+                "player_name": "Oswald",
+                "trikot_number": 21,
+                "player_firstname": "Robin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 10861,
+                "player_name": "Wolff",
+                "trikot_number": 20,
+                "player_firstname": "Fabian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 14571,
+                "player_name": "Alt",
+                "trikot_number": 16,
+                "player_firstname": "Patrick",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6577,
+                "player_name": "Hupe",
+                "trikot_number": 73,
+                "player_firstname": "Patrick",
+                "position": "Feld"
+            },
+            {
+                "player_id": 302,
+                "player_name": "Rimpel",
+                "trikot_number": 36,
+                "player_firstname": "Constantin",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7772,
+                "player_name": "Kreienborg",
+                "trikot_number": 95,
+                "player_firstname": "Matthias",
+                "position": "Feld"
+            },
+            {
+                "player_id": 13702,
+                "player_name": "Sichert",
+                "trikot_number": 7,
+                "player_firstname": "Maximilian",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6985,
+                "player_name": "Wohlgehagen",
+                "trikot_number": 8,
+                "player_firstname": "Robert",
+                "position": "Feld"
+            },
+            {
+                "player_id": 7864,
+                "player_name": "Schulz",
+                "trikot_number": 10,
+                "player_firstname": "Jessica",
+                "position": "Feld"
+            },
+            {
+                "player_id": 15961,
+                "player_name": "Baskal",
+                "trikot_number": 33,
+                "player_firstname": "Kirill",
+                "position": "Feld"
+            },
+            {
+                "player_id": 6119,
+                "player_name": "Lifke",
+                "trikot_number": 5,
+                "player_firstname": "Jonas",
+                "position": "Feld"
+            },
+            {
+                "player_id": 560,
+                "player_name": "Willeke",
+                "trikot_number": 12,
+                "player_firstname": "Johann",
+                "position": "Feld"
+            }
+        ]
+    },
+    "started": true,
+    "ended": true,
+    "result_string": "5:4",
+    "result": {
+        "home_goals": 5,
+        "guest_goals": 4,
+        "home_goals_period": [
+            2,
+            2,
+            1,
+            0
+        ],
+        "guest_goals_period": [
+            0,
+            2,
+            2,
+            0
+        ],
+        "postfix": {
+            "short": "",
+            "long": ""
+        },
+        "forfait": false,
+        "overtime": false
+    },
+    "league_id": 1530,
+    "league_name": "Norddeutsche Meisterschaft Herren GF",
+    "league_short_name": "NDM ",
+    "game_operation_id": 5,
+    "game_operation_name": "Floorballverband Schleswig-Holstein",
+    "game_operation_short_name": "FLV-SH",
+    "game_operation_slug": "FLV-SH",
+    "period_titles": [
+        {
+            "period": 1,
+            "short_title": "1",
+            "title": "1. Drittel",
+            "status_id": "period1",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 1.5,
+            "short_title": "P1",
+            "title": "1. Drittelpause",
+            "status_id": "pause1",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 2,
+            "short_title": "2",
+            "title": "2. Drittel",
+            "status_id": "period2",
+            "can_end_game": false,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 2.5,
+            "short_title": "P2",
+            "title": "2. Drittelpause",
+            "status_id": "pause2",
+            "can_end_game": false,
+            "optional": false,
+            "running": false
+        },
+        {
+            "period": 3,
+            "short_title": "3",
+            "title": "3. Drittel",
+            "status_id": "period3",
+            "can_end_game": true,
+            "optional": false,
+            "running": true
+        },
+        {
+            "period": 3.5,
+            "short_title": "PV",
+            "title": "Pause vor Verlängerung",
+            "status_id": "pause_et",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 4,
+            "short_title": "V",
+            "title": "Verlängerung",
+            "status_id": "extratime",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        },
+        {
+            "period": 4.5,
+            "short_title": "PP",
+            "title": "Pause vor Penalty-Schießen",
+            "status_id": "pause_ps",
+            "can_end_game": false,
+            "optional": true,
+            "running": false
+        },
+        {
+            "period": 5,
+            "short_title": "P",
+            "title": "Penalty-Schießen",
+            "status_id": "penalty_shots",
+            "can_end_game": true,
+            "optional": true,
+            "running": true
+        }
+    ],
+    "current_period_title": {
+        "period": 3,
+        "short_title": "3",
+        "title": "3. Drittel",
+        "status_id": "period3",
+        "can_end_game": true,
+        "optional": false,
+        "running": true
+    },
+    "arena": 565,
+    "arena_name": "Hein-Dahlinger-Halle",
+    "arena_address": "Geschwister-Scholl-Straße 9, 24143 Kiel",
+    "arena_short": "Kiel, Hein-Dahlinger-Halle",
+    "nominated_referees": "L.Schneider / V.Justen",
+    "deletable": false,
+    "notice_type": "",
+    "notice_string": "",
+    "referees": [
+        {
+            "license_id": "1997",
+            "first_name": "Lennard",
+            "last_name": "Schneider"
+        },
+        {
+            "license_id": "2280",
+            "first_name": "Volker",
+            "last_name": "Justen"
+        }
+    ]
+}
