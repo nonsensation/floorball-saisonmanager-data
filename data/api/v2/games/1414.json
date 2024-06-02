@@ -1,0 +1,141 @@
+{
+  "id": 1414,
+  "game_day": {
+    "game_day_number": 1,
+    "title": "1. Spieltag"
+  },
+  "game_number": "8",
+  "start_time": "00:00",
+  "actual_start_time": null,
+  "game_status": null,
+  "ingame_status": null,
+  "audience": null,
+  "home_team_id": null,
+  "guest_team_id": null,
+  "live_stream_link": null,
+  "vod_link": null,
+  "events": [],
+  "players": {
+    "home": [],
+    "guest": []
+  },
+  "starting_players": {
+    "home": [],
+    "guest": []
+  },
+  "awards": {
+    "home": [],
+    "guest": []
+  },
+  "league_id": 20,
+  "league_name": "Stena Line U17 Junioren DM-Qualifikation SO",
+  "league_short_name": "DM-Q U17 GF SO",
+  "game_operation_id": 1,
+  "game_operation_name": "Floorball Deutschland",
+  "game_operation_short_name": "FVD",
+  "game_operation_slug": "FVD",
+  "period_titles": [
+    {
+      "period": 1,
+      "short_title": "1",
+      "title": "1. Drittel",
+      "status_id": "period1",
+      "can_end_game": false,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 1.5,
+      "short_title": "P1",
+      "title": "1. Drittelpause",
+      "status_id": "pause1",
+      "can_end_game": false,
+      "optional": false,
+      "running": false
+    },
+    {
+      "period": 2,
+      "short_title": "2",
+      "title": "2. Drittel",
+      "status_id": "period2",
+      "can_end_game": false,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 2.5,
+      "short_title": "P2",
+      "title": "2. Drittelpause",
+      "status_id": "pause2",
+      "can_end_game": false,
+      "optional": false,
+      "running": false
+    },
+    {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 3.5,
+      "short_title": "PV",
+      "title": "Pause vor Verl\u00E4ngerung",
+      "status_id": "pause_et",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 4,
+      "short_title": "V",
+      "title": "Verl\u00E4ngerung",
+      "status_id": "extratime",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    },
+    {
+      "period": 4.5,
+      "short_title": "PP",
+      "title": "Pause vor Penalty-Schie\u00DFen",
+      "status_id": "pause_ps",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 5,
+      "short_title": "P",
+      "title": "Penalty-Schie\u00DFen",
+      "status_id": "penalty_shots",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    }
+  ],
+  "nominated_referees": "-",
+  "deletable": true,
+  "arena": 49,
+  "arena_name": "Leipzig, Radrennbahn (SSC)",
+  "arena_address": "Windorfer Stra\u00DFe 59, 04229  Xx",
+  "arena_short": "Xx, Leipzig, Radrennbahn (SSC)",
+  "date": "2016-05-21",
+  "started": false,
+  "ended": false,
+  "home_team_name": null,
+  "home_team_logo": null,
+  "home_team_small_logo": null,
+  "guest_team_name": null,
+  "guest_team_logo": null,
+  "guest_team_small_logo": null,
+  "referees": [],
+  "notice_type": null,
+  "notice_string": null,
+  "current_period_title": null,
+  "result_string": null,
+  "result": null
+}
