@@ -1,112 +1,700 @@
 {
-    "id": 33953,
-    "game_number": "30",
-    "start_time": "13:20",
-    "actual_start_time": null,
-    "date": "2024-06-09",
-    "game_day": {
-        "game_day_number": 6,
-        "title": "6. Spieltag"
+  "id": 33953,
+  "game_day": {
+    "game_day_number": 6,
+    "title": "6. Spieltag"
+  },
+  "game_number": "30",
+  "start_time": "13:20",
+  "actual_start_time": "13:28",
+  "game_status": "match_record_closed",
+  "ingame_status": "period2",
+  "audience": 80,
+  "home_team_id": 6216,
+  "guest_team_id": 6213,
+  "live_stream_link": null,
+  "vod_link": null,
+  "events": [
+    {
+      "event_id": 1,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 1,
+      "home_goals": 1,
+      "guest_goals": 0,
+      "time": "2:25",
+      "sortkey": "1-02:25",
+      "number": 24,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 11,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
     },
-    "game_status": null,
-    "ingame_status": null,
-    "audience": null,
-    "home_team_name": "Floorball Mainz",
-    "guest_team_name": "SV Taunusstein-Neuhof",
-    "home_team_id": 6216,
-    "guest_team_id": 6213,
-    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY3M9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77025b91f0293483669f33713ff7c9758b622781/92-mainz.png",
-    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY3M9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77025b91f0293483669f33713ff7c9758b622781/92-mainz.png",
-    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3bedfc9f517c319edc0fad0a84d0c8556fb65490/95-taunusstein.png",
-    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3bedfc9f517c319edc0fad0a84d0c8556fb65490/95-taunusstein.png",
-    "live_stream_link": null,
-    "vod_link": null,
-    "events": [],
-    "players": {},
-    "started": false,
-    "ended": false,
-    "result_string": null,
-    "result": null,
-    "league_id": 1471,
-    "league_name": "Hessenliga U9 KF",
-    "league_short_name": "Hessenliga U9 KF",
-    "game_operation_id": 8,
-    "game_operation_name": "Floorball Verband Hessen",
-    "game_operation_short_name": "FVH",
-    "game_operation_slug": "FVH",
-    "period_titles": [
-        {
-            "period": 1,
-            "short_title": "1",
-            "title": "1. Hälfte",
-            "status_id": "period1",
-            "can_end_game": false,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 1.5,
-            "short_title": "HZ",
-            "title": "Halbzeitpause",
-            "status_id": "pause1",
-            "can_end_game": false,
-            "optional": false,
-            "running": false
-        },
-        {
-            "period": 2,
-            "short_title": "2",
-            "title": "2. Hälfte",
-            "status_id": "period2",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 2.5,
-            "short_title": "PV",
-            "title": "Pause vor Verlängerung",
-            "status_id": "pause_et",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 3,
-            "short_title": "V",
-            "title": "Verlängerung",
-            "status_id": "extratime",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        },
-        {
-            "period": 4.5,
-            "short_title": "PP",
-            "title": "Pause vor Penalty-Schießen",
-            "status_id": "pause_ps",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 4,
-            "short_title": "P",
-            "title": "Penalty-Schießen",
-            "status_id": "penalty_shots",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        }
+    {
+      "event_id": 2,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 1,
+      "home_goals": 1,
+      "guest_goals": 1,
+      "time": "3:47",
+      "sortkey": "1-03:47",
+      "number": 97,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 0,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 3,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 1,
+      "home_goals": 2,
+      "guest_goals": 1,
+      "time": "6:02",
+      "sortkey": "1-06:02",
+      "number": 29,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 0,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 4,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 1,
+      "home_goals": 2,
+      "guest_goals": 2,
+      "time": "7:42",
+      "sortkey": "1-07:42",
+      "number": 28,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 0,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 5,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 1,
+      "home_goals": 2,
+      "guest_goals": 3,
+      "time": "8:08",
+      "sortkey": "1-08:08",
+      "number": 95,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 28,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 6,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 1,
+      "home_goals": 2,
+      "guest_goals": 4,
+      "time": "9:11",
+      "sortkey": "1-09:11",
+      "number": 84,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 79,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 7,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 1,
+      "home_goals": 2,
+      "guest_goals": 5,
+      "time": "10:15",
+      "sortkey": "1-10:15",
+      "number": 97,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 84,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 8,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 1,
+      "home_goals": 2,
+      "guest_goals": 6,
+      "time": "12:48",
+      "sortkey": "1-12:48",
+      "number": 79,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 97,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 9,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 2,
+      "home_goals": 3,
+      "guest_goals": 6,
+      "time": "3:14",
+      "sortkey": "2-03:14",
+      "number": 23,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 29,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 10,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 2,
+      "home_goals": 4,
+      "guest_goals": 6,
+      "time": "5:23",
+      "sortkey": "2-05:23",
+      "number": 11,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 0,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 9001,
+      "event_type": "timeout",
+      "event_team": "home",
+      "period": 2,
+      "home_goals": null,
+      "guest_goals": null,
+      "time": "5:23",
+      "sortkey": "2-05:23",
+      "number": null,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": null,
+      "goal_type": null,
+      "goal_type_string": null
+    },
+    {
+      "event_id": 11,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 2,
+      "home_goals": 4,
+      "guest_goals": 7,
+      "time": "11:54",
+      "sortkey": "2-11:54",
+      "number": 28,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 97,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 12,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 2,
+      "home_goals": 4,
+      "guest_goals": 8,
+      "time": "12:24",
+      "sortkey": "2-12:24",
+      "number": 77,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 28,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 13,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 2,
+      "home_goals": 4,
+      "guest_goals": 9,
+      "time": "13:02",
+      "sortkey": "2-13:02",
+      "number": 84,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 0,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 14,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 2,
+      "home_goals": 5,
+      "guest_goals": 9,
+      "time": "13:14",
+      "sortkey": "2-13:14",
+      "number": 27,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 0,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    }
+  ],
+  "players": {
+    "home": [
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 23891,
+        "trikot_number": 33,
+        "player_name": "Schulz",
+        "player_firstname": "Paula"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 23892,
+        "trikot_number": 29,
+        "player_name": "Schulz",
+        "player_firstname": "Laura"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 23870,
+        "trikot_number": 23,
+        "player_name": "Arnoldt",
+        "player_firstname": "Tora Lynn"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25506,
+        "trikot_number": 25,
+        "player_name": "Kleine",
+        "player_firstname": "Niklas"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 23504,
+        "trikot_number": 11,
+        "player_name": "Gruber",
+        "player_firstname": "Hannes"
+      },
+      {
+        "captain": true,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25538,
+        "trikot_number": 24,
+        "player_name": "Fa\u00DFbender",
+        "player_firstname": "Franziska"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25431,
+        "trikot_number": 27,
+        "player_name": "Otto",
+        "player_firstname": "Jasmin"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 22736,
+        "trikot_number": 99,
+        "player_name": "Backof",
+        "player_firstname": "Nic"
+      }
     ],
-    "current_period_title": null,
-    "arena": 168,
-    "arena_name": "August-Storch-Halle",
-    "arena_address": "August Storch Strasse , 35510 Butzbach",
-    "arena_short": "Butzbach, August-Storch-Halle",
-    "nominated_referees": "Griedel",
-    "deletable": true,
-    "notice_type": "",
-    "notice_string": "",
-    "referees": []
+    "guest": [
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 24613,
+        "trikot_number": 77,
+        "player_name": "Niedlich",
+        "player_firstname": "Thore"
+      },
+      {
+        "captain": true,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 24620,
+        "trikot_number": 97,
+        "player_name": "Ulmrich",
+        "player_firstname": "Nick"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 24617,
+        "trikot_number": 95,
+        "player_name": "G\u00F6bel",
+        "player_firstname": "Felix"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 24621,
+        "trikot_number": 79,
+        "player_name": "Gathof",
+        "player_firstname": "Jakob"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25430,
+        "trikot_number": 98,
+        "player_name": "Brown",
+        "player_firstname": "William"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25662,
+        "trikot_number": 68,
+        "player_name": "F\u00FChrer",
+        "player_firstname": "Jannis"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 24619,
+        "trikot_number": 94,
+        "player_name": "Schmidt",
+        "player_firstname": "Mattis"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 26006,
+        "trikot_number": 31,
+        "player_name": "Burlacu",
+        "player_firstname": "Ana-Maria"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 24623,
+        "trikot_number": 84,
+        "player_name": "Riepshoff",
+        "player_firstname": "Jaspar"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 24612,
+        "trikot_number": 28,
+        "player_name": "Riepshoff",
+        "player_firstname": "Jonte"
+      }
+    ]
+  },
+  "starting_players": {
+    "home": [
+      {
+        "position": "goal",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "defender1",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "defender2",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "center",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "forward1",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "forward2",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ],
+    "guest": [
+      {
+        "position": "goal",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "defender1",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "defender2",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "center",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "forward1",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "forward2",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ]
+  },
+  "awards": {
+    "home": [
+      {
+        "award": "mvp",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ],
+    "guest": [
+      {
+        "award": "mvp",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ]
+  },
+  "league_id": 1471,
+  "league_name": "Hessenliga U9 KF",
+  "league_short_name": "Hessenliga U9 KF",
+  "game_operation_id": 8,
+  "game_operation_name": "Floorball Verband Hessen",
+  "game_operation_short_name": "FVH",
+  "game_operation_slug": "FVH",
+  "period_titles": [
+    {
+      "period": 1,
+      "short_title": "1",
+      "title": "1. H\u00E4lfte",
+      "status_id": "period1",
+      "can_end_game": false,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 1.5,
+      "short_title": "HZ",
+      "title": "Halbzeitpause",
+      "status_id": "pause1",
+      "can_end_game": false,
+      "optional": false,
+      "running": false
+    },
+    {
+      "period": 2,
+      "short_title": "2",
+      "title": "2. H\u00E4lfte",
+      "status_id": "period2",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 2.5,
+      "short_title": "PV",
+      "title": "Pause vor Verl\u00E4ngerung",
+      "status_id": "pause_et",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 3,
+      "short_title": "V",
+      "title": "Verl\u00E4ngerung",
+      "status_id": "extratime",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    },
+    {
+      "period": 4.5,
+      "short_title": "PP",
+      "title": "Pause vor Penalty-Schie\u00DFen",
+      "status_id": "pause_ps",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 4,
+      "short_title": "P",
+      "title": "Penalty-Schie\u00DFen",
+      "status_id": "penalty_shots",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    }
+  ],
+  "nominated_referees": "Griedel",
+  "deletable": false,
+  "arena": 168,
+  "arena_name": "August-Storch-Halle",
+  "arena_address": "August Storch Strasse , 35510 Butzbach",
+  "arena_short": "Butzbach, August-Storch-Halle",
+  "date": "2024-06-09",
+  "started": true,
+  "ended": true,
+  "home_team_name": "Floorball Mainz",
+  "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY3M9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77025b91f0293483669f33713ff7c9758b622781/92-mainz.png",
+  "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY3M9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77025b91f0293483669f33713ff7c9758b622781/92-mainz.png",
+  "guest_team_name": "SV Taunusstein-Neuhof",
+  "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3bedfc9f517c319edc0fad0a84d0c8556fb65490/95-taunusstein.png",
+  "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3bedfc9f517c319edc0fad0a84d0c8556fb65490/95-taunusstein.png",
+  "referees": [
+    {
+      "license_id": "0",
+      "first_name": "Lennart",
+      "last_name": "Fischbach"
+    },
+    {
+      "license_id": "0",
+      "first_name": "Jonas",
+      "last_name": "Halbe"
+    }
+  ],
+  "notice_type": "",
+  "notice_string": "",
+  "current_period_title": {
+    "period": 2,
+    "short_title": "2",
+    "title": "2. H\u00E4lfte",
+    "status_id": "period2",
+    "can_end_game": true,
+    "optional": false,
+    "running": true
+  },
+  "result_string": "5:9",
+  "result": {
+    "home_goals": 5,
+    "guest_goals": 9,
+    "home_goals_period": [
+      2,
+      3,
+      0,
+      0
+    ],
+    "guest_goals_period": [
+      6,
+      3,
+      0,
+      0
+    ],
+    "postfix": {
+      "short": "",
+      "long": ""
+    },
+    "forfait": false,
+    "overtime": false
+  }
 }

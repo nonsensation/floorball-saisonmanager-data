@@ -1,112 +1,123 @@
 {
-    "id": 34652,
-    "game_number": "32",
-    "start_time": "13:30",
-    "actual_start_time": null,
-    "date": "2024-01-28",
-    "game_day": {
-        "game_day_number": 3,
-        "title": "3. Spieltag"
+  "id": 34652,
+  "game_day": {
+    "game_day_number": 3,
+    "title": "3. Spieltag"
+  },
+  "game_number": "32",
+  "start_time": "13:30",
+  "actual_start_time": null,
+  "game_status": null,
+  "ingame_status": null,
+  "audience": null,
+  "home_team_id": 5825,
+  "guest_team_id": 5837,
+  "live_stream_link": null,
+  "vod_link": null,
+  "events": [],
+  "players": {
+    "home": [],
+    "guest": []
+  },
+  "starting_players": {
+    "home": [],
+    "guest": []
+  },
+  "awards": {
+    "home": [],
+    "guest": []
+  },
+  "league_id": 1473,
+  "league_name": "U13 Junioren Kleinfeld Platzierungsrunde Ost",
+  "league_short_name": "PRU13KF",
+  "game_operation_id": 6,
+  "game_operation_name": "SBK Ost",
+  "game_operation_short_name": "SBK Ost",
+  "game_operation_slug": "SBK Ost",
+  "period_titles": [
+    {
+      "period": 1,
+      "short_title": "1",
+      "title": "1. H\u00E4lfte",
+      "status_id": "period1",
+      "can_end_game": false,
+      "optional": false,
+      "running": true
     },
-    "game_status": null,
-    "ingame_status": null,
-    "audience": null,
-    "home_team_name": "USV Halle Saalebiber",
-    "guest_team_name": "Floor Fighters Chemnitz",
-    "home_team_id": 5825,
-    "guest_team_id": 5837,
-    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980c3f02a3ca4d394fc549510a1a2322eadf3115/86-hallesaalebiber.png",
-    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980c3f02a3ca4d394fc549510a1a2322eadf3115/86-hallesaalebiber.png",
-    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-    "live_stream_link": null,
-    "vod_link": null,
-    "events": [],
-    "players": {},
-    "started": false,
-    "ended": false,
-    "result_string": null,
-    "result": null,
-    "league_id": 1473,
-    "league_name": "U13 Junioren Kleinfeld Platzierungsrunde Ost",
-    "league_short_name": "PRU13KF",
-    "game_operation_id": 6,
-    "game_operation_name": "SBK Ost",
-    "game_operation_short_name": "SBK Ost",
-    "game_operation_slug": "SBK Ost",
-    "period_titles": [
-        {
-            "period": 1,
-            "short_title": "1",
-            "title": "1. Hälfte",
-            "status_id": "period1",
-            "can_end_game": false,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 1.5,
-            "short_title": "HZ",
-            "title": "Halbzeitpause",
-            "status_id": "pause1",
-            "can_end_game": false,
-            "optional": false,
-            "running": false
-        },
-        {
-            "period": 2,
-            "short_title": "2",
-            "title": "2. Hälfte",
-            "status_id": "period2",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 2.5,
-            "short_title": "PV",
-            "title": "Pause vor Verlängerung",
-            "status_id": "pause_et",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 3,
-            "short_title": "V",
-            "title": "Verlängerung",
-            "status_id": "extratime",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        },
-        {
-            "period": 4.5,
-            "short_title": "PP",
-            "title": "Pause vor Penalty-Schießen",
-            "status_id": "pause_ps",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 4,
-            "short_title": "P",
-            "title": "Penalty-Schießen",
-            "status_id": "penalty_shots",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        }
-    ],
-    "current_period_title": null,
-    "arena": 476,
-    "arena_name": "Jahnbaude",
-    "arena_address": "Fürstenstraße 87, 09130 Chemnitz",
-    "arena_short": "Chemnitz, Jahnbaude",
-    "nominated_referees": "Ausrichter",
-    "deletable": true,
-    "notice_type": "",
-    "notice_string": "",
-    "referees": []
+    {
+      "period": 1.5,
+      "short_title": "HZ",
+      "title": "Halbzeitpause",
+      "status_id": "pause1",
+      "can_end_game": false,
+      "optional": false,
+      "running": false
+    },
+    {
+      "period": 2,
+      "short_title": "2",
+      "title": "2. H\u00E4lfte",
+      "status_id": "period2",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 2.5,
+      "short_title": "PV",
+      "title": "Pause vor Verl\u00E4ngerung",
+      "status_id": "pause_et",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 3,
+      "short_title": "V",
+      "title": "Verl\u00E4ngerung",
+      "status_id": "extratime",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    },
+    {
+      "period": 4.5,
+      "short_title": "PP",
+      "title": "Pause vor Penalty-Schie\u00DFen",
+      "status_id": "pause_ps",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 4,
+      "short_title": "P",
+      "title": "Penalty-Schie\u00DFen",
+      "status_id": "penalty_shots",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    }
+  ],
+  "nominated_referees": "Ausrichter",
+  "deletable": true,
+  "arena": 476,
+  "arena_name": "Jahnbaude",
+  "arena_address": "F\u00FCrstenstra\u00DFe 87, 09130 Chemnitz",
+  "arena_short": "Chemnitz, Jahnbaude",
+  "date": "2024-01-28",
+  "started": false,
+  "ended": false,
+  "home_team_name": "USV Halle Saalebiber",
+  "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980c3f02a3ca4d394fc549510a1a2322eadf3115/86-hallesaalebiber.png",
+  "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980c3f02a3ca4d394fc549510a1a2322eadf3115/86-hallesaalebiber.png",
+  "guest_team_name": "Floor Fighters Chemnitz",
+  "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+  "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+  "referees": [],
+  "notice_type": "",
+  "notice_string": "",
+  "current_period_title": null,
+  "result_string": null,
+  "result": null
 }

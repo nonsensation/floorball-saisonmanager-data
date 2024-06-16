@@ -1,130 +1,162 @@
 {
-    "id": 33195,
-    "game_number": "51",
-    "start_time": "18:00",
-    "actual_start_time": null,
-    "date": "2024-02-10",
-    "game_day": {
-        "game_day_number": 13,
-        "title": "13. Spieltag"
+  "id": 33195,
+  "game_day": {
+    "game_day_number": 13,
+    "title": "13. Spieltag"
+  },
+  "game_number": "51",
+  "start_time": "18:00",
+  "actual_start_time": null,
+  "game_status": null,
+  "ingame_status": null,
+  "audience": null,
+  "home_team_id": 5972,
+  "guest_team_id": 5967,
+  "live_stream_link": null,
+  "vod_link": null,
+  "events": [],
+  "players": {
+    "home": [],
+    "guest": []
+  },
+  "starting_players": {
+    "home": [],
+    "guest": []
+  },
+  "awards": {
+    "home": [],
+    "guest": []
+  },
+  "league_id": 1444,
+  "league_name": "2. FBL Herren Nord/West",
+  "league_short_name": "2. FBL H (NW)",
+  "game_operation_id": 1,
+  "game_operation_name": "Floorball Deutschland",
+  "game_operation_short_name": "FVD",
+  "game_operation_slug": "FVD",
+  "period_titles": [
+    {
+      "period": 1,
+      "short_title": "1",
+      "title": "1. Drittel",
+      "status_id": "period1",
+      "can_end_game": false,
+      "optional": false,
+      "running": true
     },
-    "game_status": null,
-    "ingame_status": null,
-    "audience": null,
-    "home_team_name": "Lilienthaler Wölfe",
-    "guest_team_name": "BSV Roxel",
-    "home_team_id": 5972,
-    "guest_team_id": 5967,
-    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
-    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
-    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
-    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
-    "live_stream_link": null,
-    "vod_link": null,
-    "events": [],
-    "players": {},
-    "started": false,
-    "ended": false,
-    "result_string": null,
-    "result": null,
-    "league_id": 1444,
-    "league_name": "2. FBL Herren Nord/West",
-    "league_short_name": "2. FBL H (NW)",
-    "game_operation_id": 1,
-    "game_operation_name": "Floorball Deutschland",
-    "game_operation_short_name": "FVD",
-    "game_operation_slug": "FVD",
-    "period_titles": [
-        {
-            "period": 1,
-            "short_title": "1",
-            "title": "1. Drittel",
-            "status_id": "period1",
-            "can_end_game": false,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 1.5,
-            "short_title": "P1",
-            "title": "1. Drittelpause",
-            "status_id": "pause1",
-            "can_end_game": false,
-            "optional": false,
-            "running": false
-        },
-        {
-            "period": 2,
-            "short_title": "2",
-            "title": "2. Drittel",
-            "status_id": "period2",
-            "can_end_game": false,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 2.5,
-            "short_title": "P2",
-            "title": "2. Drittelpause",
-            "status_id": "pause2",
-            "can_end_game": false,
-            "optional": false,
-            "running": false
-        },
-        {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 3.5,
-            "short_title": "PV",
-            "title": "Pause vor Verlängerung",
-            "status_id": "pause_et",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 4,
-            "short_title": "V",
-            "title": "Verlängerung",
-            "status_id": "extratime",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        },
-        {
-            "period": 4.5,
-            "short_title": "PP",
-            "title": "Pause vor Penalty-Schießen",
-            "status_id": "pause_ps",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 5,
-            "short_title": "P",
-            "title": "Penalty-Schießen",
-            "status_id": "penalty_shots",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        }
+    {
+      "period": 1.5,
+      "short_title": "P1",
+      "title": "1. Drittelpause",
+      "status_id": "pause1",
+      "can_end_game": false,
+      "optional": false,
+      "running": false
+    },
+    {
+      "period": 2,
+      "short_title": "2",
+      "title": "2. Drittel",
+      "status_id": "period2",
+      "can_end_game": false,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 2.5,
+      "short_title": "P2",
+      "title": "2. Drittelpause",
+      "status_id": "pause2",
+      "can_end_game": false,
+      "optional": false,
+      "running": false
+    },
+    {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 3.5,
+      "short_title": "PV",
+      "title": "Pause vor Verl\u00E4ngerung",
+      "status_id": "pause_et",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 4,
+      "short_title": "V",
+      "title": "Verl\u00E4ngerung",
+      "status_id": "extratime",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    },
+    {
+      "period": 4.5,
+      "short_title": "PP",
+      "title": "Pause vor Penalty-Schie\u00DFen",
+      "status_id": "pause_ps",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 5,
+      "short_title": "P",
+      "title": "Penalty-Schie\u00DFen",
+      "status_id": "penalty_shots",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    }
+  ],
+  "nominated_referees": "D. Schrammar / J. Sandermann",
+  "deletable": false,
+  "arena": 268,
+  "arena_name": "Sportzentrum Schoofmoor",
+  "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
+  "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
+  "date": "2024-02-10",
+  "started": true,
+  "ended": true,
+  "home_team_name": "Lilienthaler W\u00F6lfe",
+  "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+  "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf72f506487a0da28c50ec6af7b63acf8b0a3733/3-lilienthal.png",
+  "guest_team_name": "BSV Roxel",
+  "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+  "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+  "referees": [],
+  "notice_type": null,
+  "notice_string": null,
+  "current_period_title": null,
+  "result_string": "5:0",
+  "result": {
+    "home_goals": 5,
+    "guest_goals": 0,
+    "home_goals_period": [
+      0,
+      0,
+      0,
+      0
     ],
-    "current_period_title": null,
-    "arena": 268,
-    "arena_name": "Sportzentrum Schoofmoor",
-    "arena_address": "Zum Schoofmoor , 28865 Lilienthal",
-    "arena_short": "Lilienthal, Sportzentrum Schoofmoor",
-    "nominated_referees": "D. Schrammar / J. Sandermann",
-    "deletable": true,
-    "notice_type": null,
-    "notice_string": null,
-    "referees": []
+    "guest_goals_period": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "postfix": {
+      "short": " (forfait)",
+      "long": " kampflos"
+    },
+    "forfait": true,
+    "overtime": false
+  }
 }

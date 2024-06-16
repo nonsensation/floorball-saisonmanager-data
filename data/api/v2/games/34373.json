@@ -1,112 +1,547 @@
 {
-    "id": 34373,
-    "game_number": "15",
-    "start_time": "14:00",
-    "actual_start_time": null,
-    "date": "2024-02-25",
-    "game_day": {
-        "game_day_number": 3,
-        "title": "3. Spieltag"
+  "id": 34373,
+  "game_day": {
+    "game_day_number": 3,
+    "title": "3. Spieltag"
+  },
+  "game_number": "15",
+  "start_time": "14:00",
+  "actual_start_time": "10:00",
+  "game_status": "match_record_closed",
+  "ingame_status": "period2",
+  "audience": 69,
+  "home_team_id": 6196,
+  "guest_team_id": 6195,
+  "live_stream_link": null,
+  "vod_link": null,
+  "events": [
+    {
+      "event_id": 1,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 1,
+      "home_goals": 1,
+      "guest_goals": 0,
+      "time": "3:02",
+      "sortkey": "1-03:02",
+      "number": 95,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 14,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
     },
-    "game_status": null,
-    "ingame_status": null,
-    "audience": null,
-    "home_team_name": "TSV Hochdahl",
-    "guest_team_name": "BSV Roxel weiblich",
-    "home_team_id": 6196,
-    "guest_team_id": 6195,
-    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62c87a86c0a807a007006f0d7dd2c6a3d24d6b1c/31-hochdahl.png",
-    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62c87a86c0a807a007006f0d7dd2c6a3d24d6b1c/31-hochdahl.png",
-    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
-    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
-    "live_stream_link": null,
-    "vod_link": null,
-    "events": [],
-    "players": {},
-    "started": false,
-    "ended": false,
-    "result_string": null,
-    "result": null,
-    "league_id": 1439,
-    "league_name": "Landesliga U 11 Kleinfeld",
-    "league_short_name": "LL U 11 KF",
-    "game_operation_id": 10,
-    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
-    "game_operation_short_name": "NWFV",
-    "game_operation_slug": "NWFV",
-    "period_titles": [
-        {
-            "period": 1,
-            "short_title": "1",
-            "title": "1. Hälfte",
-            "status_id": "period1",
-            "can_end_game": false,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 1.5,
-            "short_title": "HZ",
-            "title": "Halbzeitpause",
-            "status_id": "pause1",
-            "can_end_game": false,
-            "optional": false,
-            "running": false
-        },
-        {
-            "period": 2,
-            "short_title": "2",
-            "title": "2. Hälfte",
-            "status_id": "period2",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 2.5,
-            "short_title": "PV",
-            "title": "Pause vor Verlängerung",
-            "status_id": "pause_et",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 3,
-            "short_title": "V",
-            "title": "Verlängerung",
-            "status_id": "extratime",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        },
-        {
-            "period": 4.5,
-            "short_title": "PP",
-            "title": "Pause vor Penalty-Schießen",
-            "status_id": "pause_ps",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 4,
-            "short_title": "P",
-            "title": "Penalty-Schießen",
-            "status_id": "penalty_shots",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        }
+    {
+      "event_id": 2,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 1,
+      "home_goals": 2,
+      "guest_goals": 0,
+      "time": "4:27",
+      "sortkey": "1-04:27",
+      "number": 14,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 95,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 3,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 1,
+      "home_goals": 3,
+      "guest_goals": 0,
+      "time": "8:24",
+      "sortkey": "1-08:24",
+      "number": 90,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 20,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 4,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 1,
+      "home_goals": 4,
+      "guest_goals": 0,
+      "time": "10:17",
+      "sortkey": "1-10:17",
+      "number": 90,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 20,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 5,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 2,
+      "home_goals": 5,
+      "guest_goals": 0,
+      "time": "0:38",
+      "sortkey": "2-00:38",
+      "number": 90,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 20,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 6,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 2,
+      "home_goals": 6,
+      "guest_goals": 0,
+      "time": "8:25",
+      "sortkey": "2-08:25",
+      "number": 3,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 0,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 7,
+      "event_type": "goal",
+      "event_team": "home",
+      "period": 2,
+      "home_goals": 7,
+      "guest_goals": 0,
+      "time": "12:29",
+      "sortkey": "2-12:29",
+      "number": 95,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 14,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    }
+  ],
+  "players": {
+    "home": [
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25776,
+        "trikot_number": 20,
+        "player_name": "Bluhm",
+        "player_firstname": "Elias"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25853,
+        "trikot_number": 90,
+        "player_name": "Winkelmann",
+        "player_firstname": "Finn"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25994,
+        "trikot_number": 17,
+        "player_name": "Wiesmann",
+        "player_firstname": "Sarah"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25780,
+        "trikot_number": 12,
+        "player_name": "Stobbe",
+        "player_firstname": "Jan"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25774,
+        "trikot_number": 14,
+        "player_name": "Merkle",
+        "player_firstname": "Jan-Niklas"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25775,
+        "trikot_number": 95,
+        "player_name": "B\u00F6ttner",
+        "player_firstname": "Mika"
+      },
+      {
+        "captain": null,
+        "goalkeeper": true,
+        "position": "Tor",
+        "player_id": 25772,
+        "trikot_number": 1,
+        "player_name": "B\u00FCngener",
+        "player_firstname": "Anton"
+      },
+      {
+        "captain": null,
+        "goalkeeper": true,
+        "position": "Tor",
+        "player_id": 25782,
+        "trikot_number": 99,
+        "player_name": "Kroll",
+        "player_firstname": "Paul-Bruno"
+      },
+      {
+        "captain": true,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25781,
+        "trikot_number": 9,
+        "player_name": "Klagge",
+        "player_firstname": "Janine"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25967,
+        "trikot_number": 16,
+        "player_name": "Heilein",
+        "player_firstname": "Sara"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25778,
+        "trikot_number": 10,
+        "player_name": "Steinberg",
+        "player_firstname": "Johanna"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25773,
+        "trikot_number": 3,
+        "player_name": "Krus",
+        "player_firstname": "Klara"
+      }
     ],
-    "current_period_title": null,
-    "arena": 232,
-    "arena_name": "Hochdahl, Rankestraße",
-    "arena_address": "Rankestraße 4-6, 40699 Erkrath",
-    "arena_short": "Erkrath, Hochdahl, Rankestraße",
-    "nominated_referees": "Duisburger Wölfe",
-    "deletable": true,
-    "notice_type": "",
-    "notice_string": "",
-    "referees": []
+    "guest": [
+      {
+        "captain": null,
+        "goalkeeper": true,
+        "position": "Tor",
+        "player_id": 23842,
+        "trikot_number": 36,
+        "player_name": "Seiler",
+        "player_firstname": "Thea"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25112,
+        "trikot_number": 83,
+        "player_name": "Jan\u00DFen",
+        "player_firstname": "Lola Greta"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 25103,
+        "trikot_number": 13,
+        "player_name": "Stroot",
+        "player_firstname": "Helen"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 23898,
+        "trikot_number": 74,
+        "player_name": "Filius",
+        "player_firstname": "Charlotte"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 23743,
+        "trikot_number": 42,
+        "player_name": "Lutter",
+        "player_firstname": "Jule"
+      }
+    ]
+  },
+  "starting_players": {
+    "home": [
+      {
+        "position": "goal",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "defender1",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "defender2",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "center",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "forward1",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "forward2",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ],
+    "guest": [
+      {
+        "position": "goal",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "defender1",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "defender2",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "center",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "forward1",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      },
+      {
+        "position": "forward2",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ]
+  },
+  "awards": {
+    "home": [
+      {
+        "award": "mvp",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ],
+    "guest": [
+      {
+        "award": "mvp",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ]
+  },
+  "league_id": 1439,
+  "league_name": "Landesliga U 11 Kleinfeld",
+  "league_short_name": "LL U 11 KF",
+  "game_operation_id": 10,
+  "game_operation_name": "Nordrhein-Westf\u00E4lischer Floorball Verband",
+  "game_operation_short_name": "NWFV",
+  "game_operation_slug": "NWFV",
+  "period_titles": [
+    {
+      "period": 1,
+      "short_title": "1",
+      "title": "1. H\u00E4lfte",
+      "status_id": "period1",
+      "can_end_game": false,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 1.5,
+      "short_title": "HZ",
+      "title": "Halbzeitpause",
+      "status_id": "pause1",
+      "can_end_game": false,
+      "optional": false,
+      "running": false
+    },
+    {
+      "period": 2,
+      "short_title": "2",
+      "title": "2. H\u00E4lfte",
+      "status_id": "period2",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 2.5,
+      "short_title": "PV",
+      "title": "Pause vor Verl\u00E4ngerung",
+      "status_id": "pause_et",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 3,
+      "short_title": "V",
+      "title": "Verl\u00E4ngerung",
+      "status_id": "extratime",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    },
+    {
+      "period": 4.5,
+      "short_title": "PP",
+      "title": "Pause vor Penalty-Schie\u00DFen",
+      "status_id": "pause_ps",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 4,
+      "short_title": "P",
+      "title": "Penalty-Schie\u00DFen",
+      "status_id": "penalty_shots",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    }
+  ],
+  "nominated_referees": "Duisburger W\u00F6lfe",
+  "deletable": false,
+  "arena": 232,
+  "arena_name": "Hochdahl, Rankestra\u00DFe",
+  "arena_address": "Rankestra\u00DFe 4-6, 40699 Erkrath",
+  "arena_short": "Erkrath, Hochdahl, Rankestra\u00DFe",
+  "date": "2024-02-25",
+  "started": true,
+  "ended": true,
+  "home_team_name": "TSV Hochdahl",
+  "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62c87a86c0a807a007006f0d7dd2c6a3d24d6b1c/31-hochdahl.png",
+  "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62c87a86c0a807a007006f0d7dd2c6a3d24d6b1c/31-hochdahl.png",
+  "guest_team_name": "BSV Roxel weiblich",
+  "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+  "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d199e2c53a1721fed8db6048dca0ab5575bdb36/55-roxel.png",
+  "referees": [
+    {
+      "license_id": "6796",
+      "first_name": "",
+      "last_name": ""
+    },
+    {
+      "license_id": "923",
+      "first_name": "",
+      "last_name": ""
+    }
+  ],
+  "notice_type": "",
+  "notice_string": "",
+  "current_period_title": {
+    "period": 2,
+    "short_title": "2",
+    "title": "2. H\u00E4lfte",
+    "status_id": "period2",
+    "can_end_game": true,
+    "optional": false,
+    "running": true
+  },
+  "result_string": "7:0",
+  "result": {
+    "home_goals": 7,
+    "guest_goals": 0,
+    "home_goals_period": [
+      4,
+      3,
+      0,
+      0
+    ],
+    "guest_goals_period": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "postfix": {
+      "short": "",
+      "long": ""
+    },
+    "forfait": false,
+    "overtime": false
+  }
 }

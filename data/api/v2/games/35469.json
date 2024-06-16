@@ -1,112 +1,123 @@
 {
-    "id": 35469,
-    "game_number": "2",
-    "start_time": "11:15",
-    "actual_start_time": null,
-    "date": "2024-05-18",
-    "game_day": {
-        "game_day_number": 1,
-        "title": "1. Spieltag"
+  "id": 35469,
+  "game_day": {
+    "game_day_number": 1,
+    "title": "1. Spieltag"
+  },
+  "game_number": "2",
+  "start_time": "11:15",
+  "actual_start_time": null,
+  "game_status": null,
+  "ingame_status": null,
+  "audience": null,
+  "home_team_id": 6132,
+  "guest_team_id": 6222,
+  "live_stream_link": null,
+  "vod_link": null,
+  "events": [],
+  "players": {
+    "home": [],
+    "guest": []
+  },
+  "starting_players": {
+    "home": [],
+    "guest": []
+  },
+  "awards": {
+    "home": [],
+    "guest": []
+  },
+  "league_id": 1537,
+  "league_name": "Westdeutsche Meisterschaft Qualifikation Kleinfeld",
+  "league_short_name": "WDMQ He. KF",
+  "game_operation_id": 10,
+  "game_operation_name": "Nordrhein-Westf\u00E4lischer Floorball Verband",
+  "game_operation_short_name": "NWFV",
+  "game_operation_slug": "NWFV",
+  "period_titles": [
+    {
+      "period": 1,
+      "short_title": "1",
+      "title": "1. H\u00E4lfte",
+      "status_id": "period1",
+      "can_end_game": false,
+      "optional": false,
+      "running": true
     },
-    "game_status": null,
-    "ingame_status": null,
-    "audience": null,
-    "home_team_name": "SG Ennepetal-Bochum",
-    "guest_team_name": "Marburger Elche",
-    "home_team_id": 6132,
-    "guest_team_id": 6222,
-    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWk09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eefedb04015b65f2de267715a1a645b9cc16ab39/12-djkennepetal.png",
-    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWk09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eefedb04015b65f2de267715a1a645b9cc16ab39/12-djkennepetal.png",
-    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--05f27d683089453fdf147095d81a94997b1c1268/185-marburgerelche.png",
-    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--05f27d683089453fdf147095d81a94997b1c1268/185-marburgerelche.png",
-    "live_stream_link": null,
-    "vod_link": null,
-    "events": [],
-    "players": {},
-    "started": false,
-    "ended": false,
-    "result_string": null,
-    "result": null,
-    "league_id": 1537,
-    "league_name": "Westdeutsche Meisterschaft Qualifikation Kleinfeld",
-    "league_short_name": "WDMQ He. KF",
-    "game_operation_id": 10,
-    "game_operation_name": "Nordrhein-Westfälischer Floorball Verband",
-    "game_operation_short_name": "NWFV",
-    "game_operation_slug": "NWFV",
-    "period_titles": [
-        {
-            "period": 1,
-            "short_title": "1",
-            "title": "1. Hälfte",
-            "status_id": "period1",
-            "can_end_game": false,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 1.5,
-            "short_title": "HZ",
-            "title": "Halbzeitpause",
-            "status_id": "pause1",
-            "can_end_game": false,
-            "optional": false,
-            "running": false
-        },
-        {
-            "period": 2,
-            "short_title": "2",
-            "title": "2. Hälfte",
-            "status_id": "period2",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        {
-            "period": 2.5,
-            "short_title": "PV",
-            "title": "Pause vor Verlängerung",
-            "status_id": "pause_et",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 3,
-            "short_title": "V",
-            "title": "Verlängerung",
-            "status_id": "extratime",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        },
-        {
-            "period": 4.5,
-            "short_title": "PP",
-            "title": "Pause vor Penalty-Schießen",
-            "status_id": "pause_ps",
-            "can_end_game": false,
-            "optional": true,
-            "running": false
-        },
-        {
-            "period": 4,
-            "short_title": "P",
-            "title": "Penalty-Schießen",
-            "status_id": "penalty_shots",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        }
-    ],
-    "current_period_title": null,
-    "arena": 12,
-    "arena_name": "GGS-Halle",
-    "arena_address": "Grenzweg 1, 35510 Kirchgöns",
-    "arena_short": "Kirchgöns, GGS-Halle",
-    "nominated_referees": "TSV Tollwut Ebersgöns",
-    "deletable": true,
-    "notice_type": "",
-    "notice_string": "",
-    "referees": []
+    {
+      "period": 1.5,
+      "short_title": "HZ",
+      "title": "Halbzeitpause",
+      "status_id": "pause1",
+      "can_end_game": false,
+      "optional": false,
+      "running": false
+    },
+    {
+      "period": 2,
+      "short_title": "2",
+      "title": "2. H\u00E4lfte",
+      "status_id": "period2",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    {
+      "period": 2.5,
+      "short_title": "PV",
+      "title": "Pause vor Verl\u00E4ngerung",
+      "status_id": "pause_et",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 3,
+      "short_title": "V",
+      "title": "Verl\u00E4ngerung",
+      "status_id": "extratime",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    },
+    {
+      "period": 4.5,
+      "short_title": "PP",
+      "title": "Pause vor Penalty-Schie\u00DFen",
+      "status_id": "pause_ps",
+      "can_end_game": false,
+      "optional": true,
+      "running": false
+    },
+    {
+      "period": 4,
+      "short_title": "P",
+      "title": "Penalty-Schie\u00DFen",
+      "status_id": "penalty_shots",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    }
+  ],
+  "nominated_referees": "TSV Tollwut Ebersg\u00F6ns",
+  "deletable": true,
+  "arena": 12,
+  "arena_name": "GGS-Halle",
+  "arena_address": "Grenzweg 1, 35510 Kirchg\u00F6ns",
+  "arena_short": "Kirchg\u00F6ns, GGS-Halle",
+  "date": "2024-05-18",
+  "started": false,
+  "ended": false,
+  "home_team_name": "SG Ennepetal-Bochum",
+  "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWk09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eefedb04015b65f2de267715a1a645b9cc16ab39/12-djkennepetal.png",
+  "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWk09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eefedb04015b65f2de267715a1a645b9cc16ab39/12-djkennepetal.png",
+  "guest_team_name": "Marburger Elche",
+  "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--05f27d683089453fdf147095d81a94997b1c1268/185-marburgerelche.png",
+  "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--05f27d683089453fdf147095d81a94997b1c1268/185-marburgerelche.png",
+  "referees": [],
+  "notice_type": "",
+  "notice_string": "",
+  "current_period_title": null,
+  "result_string": null,
+  "result": null
 }

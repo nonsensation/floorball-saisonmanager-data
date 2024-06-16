@@ -6,26 +6,644 @@
   },
   "game_number": "10",
   "start_time": "13:00",
-  "actual_start_time": null,
-  "game_status": null,
-  "ingame_status": null,
-  "audience": null,
-  "home_team_id": 6278,
-  "guest_team_id": 6281,
-  "live_stream_link": null,
+  "actual_start_time": "12:59",
+  "game_status": "match_record_closed",
+  "ingame_status": "period3",
+  "audience": 150,
+  "home_team_id": 6355,
+  "guest_team_id": 6359,
+  "live_stream_link": "https://www.youtube.com/watch?v=JAfqRC8ERmQ",
   "vod_link": null,
-  "events": [],
+  "events": [
+    {
+      "event_id": 1,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 1,
+      "home_goals": 0,
+      "guest_goals": 1,
+      "time": "4:32",
+      "sortkey": "1-04:32",
+      "number": 2,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 7,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 2,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 1,
+      "home_goals": 0,
+      "guest_goals": 2,
+      "time": "5:37",
+      "sortkey": "1-05:37",
+      "number": 10,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 18,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 3,
+      "event_type": "penalty",
+      "event_team": "guest",
+      "period": 1,
+      "home_goals": 0,
+      "guest_goals": 2,
+      "time": "8:36",
+      "sortkey": "1-08:36",
+      "number": 21,
+      "penalty_type": "penalty_2",
+      "penalty_type_string": "2\u0027",
+      "penalty_reason": 901,
+      "penalty_reason_string": "Stockschlag",
+      "assist": null,
+      "goal_type": null,
+      "goal_type_string": null
+    },
+    {
+      "event_id": 4,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 2,
+      "home_goals": 0,
+      "guest_goals": 3,
+      "time": "6:13",
+      "sortkey": "2-06:13",
+      "number": 20,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 0,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 5,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 2,
+      "home_goals": 0,
+      "guest_goals": 4,
+      "time": "9:18",
+      "sortkey": "2-09:18",
+      "number": 8,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 0,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 6,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 2,
+      "home_goals": 0,
+      "guest_goals": 5,
+      "time": "12:48",
+      "sortkey": "2-12:48",
+      "number": 2,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 7,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 7,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 3,
+      "home_goals": 0,
+      "guest_goals": 6,
+      "time": "0:35",
+      "sortkey": "3-00:35",
+      "number": 21,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 18,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 8,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 3,
+      "home_goals": 0,
+      "guest_goals": 7,
+      "time": "8:58",
+      "sortkey": "3-08:58",
+      "number": 7,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 19,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 9,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 3,
+      "home_goals": 0,
+      "guest_goals": 8,
+      "time": "9:48",
+      "sortkey": "3-09:48",
+      "number": 18,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 21,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    },
+    {
+      "event_id": 10,
+      "event_type": "goal",
+      "event_team": "guest",
+      "period": 3,
+      "home_goals": 0,
+      "guest_goals": 9,
+      "time": "11:52",
+      "sortkey": "3-11:52",
+      "number": 10,
+      "penalty_type": null,
+      "penalty_type_string": null,
+      "penalty_reason": null,
+      "penalty_reason_string": null,
+      "assist": 21,
+      "goal_type": "regular",
+      "goal_type_string": "Tor"
+    }
+  ],
   "players": {
-    "home": [],
-    "guest": []
+    "home": [
+      {
+        "captain": null,
+        "goalkeeper": true,
+        "position": "Tor",
+        "player_id": 21264,
+        "trikot_number": 1,
+        "player_name": "Laschet",
+        "player_firstname": "Bente"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 18807,
+        "trikot_number": 2,
+        "player_name": "Tasch",
+        "player_firstname": "Frida Julia"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 16219,
+        "trikot_number": 3,
+        "player_name": "Rix",
+        "player_firstname": "Amina"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 17702,
+        "trikot_number": 4,
+        "player_name": "Fahrenholz",
+        "player_firstname": "Insa"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 21218,
+        "trikot_number": 5,
+        "player_name": "Schwab",
+        "player_firstname": "Helena"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 23399,
+        "trikot_number": 6,
+        "player_name": "Heitlage",
+        "player_firstname": "Ida"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 23533,
+        "trikot_number": 7,
+        "player_name": "Wehage",
+        "player_firstname": "Marlene "
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 19106,
+        "trikot_number": 9,
+        "player_name": "Nedderhoff",
+        "player_firstname": "Emma"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 21013,
+        "trikot_number": 11,
+        "player_name": "Ottow",
+        "player_firstname": "Frieda"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 20431,
+        "trikot_number": 12,
+        "player_name": "Giewat",
+        "player_firstname": "Magda Elisa Malike"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 21224,
+        "trikot_number": 13,
+        "player_name": "Josten",
+        "player_firstname": "Lotta"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 21916,
+        "trikot_number": 14,
+        "player_name": "Olmes",
+        "player_firstname": "Rieke"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 9144,
+        "trikot_number": 15,
+        "player_name": "Kr\u00E4nkel",
+        "player_firstname": "Romy Siv"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 21054,
+        "trikot_number": 16,
+        "player_name": "Hoffmann",
+        "player_firstname": "Enid"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 26024,
+        "trikot_number": 17,
+        "player_name": "Krantz ",
+        "player_firstname": "Svea Patricia "
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 20762,
+        "trikot_number": 19,
+        "player_name": "Ryssel",
+        "player_firstname": "Ella Luise"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 19958,
+        "trikot_number": 20,
+        "player_name": "Tomberger ",
+        "player_firstname": "Smilla"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 21265,
+        "trikot_number": 21,
+        "player_name": "Rassiller",
+        "player_firstname": "Kristina"
+      },
+      {
+        "captain": null,
+        "goalkeeper": true,
+        "position": "Tor",
+        "player_id": 23287,
+        "trikot_number": 32,
+        "player_name": "Lauterfeld",
+        "player_firstname": "Hanna"
+      },
+      {
+        "captain": null,
+        "goalkeeper": true,
+        "position": "Tor",
+        "player_id": 16202,
+        "trikot_number": 31,
+        "player_name": "Albensoeder",
+        "player_firstname": "Rosemarie"
+      }
+    ],
+    "guest": [
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 1851,
+        "trikot_number": 14,
+        "player_name": "Herrmann",
+        "player_firstname": "Hannah"
+      },
+      {
+        "captain": null,
+        "goalkeeper": true,
+        "position": "Tor",
+        "player_id": 15709,
+        "trikot_number": 6,
+        "player_name": "Feuerstracke",
+        "player_firstname": "Lara"
+      },
+      {
+        "captain": null,
+        "goalkeeper": true,
+        "position": "Tor",
+        "player_id": 20749,
+        "trikot_number": 31,
+        "player_name": "Bachmann",
+        "player_firstname": "Klara"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 1755,
+        "trikot_number": 2,
+        "player_name": "Tropschug",
+        "player_firstname": "Lilly-Frances"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 21960,
+        "trikot_number": 3,
+        "player_name": "Richtsteiger",
+        "player_firstname": "Marie"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 15921,
+        "trikot_number": 4,
+        "player_name": "Hoffmann",
+        "player_firstname": "Naama"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 21193,
+        "trikot_number": 5,
+        "player_name": "Zimmermann",
+        "player_firstname": "Jessica"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 17498,
+        "trikot_number": 7,
+        "player_name": "Fritsche",
+        "player_firstname": "Lilly"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 17506,
+        "trikot_number": 8,
+        "player_name": "Braun",
+        "player_firstname": "Hannah"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 16685,
+        "trikot_number": 9,
+        "player_name": "Pricha",
+        "player_firstname": "Josephine"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 3007,
+        "trikot_number": 10,
+        "player_name": "Tropschug",
+        "player_firstname": "Hayley-Jane"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 22762,
+        "trikot_number": 12,
+        "player_name": "Deutsch",
+        "player_firstname": "Lina"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 19497,
+        "trikot_number": 16,
+        "player_name": "Litwin",
+        "player_firstname": "Carla"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 2969,
+        "trikot_number": 18,
+        "player_name": "Fiedler",
+        "player_firstname": "Lilly"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 20703,
+        "trikot_number": 19,
+        "player_name": "J\u00E4schke",
+        "player_firstname": "Henrike"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 15997,
+        "trikot_number": 20,
+        "player_name": "M\u00E4rgel",
+        "player_firstname": "Auratai"
+      },
+      {
+        "captain": null,
+        "goalkeeper": null,
+        "position": "Feld",
+        "player_id": 15993,
+        "trikot_number": 21,
+        "player_name": "Siedenberg",
+        "player_firstname": "Michelle"
+      }
+    ]
   },
   "starting_players": {
-    "home": [],
-    "guest": []
+    "home": [
+      {
+        "position": "goal",
+        "player_id": 16202,
+        "trikot_number": 31,
+        "player_name": "Albensoeder",
+        "player_firstname": "Rosemarie"
+      },
+      {
+        "position": "defender1",
+        "player_id": 20431,
+        "trikot_number": 12,
+        "player_name": "Giewat",
+        "player_firstname": "Magda Elisa Malike"
+      },
+      {
+        "position": "defender2",
+        "player_id": 17702,
+        "trikot_number": 4,
+        "player_name": "Fahrenholz",
+        "player_firstname": "Insa"
+      },
+      {
+        "position": "center",
+        "player_id": 26024,
+        "trikot_number": 17,
+        "player_name": "Krantz ",
+        "player_firstname": "Svea Patricia "
+      },
+      {
+        "position": "forward1",
+        "player_id": 21224,
+        "trikot_number": 13,
+        "player_name": "Josten",
+        "player_firstname": "Lotta"
+      },
+      {
+        "position": "forward2",
+        "player_id": 23399,
+        "trikot_number": 6,
+        "player_name": "Heitlage",
+        "player_firstname": "Ida"
+      }
+    ],
+    "guest": [
+      {
+        "position": "goal",
+        "player_id": 20749,
+        "trikot_number": 31,
+        "player_name": "Bachmann",
+        "player_firstname": "Klara"
+      },
+      {
+        "position": "defender1",
+        "player_id": 3007,
+        "trikot_number": 10,
+        "player_name": "Tropschug",
+        "player_firstname": "Hayley-Jane"
+      },
+      {
+        "position": "defender2",
+        "player_id": 15997,
+        "trikot_number": 20,
+        "player_name": "M\u00E4rgel",
+        "player_firstname": "Auratai"
+      },
+      {
+        "position": "center",
+        "player_id": 2969,
+        "trikot_number": 18,
+        "player_name": "Fiedler",
+        "player_firstname": "Lilly"
+      },
+      {
+        "position": "forward1",
+        "player_id": 15993,
+        "trikot_number": 21,
+        "player_name": "Siedenberg",
+        "player_firstname": "Michelle"
+      },
+      {
+        "position": "forward2",
+        "player_id": 19497,
+        "trikot_number": 16,
+        "player_name": "Litwin",
+        "player_firstname": "Carla"
+      }
+    ]
   },
   "awards": {
-    "home": [],
-    "guest": []
+    "home": [
+      {
+        "award": "mvp",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ],
+    "guest": [
+      {
+        "award": "mvp",
+        "player_id": null,
+        "trikot_number": null,
+        "player_name": "",
+        "player_firstname": ""
+      }
+    ]
   },
   "league_id": 1562,
   "league_name": "U17 Juniorinnen Trophy",
@@ -118,14 +736,14 @@
     }
   ],
   "nominated_referees": "",
-  "deletable": true,
+  "deletable": false,
   "arena": 273,
   "arena_name": "TVD Sportpark 04",
   "arena_address": "Schulstr. 6, 49413 Dinklage",
   "arena_short": "Dinklage, TVD Sportpark 04",
   "date": "2024-06-09",
-  "started": false,
-  "ended": false,
+  "started": true,
+  "ended": true,
   "home_team_name": "Team Nord",
   "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--184244c016a379ccd675d82caa8283500521f182/245.png",
   "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--184244c016a379ccd675d82caa8283500521f182/245.png",
@@ -135,7 +753,36 @@
   "referees": [],
   "notice_type": "",
   "notice_string": "",
-  "current_period_title": null,
-  "result_string": null,
-  "result": null
+  "current_period_title": {
+    "period": 3,
+    "short_title": "3",
+    "title": "3. Drittel",
+    "status_id": "period3",
+    "can_end_game": true,
+    "optional": false,
+    "running": true
+  },
+  "result_string": "0:9",
+  "result": {
+    "home_goals": 0,
+    "guest_goals": 9,
+    "home_goals_period": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "guest_goals_period": [
+      2,
+      3,
+      4,
+      0
+    ],
+    "postfix": {
+      "short": "",
+      "long": ""
+    },
+    "forfait": false,
+    "overtime": false
+  }
 }

@@ -1,1962 +1,1972 @@
 [
-    {
-        "game_id": 35209,
-        "game_number": 1,
-        "game_day": 1,
-        "arena": 265,
-        "arena_name": "Sporthalle Havelland-Grundschule",
-        "arena_address": "Wilhelm-Kabus-Straße 30 - 30 a, 10829 Berlin",
-        "arena_short": "Berlin, Sporthalle Havelland-Grundschule",
-        "hosting_club": "Berlin Rockets",
-        "game_day_id": 12288,
-        "date": "2024-03-02",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Berlin Rockets",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "guest_team_name": "UHC Sparkasse Weißenfels",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "nominated_referee_string": "K. Moors / S. Richter",
-        "referees": [
-            {
-                "license_id": "5677",
-                "first_name": "Karlis",
-                "last_name": "Moors"
-            },
-            {
-                "license_id": "238",
-                "first_name": "Sascha",
-                "last_name": "Richter"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "2:9",
-        "result": {
-            "home_goals": 2,
-            "guest_goals": 9,
-            "home_goals_period": [
-                1,
-                1,
-                0,
-                0
-            ],
-            "guest_goals_period": [
-                4,
-                1,
-                4,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
+  {
+    "time": "18:00",
+    "hosting_club": "Berlin Rockets",
+    "game_id": 35209,
+    "game_number": 1,
+    "game_day": 1,
+    "game_day_id": 12288,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "K. Moors / S. Richter",
+    "state": "ended",
+    "arena": 265,
+    "arena_name": "Sporthalle Havelland-Grundschule",
+    "arena_address": "Wilhelm-Kabus-Stra\u00DFe 30 - 30 a, 10829 Berlin",
+    "arena_short": "Berlin, Sporthalle Havelland-Grundschule",
+    "date": "2024-03-02",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Berlin Rockets",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "guest_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "referees": [
+      {
+        "license_id": "5677",
+        "first_name": "Karlis",
+        "last_name": "Moors"
+      },
+      {
+        "license_id": "238",
+        "first_name": "Sascha",
+        "last_name": "Richter"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
     },
-    {
-        "game_id": 35210,
-        "game_number": 2,
-        "game_day": 1,
-        "arena": 160,
-        "arena_name": "Sportpark Nord",
-        "arena_address": "Kölnstraße 250, 53117 Bonn",
-        "arena_short": "Bonn, Sportpark Nord",
-        "hosting_club": "SSF Dragons Bonn",
-        "game_day_id": 12289,
-        "date": "2024-03-02",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "SSF Dragons Bonn",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
-        "guest_team_name": "MFBC Leipzig",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "nominated_referee_string": "T. Galetzka / S. Ehebrecht",
-        "referees": [
-            {
-                "license_id": "0",
-                "first_name": "Tim",
-                "last_name": "Galetzka"
-            },
-            {
-                "license_id": "527",
-                "first_name": "Steven",
-                "last_name": "Ehebrecht"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "4:8",
-        "result": {
-            "home_goals": 4,
-            "guest_goals": 8,
-            "home_goals_period": [
-                3,
-                0,
-                1,
-                0
-            ],
-            "guest_goals_period": [
-                2,
-                2,
-                4,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35213,
-        "game_number": 4,
-        "game_day": 1,
-        "arena": 377,
-        "arena_name": "Stadtparkhalle",
-        "arena_address": "Pestalozzistraße 1, 41564 Kaarst",
-        "arena_short": "Kaarst, Stadtparkhalle",
-        "hosting_club": "DJK Holzbüttgen",
-        "game_day_id": 12291,
-        "date": "2024-03-03",
-        "time": "15:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "DJK Holzbüttgen",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
-        "guest_team_name": "Floor Fighters Chemnitz",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "nominated_referee_string": "S. Ehebrecht / T. Galetzka",
-        "referees": [
-            {
-                "license_id": "527",
-                "first_name": "Steven ",
-                "last_name": "Ehebrecht"
-            },
-            {
-                "license_id": "237",
-                "first_name": "Tim",
-                "last_name": "Galetzka"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "3:6",
-        "result": {
-            "home_goals": 3,
-            "guest_goals": 6,
-            "home_goals_period": [
-                0,
-                2,
-                1,
-                0
-            ],
-            "guest_goals_period": [
-                2,
-                3,
-                1,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35212,
-        "game_number": 3,
-        "game_day": 1,
-        "arena": 443,
-        "arena_name": "Hans-Erlwein-Gymnasium",
-        "arena_address": "Eibenstocker Str. 30, 01277 Dresden",
-        "arena_short": "Dresden, Hans-Erlwein-Gymnasium",
-        "hosting_club": "Unihockey Igels Dresden",
-        "game_day_id": 12290,
-        "date": "2024-03-03",
-        "time": "16:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Unihockey Igels Dresden",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
-        "guest_team_name": "ETV Piranhhas Hamburg",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "nominated_referee_string": "T. Smeilus / N. Wangnet",
-        "referees": [],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "4:6",
-        "result": {
-            "home_goals": 4,
-            "guest_goals": 6,
-            "home_goals_period": [
-                2,
-                0,
-                2,
-                0
-            ],
-            "guest_goals_period": [
-                3,
-                1,
-                2,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35218,
-        "game_number": 6,
-        "game_day": 1,
-        "arena": 310,
-        "arena_name": "Brüderstraße",
-        "arena_address": "Brüderstraße 15, 04103 Leipzig",
-        "arena_short": "Leipzig, Brüderstraße",
-        "hosting_club": "SSC Leipzig",
-        "game_day_id": 12294,
-        "date": "2024-03-09",
-        "time": "13:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "MFBC Leipzig",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_name": "SSF Dragons Bonn",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
-        "nominated_referee_string": "D. Matijasevic / T. Smeilus",
-        "referees": [
-            {
-                "license_id": "2507",
-                "first_name": "Toni",
-                "last_name": "Smeilus"
-            },
-            {
-                "license_id": "3700",
-                "first_name": "Davor",
-                "last_name": "Matjasevic"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "10:6",
-        "result": {
-            "home_goals": 10,
-            "guest_goals": 6,
-            "home_goals_period": [
-                2,
-                3,
-                5,
-                0
-            ],
-            "guest_goals_period": [
-                2,
-                1,
-                3,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35217,
-        "game_number": 5,
-        "game_day": 1,
-        "arena": 38,
-        "arena_name": "Stadthalle",
-        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
-        "arena_short": "Weißenfels, Stadthalle",
-        "hosting_club": "UHC Weißenfels",
-        "game_day_id": 12293,
-        "date": "2024-03-09",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "UHC Sparkasse Weißenfels",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "Berlin Rockets",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "nominated_referee_string": "S. Liers / F. Bobbe",
-        "referees": [
-            {
-                "license_id": "1790",
-                "first_name": "Florian",
-                "last_name": "Bobbe"
-            },
-            {
-                "license_id": "51",
-                "first_name": "Stefan",
-                "last_name": "Liers"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "8:4",
-        "result": {
-            "home_goals": 8,
-            "guest_goals": 4,
-            "home_goals_period": [
-                2,
-                1,
-                5,
-                0
-            ],
-            "guest_goals_period": [
-                2,
-                1,
-                1,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35219,
-        "game_number": 7,
-        "game_day": 1,
-        "arena": 242,
-        "arena_name": "Sporthalle Hoheluft",
-        "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
-        "arena_short": "Hamburg, Sporthalle Hoheluft",
-        "hosting_club": "ETV Hamburg",
-        "game_day_id": 12295,
-        "date": "2024-03-09",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "ETV Piranhhas Hamburg",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_name": "Unihockey Igels Dresden",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
-        "nominated_referee_string": "M. Siljamo / K. Moors",
-        "referees": [
-            {
-                "license_id": "2901",
-                "first_name": "Miro",
-                "last_name": "Siljamo"
-            },
-            {
-                "license_id": "5677",
-                "first_name": "Karlis",
-                "last_name": "Moors"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "13:4",
-        "result": {
-            "home_goals": 13,
-            "guest_goals": 4,
-            "home_goals_period": [
-                3,
-                6,
-                4,
-                0
-            ],
-            "guest_goals_period": [
-                0,
-                2,
-                2,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35220,
-        "game_number": 8,
-        "game_day": 1,
-        "arena": 503,
-        "arena_name": "Schlossteichhalle",
-        "arena_address": "Schloßstraße 13, 09111 Chemnitz",
-        "arena_short": "Chemnitz, Schlossteichhalle",
-        "hosting_club": "Floor Fighters Chemnitz",
-        "game_day_id": 12296,
-        "date": "2024-03-09",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Floor Fighters Chemnitz",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_name": "DJK Holzbüttgen",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
-        "nominated_referee_string": "T. Galetzka / S. Ehebrecht",
-        "referees": [
-            {
-                "license_id": "237",
-                "first_name": "Tim",
-                "last_name": "Galetzka"
-            },
-            {
-                "license_id": "527",
-                "first_name": "Steven",
-                "last_name": "Eherecht"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "6:10",
-        "result": {
-            "home_goals": 6,
-            "guest_goals": 10,
-            "home_goals_period": [
-                2,
-                2,
-                2,
-                0
-            ],
-            "guest_goals_period": [
-                3,
-                4,
-                3,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35223,
-        "game_number": 11,
-        "game_day": 1,
-        "arena": 387,
-        "arena_name": "Schulzentrum Lühe",
-        "arena_address": "Striep 2, 21720 Steinkirchen",
-        "arena_short": "Steinkirchen, Schulzentrum Lühe",
-        "hosting_club": "ETV Hamburg",
-        "game_day_id": 12299,
-        "date": "2024-03-10",
-        "time": "13:00",
-        "started": false,
-        "ended": false,
-        "home_team_name": "ETV Piranhhas Hamburg",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_name": "Unihockey Igels Dresden",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
-        "nominated_referee_string": "S. Richter / K. Moors",
-        "referees": [],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "no_record",
-        "current_period_title": null,
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null
-    },
-    {
-        "game_id": 35222,
-        "game_number": 10,
-        "game_day": 1,
-        "arena": 142,
-        "arena_name": "Sporthalle am Rabet",
-        "arena_address": "Konradstraße  35, 04315 Leipzig",
-        "arena_short": "Leipzig, Sporthalle am Rabet",
-        "hosting_club": "SSC Leipzig",
-        "game_day_id": 12298,
-        "date": "2024-03-10",
-        "time": "15:00",
-        "started": false,
-        "ended": false,
-        "home_team_name": "MFBC Leipzig",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_name": "SSF Dragons Bonn",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
-        "nominated_referee_string": "T. Smeilus / D. Matijasevic",
-        "referees": [],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "no_record",
-        "current_period_title": null,
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null
-    },
-    {
-        "game_id": 35221,
-        "game_number": 9,
-        "game_day": 1,
-        "arena": 38,
-        "arena_name": "Stadthalle",
-        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
-        "arena_short": "Weißenfels, Stadthalle",
-        "hosting_club": "UHC Weißenfels",
-        "game_day_id": 12297,
-        "date": "2024-03-10",
-        "time": "16:00",
-        "started": false,
-        "ended": false,
-        "home_team_name": "UHC Sparkasse Weißenfels",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "Berlin Rockets",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "nominated_referee_string": "S. Liers / C. Fritsche",
-        "referees": [],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "no_record",
-        "current_period_title": null,
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null
-    },
-    {
-        "game_id": 35224,
-        "game_number": 12,
-        "game_day": 1,
-        "arena": 503,
-        "arena_name": "Schlossteichhalle",
-        "arena_address": "Schloßstraße 13, 09111 Chemnitz",
-        "arena_short": "Chemnitz, Schlossteichhalle",
-        "hosting_club": "Floor Fighters Chemnitz",
-        "game_day_id": 12300,
-        "date": "2024-03-10",
-        "time": "16:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Floor Fighters Chemnitz",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_name": "DJK Holzbüttgen",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
-        "nominated_referee_string": "T. Galetzka / S. Ehebrecht",
-        "referees": [
-            {
-                "license_id": "237",
-                "first_name": "Tim",
-                "last_name": "Galetzka"
-            },
-            {
-                "license_id": "527",
-                "first_name": "Steven",
-                "last_name": "Eherecht"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "6:5",
-        "result": {
-            "home_goals": 6,
-            "guest_goals": 5,
-            "home_goals_period": [
-                2,
-                2,
-                2,
-                0
-            ],
-            "guest_goals_period": [
-                0,
-                1,
-                4,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35240,
-        "game_number": 14,
-        "game_day": 2,
-        "arena": 310,
-        "arena_name": "Brüderstraße",
-        "arena_address": "Brüderstraße 15, 04103 Leipzig",
-        "arena_short": "Leipzig, Brüderstraße",
-        "hosting_club": "SSC Leipzig",
-        "game_day_id": 12310,
-        "date": "2024-03-17",
-        "time": "13:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "MFBC Leipzig",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_name": "ETV Piranhhas Hamburg",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "nominated_referee_string": "N. Wangnet / T. Smeilus",
-        "referees": [
-            {
-                "license_id": "2593",
-                "first_name": "Niklas",
-                "last_name": "Wangnet"
-            },
-            {
-                "license_id": "2507",
-                "first_name": "Toni",
-                "last_name": "Smeilus"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "3:8",
-        "result": {
-            "home_goals": 3,
-            "guest_goals": 8,
-            "home_goals_period": [
-                0,
-                0,
-                3,
-                0
-            ],
-            "guest_goals_period": [
-                3,
-                1,
-                4,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35239,
-        "game_number": 13,
-        "game_day": 2,
-        "arena": 38,
-        "arena_name": "Stadthalle",
-        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
-        "arena_short": "Weißenfels, Stadthalle",
-        "hosting_club": "UHC Weißenfels",
-        "game_day_id": 12309,
-        "date": "2024-03-17",
-        "time": "16:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "UHC Sparkasse Weißenfels",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "Floor Fighters Chemnitz",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "nominated_referee_string": "T. Galetzka / S. Ehebrecht",
-        "referees": [
-            {
-                "license_id": "237",
-                "first_name": "Tim",
-                "last_name": "Galetzka"
-            },
-            {
-                "license_id": "527",
-                "first_name": "Steven",
-                "last_name": "Ehebrecht"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "8:1",
-        "result": {
-            "home_goals": 8,
-            "guest_goals": 1,
-            "home_goals_period": [
-                5,
-                1,
-                2,
-                0
-            ],
-            "guest_goals_period": [
-                0,
-                0,
-                1,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35241,
-        "game_number": 15,
-        "game_day": 2,
-        "arena": 37,
-        "arena_name": "Richard-Hartmann-Halle",
-        "arena_address": "Fabrikstraße 9, 09111 Chemnitz",
-        "arena_short": "Chemnitz, Richard-Hartmann-Halle",
-        "hosting_club": "Floor Fighters Chemnitz",
-        "game_day_id": 12311,
-        "date": "2024-03-23",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Floor Fighters Chemnitz",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_name": "UHC Sparkasse Weißenfels",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "nominated_referee_string": "S. Liers / O. Hofmann",
-        "referees": [
-            {
-                "license_id": "453",
-                "first_name": "Oliver",
-                "last_name": "Hofman"
-            },
-            {
-                "license_id": "51",
-                "first_name": "Stefan",
-                "last_name": "Liers"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 4,
-            "short_title": "V",
-            "title": "Verlängerung",
-            "status_id": "extratime",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "9:8 n.V.",
-        "result": {
-            "home_goals": 9,
-            "guest_goals": 8,
-            "home_goals_period": [
-                4,
-                2,
-                2,
-                1
-            ],
-            "guest_goals_period": [
-                4,
-                2,
-                2,
-                0
-            ],
-            "postfix": {
-                "short": "n.V.",
-                "long": "nach Verlängerung"
-            },
-            "forfait": false,
-            "overtime": true
-        }
-    },
-    {
-        "game_id": 35242,
-        "game_number": 16,
-        "game_day": 2,
-        "arena": 242,
-        "arena_name": "Sporthalle Hoheluft",
-        "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
-        "arena_short": "Hamburg, Sporthalle Hoheluft",
-        "hosting_club": "ETV Hamburg",
-        "game_day_id": 12312,
-        "date": "2024-03-23",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "ETV Piranhhas Hamburg",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_name": "MFBC Leipzig",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "nominated_referee_string": "K. Moors / S. Richter",
-        "referees": [
-            {
-                "license_id": "5667",
-                "first_name": "Karlis",
-                "last_name": "Moors"
-            },
-            {
-                "license_id": "238",
-                "first_name": "Sascha",
-                "last_name": "Richter"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 4,
-            "short_title": "V",
-            "title": "Verlängerung",
-            "status_id": "extratime",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "6:5 n.V.",
-        "result": {
-            "home_goals": 6,
-            "guest_goals": 5,
-            "home_goals_period": [
-                2,
-                2,
-                1,
-                1
-            ],
-            "guest_goals_period": [
-                0,
-                3,
-                2,
-                0
-            ],
-            "postfix": {
-                "short": "n.V.",
-                "long": "nach Verlängerung"
-            },
-            "forfait": false,
-            "overtime": true
-        }
-    },
-    {
-        "game_id": 35247,
-        "game_number": 17,
-        "game_day": 2,
-        "arena": 37,
-        "arena_name": "Richard-Hartmann-Halle",
-        "arena_address": "Fabrikstraße 9, 09111 Chemnitz",
-        "arena_short": "Chemnitz, Richard-Hartmann-Halle",
-        "hosting_club": "Floor Fighters Chemnitz",
-        "game_day_id": 12313,
-        "date": "2024-03-24",
-        "time": "16:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Floor Fighters Chemnitz",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_name": "UHC Sparkasse Weißenfels",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "nominated_referee_string": "T. Schnelle / O. Hofmann",
-        "referees": [
-            {
-                "license_id": "879",
-                "first_name": "Toni",
-                "last_name": "Schnelle"
-            },
-            {
-                "license_id": "453",
-                "first_name": "Oliver ",
-                "last_name": "Hofmann"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "5:9",
-        "result": {
-            "home_goals": 5,
-            "guest_goals": 9,
-            "home_goals_period": [
-                0,
-                1,
-                4,
-                0
-            ],
-            "guest_goals_period": [
-                5,
-                2,
-                2,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35243,
-        "game_number": 18,
-        "game_day": 2,
-        "arena": 242,
-        "arena_name": "Sporthalle Hoheluft",
-        "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
-        "arena_short": "Hamburg, Sporthalle Hoheluft",
-        "hosting_club": "ETV Hamburg",
-        "game_day_id": 12314,
-        "date": "2024-03-24",
-        "time": "16:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "ETV Piranhhas Hamburg",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_name": "MFBC Leipzig",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "nominated_referee_string": "T. Galetzka / T. Köstler",
-        "referees": [
-            {
-                "license_id": "237",
-                "first_name": "Tim",
-                "last_name": "Galetzka"
-            },
-            {
-                "license_id": "451",
-                "first_name": "Tobias",
-                "last_name": "Köstler"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 5,
-            "short_title": "P",
-            "title": "Penalty-Schießen",
-            "status_id": "penalty_shots",
-            "can_end_game": true,
-            "optional": true,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "4:5 n. PS",
-        "result": {
-            "home_goals": 4,
-            "guest_goals": 5,
-            "home_goals_period": [
-                1,
-                2,
-                1,
-                0,
-                0
-            ],
-            "guest_goals_period": [
-                3,
-                1,
-                0,
-                0,
-                1
-            ],
-            "postfix": {
-                "short": "n. PS",
-                "long": "nach Penalty-Schießen"
-            },
-            "forfait": false,
-            "overtime": true
-        }
-    },
-    {
-        "game_id": 35244,
-        "game_number": 20,
-        "game_day": 2,
-        "arena": 310,
-        "arena_name": "Brüderstraße",
-        "arena_address": "Brüderstraße 15, 04103 Leipzig",
-        "arena_short": "Leipzig, Brüderstraße",
-        "hosting_club": "SSC Leipzig",
-        "game_day_id": 12316,
-        "date": "2024-03-30",
-        "time": "16:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "MFBC Leipzig",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_name": "ETV Piranhhas Hamburg",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "nominated_referee_string": "T. Galetzka / T. Köstler",
-        "referees": [
-            {
-                "license_id": "237",
-                "first_name": "Tim",
-                "last_name": "Galetzka"
-            },
-            {
-                "license_id": "451",
-                "first_name": "Tobias",
-                "last_name": "Köstler"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": "null",
-        "series_title": null,
-        "series_number": "   ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "3:7",
-        "result": {
-            "home_goals": 3,
-            "guest_goals": 7,
-            "home_goals_period": [
-                1,
-                1,
-                1,
-                0
-            ],
-            "guest_goals_period": [
-                2,
-                1,
-                4,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35248,
-        "game_number": 19,
-        "game_day": 2,
-        "arena": 9,
-        "arena_name": "Sporthalle West",
-        "arena_address": "Thomas-Müntzer-Straße 17, 06667 Weißenfels",
-        "arena_short": "Weißenfels, Sporthalle West",
-        "hosting_club": "UHC Weißenfels",
-        "game_day_id": 12315,
-        "date": "2024-03-30",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "UHC Sparkasse Weißenfels",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "Floor Fighters Chemnitz",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "nominated_referee_string": "O. Hofmann / T. Schnelle",
-        "referees": [
-            {
-                "license_id": "453",
-                "first_name": "Oliver",
-                "last_name": "Hofmann"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": "null",
-        "series_title": null,
-        "series_number": "   ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "6:4",
-        "result": {
-            "home_goals": 6,
-            "guest_goals": 4,
-            "home_goals_period": [
-                2,
-                2,
-                2,
-                0
-            ],
-            "guest_goals_period": [
-                1,
-                0,
-                3,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35246,
-        "game_number": 22,
-        "game_day": 2,
-        "arena": 310,
-        "arena_name": "Brüderstraße",
-        "arena_address": "Brüderstraße 15, 04103 Leipzig",
-        "arena_short": "Leipzig, Brüderstraße",
-        "hosting_club": "SSC Leipzig",
-        "game_day_id": 12318,
-        "date": "2024-03-31",
-        "time": "13:00",
-        "started": false,
-        "ended": false,
-        "home_team_name": "MFBC Leipzig",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_name": "ETV Piranhhas Hamburg",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "nominated_referee_string": "O. Hofmann / T. Schnelle",
-        "referees": [],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "no_record",
-        "current_period_title": null,
-        "group_identifier": "null",
-        "series_title": null,
-        "series_number": "   ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null
-    },
-    {
-        "game_id": 35245,
-        "game_number": 21,
-        "game_day": 2,
-        "arena": 38,
-        "arena_name": "Stadthalle",
-        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
-        "arena_short": "Weißenfels, Stadthalle",
-        "hosting_club": "UHC Weißenfels",
-        "game_day_id": 12317,
-        "date": "2024-03-31",
-        "time": "16:00",
-        "started": false,
-        "ended": false,
-        "home_team_name": "UHC Sparkasse Weißenfels",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "Floor Fighters Chemnitz",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "nominated_referee_string": "T. Galetzka / S. Richter",
-        "referees": [],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "no_record",
-        "current_period_title": null,
-        "group_identifier": "null",
-        "series_title": null,
-        "series_number": "   ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null
-    },
-    {
-        "game_id": 35312,
-        "game_number": 24,
-        "game_day": 3,
-        "arena": 310,
-        "arena_name": "Brüderstraße",
-        "arena_address": "Brüderstraße 15, 04103 Leipzig",
-        "arena_short": "Leipzig, Brüderstraße",
-        "hosting_club": "SSC Leipzig",
-        "game_day_id": 12350,
-        "date": "2024-04-06",
-        "time": "17:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "MFBC Leipzig",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_name": "Floor Fighters Chemnitz",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "nominated_referee_string": "T. Schnelle / S. Liers",
-        "referees": [
-            {
-                "license_id": "51",
-                "first_name": "Stefan",
-                "last_name": "Liers"
-            },
-            {
-                "license_id": "879",
-                "first_name": "Toni",
-                "last_name": "Schnelle"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": "",
-        "series_number": "   ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "11:6",
-        "result": {
-            "home_goals": 11,
-            "guest_goals": 6,
-            "home_goals_period": [
-                4,
-                2,
-                5,
-                0
-            ],
-            "guest_goals_period": [
-                2,
-                1,
-                3,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35313,
-        "game_number": 23,
-        "game_day": 3,
-        "arena": 38,
-        "arena_name": "Stadthalle",
-        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
-        "arena_short": "Weißenfels, Stadthalle",
-        "hosting_club": "UHC Weißenfels",
-        "game_day_id": 12351,
-        "date": "2024-04-07",
-        "time": "16:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "UHC Sparkasse Weißenfels",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "ETV Piranhhas Hamburg",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "nominated_referee_string": "T. Galetzka / T. Köstler",
-        "referees": [
-            {
-                "license_id": "237",
-                "first_name": "Tim",
-                "last_name": "Galetzka"
-            },
-            {
-                "license_id": "451",
-                "first_name": "Tobias",
-                "last_name": "Köstler"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "7:5",
-        "result": {
-            "home_goals": 7,
-            "guest_goals": 5,
-            "home_goals_period": [
-                2,
-                1,
-                4,
-                0
-            ],
-            "guest_goals_period": [
-                0,
-                3,
-                2,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35314,
-        "game_number": 25,
-        "game_day": 3,
-        "arena": 242,
-        "arena_name": "Sporthalle Hoheluft",
-        "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
-        "arena_short": "Hamburg, Sporthalle Hoheluft",
-        "hosting_club": "ETV Hamburg",
-        "game_day_id": 12352,
-        "date": "2024-04-13",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "ETV Piranhhas Hamburg",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_name": "UHC Sparkasse Weißenfels",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "nominated_referee_string": "K. Moors / M. Siljamo",
-        "referees": [
-            {
-                "license_id": "5677",
-                "first_name": "Karlis",
-                "last_name": "Moors"
-            },
-            {
-                "license_id": "2901",
-                "first_name": "Miro",
-                "last_name": "Siljamo"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "6:3",
-        "result": {
-            "home_goals": 6,
-            "guest_goals": 3,
-            "home_goals_period": [
-                0,
-                2,
-                4,
-                0
-            ],
-            "guest_goals_period": [
-                0,
-                2,
-                1,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35315,
-        "game_number": 26,
-        "game_day": 3,
-        "arena": 242,
-        "arena_name": "Sporthalle Hoheluft",
-        "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
-        "arena_short": "Hamburg, Sporthalle Hoheluft",
-        "hosting_club": "ETV Hamburg",
-        "game_day_id": 12353,
-        "date": "2024-04-14",
-        "time": "16:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "ETV Piranhhas Hamburg",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_name": "UHC Sparkasse Weißenfels",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "nominated_referee_string": "T. Galetzka / T. Köstler",
-        "referees": [
-            {
-                "license_id": "237",
-                "first_name": "Tim",
-                "last_name": "Galetzka"
-            },
-            {
-                "license_id": "451",
-                "first_name": "Tobias",
-                "last_name": "Köstler"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "4:8",
-        "result": {
-            "home_goals": 4,
-            "guest_goals": 8,
-            "home_goals_period": [
-                0,
-                1,
-                3,
-                0
-            ],
-            "guest_goals_period": [
-                2,
-                3,
-                3,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35316,
-        "game_number": 27,
-        "game_day": 3,
-        "arena": 38,
-        "arena_name": "Stadthalle",
-        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
-        "arena_short": "Weißenfels, Stadthalle",
-        "hosting_club": "UHC Weißenfels",
-        "game_day_id": 12354,
-        "date": "2024-04-20",
-        "time": "18:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "UHC Sparkasse Weißenfels",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "ETV Piranhhas Hamburg",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "nominated_referee_string": "S. Ehebrecht / T. Köstler",
-        "referees": [
-            {
-                "license_id": "451",
-                "first_name": "Tobias",
-                "last_name": "Köstler"
-            },
-            {
-                "license_id": "527",
-                "first_name": "Steven",
-                "last_name": "Ehebrecht"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "4:9",
-        "result": {
-            "home_goals": 4,
-            "guest_goals": 9,
-            "home_goals_period": [
-                2,
-                2,
-                0,
-                0
-            ],
-            "guest_goals_period": [
-                3,
-                1,
-                5,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35317,
-        "game_number": 28,
-        "game_day": 3,
-        "arena": 38,
-        "arena_name": "Stadthalle",
-        "arena_address": "Beuditzstraße 69A, 06667 Weißenfels",
-        "arena_short": "Weißenfels, Stadthalle",
-        "hosting_club": "UHC Weißenfels",
-        "game_day_id": 12355,
-        "date": "2024-04-21",
-        "time": "16:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "UHC Sparkasse Weißenfels",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "ETV Piranhhas Hamburg",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
-        "nominated_referee_string": "S. Liers / T. Schnelle",
-        "referees": [
-            {
-                "license_id": "879",
-                "first_name": "Toni",
-                "last_name": "Schnelle"
-            },
-            {
-                "license_id": "51",
-                "first_name": "Stefan",
-                "last_name": "Liers"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": null,
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "7:4",
-        "result": {
-            "home_goals": 7,
-            "guest_goals": 4,
-            "home_goals_period": [
-                2,
-                1,
-                4,
-                0
-            ],
-            "guest_goals_period": [
-                0,
-                2,
-                2,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
+    "result_string": "2:9",
+    "result": {
+      "home_goals": 2,
+      "guest_goals": 9,
+      "home_goals_period": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "guest_goals_period": [
+        4,
+        1,
+        4,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
     }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "SSF Dragons Bonn",
+    "game_id": 35210,
+    "game_number": 2,
+    "game_day": 1,
+    "game_day_id": 12289,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Galetzka / S. Ehebrecht",
+    "state": "ended",
+    "arena": 160,
+    "arena_name": "Sportpark Nord",
+    "arena_address": "K\u00F6lnstra\u00DFe 250, 53117 Bonn",
+    "arena_short": "Bonn, Sportpark Nord",
+    "date": "2024-03-02",
+    "started": true,
+    "ended": true,
+    "home_team_name": "SSF Dragons Bonn",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "guest_team_name": "MFBC Leipzig",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "referees": [
+      {
+        "license_id": "0",
+        "first_name": "Tim",
+        "last_name": "Galetzka"
+      },
+      {
+        "license_id": "527",
+        "first_name": "Steven",
+        "last_name": "Ehebrecht"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "4:8",
+    "result": {
+      "home_goals": 4,
+      "guest_goals": 8,
+      "home_goals_period": [
+        3,
+        0,
+        1,
+        0
+      ],
+      "guest_goals_period": [
+        2,
+        2,
+        4,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "15:00",
+    "hosting_club": "DJK Holzb\u00FCttgen",
+    "game_id": 35213,
+    "game_number": 4,
+    "game_day": 1,
+    "game_day_id": 12291,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "S. Ehebrecht / T. Galetzka",
+    "state": "ended",
+    "arena": 377,
+    "arena_name": "Stadtparkhalle",
+    "arena_address": "Pestalozzistra\u00DFe 1, 41564 Kaarst",
+    "arena_short": "Kaarst, Stadtparkhalle",
+    "date": "2024-03-03",
+    "started": true,
+    "ended": true,
+    "home_team_name": "DJK Holzb\u00FCttgen",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+    "guest_team_name": "Floor Fighters Chemnitz",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "referees": [
+      {
+        "license_id": "527",
+        "first_name": "Steven ",
+        "last_name": "Ehebrecht"
+      },
+      {
+        "license_id": "237",
+        "first_name": "Tim",
+        "last_name": "Galetzka"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "3:6",
+    "result": {
+      "home_goals": 3,
+      "guest_goals": 6,
+      "home_goals_period": [
+        0,
+        2,
+        1,
+        0
+      ],
+      "guest_goals_period": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "Unihockey Igels Dresden",
+    "game_id": 35212,
+    "game_number": 3,
+    "game_day": 1,
+    "game_day_id": 12290,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Smeilus / N. Wangnet",
+    "state": "ended",
+    "arena": 443,
+    "arena_name": "Hans-Erlwein-Gymnasium",
+    "arena_address": "Eibenstocker Str. 30, 01277 Dresden",
+    "arena_short": "Dresden, Hans-Erlwein-Gymnasium",
+    "date": "2024-03-03",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Unihockey Igels Dresden",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+    "guest_team_name": "ETV Piranhhas Hamburg",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "referees": [],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "4:6",
+    "result": {
+      "home_goals": 4,
+      "guest_goals": 6,
+      "home_goals_period": [
+        2,
+        0,
+        2,
+        0
+      ],
+      "guest_goals_period": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "13:00",
+    "hosting_club": "SSC Leipzig",
+    "game_id": 35218,
+    "game_number": 6,
+    "game_day": 1,
+    "game_day_id": 12294,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "D. Matijasevic / T. Smeilus",
+    "state": "ended",
+    "arena": 310,
+    "arena_name": "Br\u00FCderstra\u00DFe",
+    "arena_address": "Br\u00FCderstra\u00DFe 15, 04103 Leipzig",
+    "arena_short": "Leipzig, Br\u00FCderstra\u00DFe",
+    "date": "2024-03-09",
+    "started": true,
+    "ended": true,
+    "home_team_name": "MFBC Leipzig",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_name": "SSF Dragons Bonn",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "referees": [
+      {
+        "license_id": "2507",
+        "first_name": "Toni",
+        "last_name": "Smeilus"
+      },
+      {
+        "license_id": "3700",
+        "first_name": "Davor",
+        "last_name": "Matjasevic"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "10:6",
+    "result": {
+      "home_goals": 10,
+      "guest_goals": 6,
+      "home_goals_period": [
+        2,
+        3,
+        5,
+        0
+      ],
+      "guest_goals_period": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "UHC Wei\u00DFenfels",
+    "game_id": 35217,
+    "game_number": 5,
+    "game_day": 1,
+    "game_day_id": 12293,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "S. Liers / F. Bobbe",
+    "state": "ended",
+    "arena": 38,
+    "arena_name": "Stadthalle",
+    "arena_address": "Beuditzstra\u00DFe 69A, 06667 Wei\u00DFenfels",
+    "arena_short": "Wei\u00DFenfels, Stadthalle",
+    "date": "2024-03-09",
+    "started": true,
+    "ended": true,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "Berlin Rockets",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "referees": [
+      {
+        "license_id": "1790",
+        "first_name": "Florian",
+        "last_name": "Bobbe"
+      },
+      {
+        "license_id": "51",
+        "first_name": "Stefan",
+        "last_name": "Liers"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "8:4",
+    "result": {
+      "home_goals": 8,
+      "guest_goals": 4,
+      "home_goals_period": [
+        2,
+        1,
+        5,
+        0
+      ],
+      "guest_goals_period": [
+        2,
+        1,
+        1,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "ETV Hamburg",
+    "game_id": 35219,
+    "game_number": 7,
+    "game_day": 1,
+    "game_day_id": 12295,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "M. Siljamo / K. Moors",
+    "state": "ended",
+    "arena": 242,
+    "arena_name": "Sporthalle Hoheluft",
+    "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
+    "arena_short": "Hamburg, Sporthalle Hoheluft",
+    "date": "2024-03-09",
+    "started": true,
+    "ended": true,
+    "home_team_name": "ETV Piranhhas Hamburg",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_name": "Unihockey Igels Dresden",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+    "referees": [
+      {
+        "license_id": "2901",
+        "first_name": "Miro",
+        "last_name": "Siljamo"
+      },
+      {
+        "license_id": "5677",
+        "first_name": "Karlis",
+        "last_name": "Moors"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "13:4",
+    "result": {
+      "home_goals": 13,
+      "guest_goals": 4,
+      "home_goals_period": [
+        3,
+        6,
+        4,
+        0
+      ],
+      "guest_goals_period": [
+        0,
+        2,
+        2,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "Floor Fighters Chemnitz",
+    "game_id": 35220,
+    "game_number": 8,
+    "game_day": 1,
+    "game_day_id": 12296,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Galetzka / S. Ehebrecht",
+    "state": "ended",
+    "arena": 503,
+    "arena_name": "Schlossteichhalle",
+    "arena_address": "Schlo\u00DFstra\u00DFe 13, 09111 Chemnitz",
+    "arena_short": "Chemnitz, Schlossteichhalle",
+    "date": "2024-03-09",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Floor Fighters Chemnitz",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_name": "DJK Holzb\u00FCttgen",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+    "referees": [
+      {
+        "license_id": "237",
+        "first_name": "Tim",
+        "last_name": "Galetzka"
+      },
+      {
+        "license_id": "527",
+        "first_name": "Steven",
+        "last_name": "Eherecht"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "6:10",
+    "result": {
+      "home_goals": 6,
+      "guest_goals": 10,
+      "home_goals_period": [
+        2,
+        2,
+        2,
+        0
+      ],
+      "guest_goals_period": [
+        3,
+        4,
+        3,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "13:00",
+    "hosting_club": "ETV Hamburg",
+    "game_id": 35223,
+    "game_number": 11,
+    "game_day": 1,
+    "game_day_id": 12299,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "S. Richter / K. Moors",
+    "state": "no_record",
+    "arena": 387,
+    "arena_name": "Schulzentrum L\u00FChe",
+    "arena_address": "Striep 2, 21720 Steinkirchen",
+    "arena_short": "Steinkirchen, Schulzentrum L\u00FChe",
+    "date": "2024-03-10",
+    "started": false,
+    "ended": false,
+    "home_team_name": "ETV Piranhhas Hamburg",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_name": "Unihockey Igels Dresden",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+    "referees": [],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": null,
+    "result_string": null,
+    "result": null
+  },
+  {
+    "time": "15:00",
+    "hosting_club": "SSC Leipzig",
+    "game_id": 35222,
+    "game_number": 10,
+    "game_day": 1,
+    "game_day_id": 12298,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Smeilus / D. Matijasevic",
+    "state": "no_record",
+    "arena": 142,
+    "arena_name": "Sporthalle am Rabet",
+    "arena_address": "Konradstra\u00DFe  35, 04315 Leipzig",
+    "arena_short": "Leipzig, Sporthalle am Rabet",
+    "date": "2024-03-10",
+    "started": false,
+    "ended": false,
+    "home_team_name": "MFBC Leipzig",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_name": "SSF Dragons Bonn",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd3f73b1aba43dcac5e3ef385cbe41860cfe1c8b/168.png",
+    "referees": [],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": null,
+    "result_string": null,
+    "result": null
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "UHC Wei\u00DFenfels",
+    "game_id": 35221,
+    "game_number": 9,
+    "game_day": 1,
+    "game_day_id": 12297,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "S. Liers / C. Fritsche",
+    "state": "no_record",
+    "arena": 38,
+    "arena_name": "Stadthalle",
+    "arena_address": "Beuditzstra\u00DFe 69A, 06667 Wei\u00DFenfels",
+    "arena_short": "Wei\u00DFenfels, Stadthalle",
+    "date": "2024-03-10",
+    "started": false,
+    "ended": false,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "Berlin Rockets",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "referees": [],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": null,
+    "result_string": null,
+    "result": null
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "Floor Fighters Chemnitz",
+    "game_id": 35224,
+    "game_number": 12,
+    "game_day": 1,
+    "game_day_id": 12300,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Galetzka / S. Ehebrecht",
+    "state": "ended",
+    "arena": 503,
+    "arena_name": "Schlossteichhalle",
+    "arena_address": "Schlo\u00DFstra\u00DFe 13, 09111 Chemnitz",
+    "arena_short": "Chemnitz, Schlossteichhalle",
+    "date": "2024-03-10",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Floor Fighters Chemnitz",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_name": "DJK Holzb\u00FCttgen",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ea52d65906ac6b09edda0cc7fddada02d13938/202-holzbuettgen.png",
+    "referees": [
+      {
+        "license_id": "237",
+        "first_name": "Tim",
+        "last_name": "Galetzka"
+      },
+      {
+        "license_id": "527",
+        "first_name": "Steven",
+        "last_name": "Eherecht"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "6:5",
+    "result": {
+      "home_goals": 6,
+      "guest_goals": 5,
+      "home_goals_period": [
+        2,
+        2,
+        2,
+        0
+      ],
+      "guest_goals_period": [
+        0,
+        1,
+        4,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "13:00",
+    "hosting_club": "SSC Leipzig",
+    "game_id": 35240,
+    "game_number": 14,
+    "game_day": 2,
+    "game_day_id": 12310,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "N. Wangnet / T. Smeilus",
+    "state": "ended",
+    "arena": 310,
+    "arena_name": "Br\u00FCderstra\u00DFe",
+    "arena_address": "Br\u00FCderstra\u00DFe 15, 04103 Leipzig",
+    "arena_short": "Leipzig, Br\u00FCderstra\u00DFe",
+    "date": "2024-03-17",
+    "started": true,
+    "ended": true,
+    "home_team_name": "MFBC Leipzig",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_name": "ETV Piranhhas Hamburg",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "referees": [
+      {
+        "license_id": "2593",
+        "first_name": "Niklas",
+        "last_name": "Wangnet"
+      },
+      {
+        "license_id": "2507",
+        "first_name": "Toni",
+        "last_name": "Smeilus"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "3:8",
+    "result": {
+      "home_goals": 3,
+      "guest_goals": 8,
+      "home_goals_period": [
+        0,
+        0,
+        3,
+        0
+      ],
+      "guest_goals_period": [
+        3,
+        1,
+        4,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "UHC Wei\u00DFenfels",
+    "game_id": 35239,
+    "game_number": 13,
+    "game_day": 2,
+    "game_day_id": 12309,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Galetzka / S. Ehebrecht",
+    "state": "ended",
+    "arena": 38,
+    "arena_name": "Stadthalle",
+    "arena_address": "Beuditzstra\u00DFe 69A, 06667 Wei\u00DFenfels",
+    "arena_short": "Wei\u00DFenfels, Stadthalle",
+    "date": "2024-03-17",
+    "started": true,
+    "ended": true,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "Floor Fighters Chemnitz",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "referees": [
+      {
+        "license_id": "237",
+        "first_name": "Tim",
+        "last_name": "Galetzka"
+      },
+      {
+        "license_id": "527",
+        "first_name": "Steven",
+        "last_name": "Ehebrecht"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "8:1",
+    "result": {
+      "home_goals": 8,
+      "guest_goals": 1,
+      "home_goals_period": [
+        5,
+        1,
+        2,
+        0
+      ],
+      "guest_goals_period": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "Floor Fighters Chemnitz",
+    "game_id": 35241,
+    "game_number": 15,
+    "game_day": 2,
+    "game_day_id": 12311,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "S. Liers / O. Hofmann",
+    "state": "ended",
+    "arena": 37,
+    "arena_name": "Richard-Hartmann-Halle",
+    "arena_address": "Fabrikstra\u00DFe 9, 09111 Chemnitz",
+    "arena_short": "Chemnitz, Richard-Hartmann-Halle",
+    "date": "2024-03-23",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Floor Fighters Chemnitz",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "referees": [
+      {
+        "license_id": "453",
+        "first_name": "Oliver",
+        "last_name": "Hofman"
+      },
+      {
+        "license_id": "51",
+        "first_name": "Stefan",
+        "last_name": "Liers"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 4,
+      "short_title": "V",
+      "title": "Verl\u00E4ngerung",
+      "status_id": "extratime",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    },
+    "result_string": "9:8 n.V.",
+    "result": {
+      "home_goals": 9,
+      "guest_goals": 8,
+      "home_goals_period": [
+        4,
+        2,
+        2,
+        1
+      ],
+      "guest_goals_period": [
+        4,
+        2,
+        2,
+        0
+      ],
+      "postfix": {
+        "short": "n.V.",
+        "long": "nach Verl\u00E4ngerung"
+      },
+      "forfait": false,
+      "overtime": true
+    }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "ETV Hamburg",
+    "game_id": 35242,
+    "game_number": 16,
+    "game_day": 2,
+    "game_day_id": 12312,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "K. Moors / S. Richter",
+    "state": "ended",
+    "arena": 242,
+    "arena_name": "Sporthalle Hoheluft",
+    "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
+    "arena_short": "Hamburg, Sporthalle Hoheluft",
+    "date": "2024-03-23",
+    "started": true,
+    "ended": true,
+    "home_team_name": "ETV Piranhhas Hamburg",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_name": "MFBC Leipzig",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "referees": [
+      {
+        "license_id": "5667",
+        "first_name": "Karlis",
+        "last_name": "Moors"
+      },
+      {
+        "license_id": "238",
+        "first_name": "Sascha",
+        "last_name": "Richter"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 4,
+      "short_title": "V",
+      "title": "Verl\u00E4ngerung",
+      "status_id": "extratime",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    },
+    "result_string": "6:5 n.V.",
+    "result": {
+      "home_goals": 6,
+      "guest_goals": 5,
+      "home_goals_period": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "guest_goals_period": [
+        0,
+        3,
+        2,
+        0
+      ],
+      "postfix": {
+        "short": "n.V.",
+        "long": "nach Verl\u00E4ngerung"
+      },
+      "forfait": false,
+      "overtime": true
+    }
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "Floor Fighters Chemnitz",
+    "game_id": 35247,
+    "game_number": 17,
+    "game_day": 2,
+    "game_day_id": 12313,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Schnelle / O. Hofmann",
+    "state": "ended",
+    "arena": 37,
+    "arena_name": "Richard-Hartmann-Halle",
+    "arena_address": "Fabrikstra\u00DFe 9, 09111 Chemnitz",
+    "arena_short": "Chemnitz, Richard-Hartmann-Halle",
+    "date": "2024-03-24",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Floor Fighters Chemnitz",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "referees": [
+      {
+        "license_id": "879",
+        "first_name": "Toni",
+        "last_name": "Schnelle"
+      },
+      {
+        "license_id": "453",
+        "first_name": "Oliver ",
+        "last_name": "Hofmann"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "5:9",
+    "result": {
+      "home_goals": 5,
+      "guest_goals": 9,
+      "home_goals_period": [
+        0,
+        1,
+        4,
+        0
+      ],
+      "guest_goals_period": [
+        5,
+        2,
+        2,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "ETV Hamburg",
+    "game_id": 35243,
+    "game_number": 18,
+    "game_day": 2,
+    "game_day_id": 12314,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Galetzka / T. K\u00F6stler",
+    "state": "ended",
+    "arena": 242,
+    "arena_name": "Sporthalle Hoheluft",
+    "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
+    "arena_short": "Hamburg, Sporthalle Hoheluft",
+    "date": "2024-03-24",
+    "started": true,
+    "ended": true,
+    "home_team_name": "ETV Piranhhas Hamburg",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_name": "MFBC Leipzig",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "referees": [
+      {
+        "license_id": "237",
+        "first_name": "Tim",
+        "last_name": "Galetzka"
+      },
+      {
+        "license_id": "451",
+        "first_name": "Tobias",
+        "last_name": "K\u00F6stler"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 5,
+      "short_title": "P",
+      "title": "Penalty-Schie\u00DFen",
+      "status_id": "penalty_shots",
+      "can_end_game": true,
+      "optional": true,
+      "running": true
+    },
+    "result_string": "4:5 n. PS",
+    "result": {
+      "home_goals": 4,
+      "guest_goals": 5,
+      "home_goals_period": [
+        1,
+        2,
+        1,
+        0,
+        0
+      ],
+      "guest_goals_period": [
+        3,
+        1,
+        0,
+        0,
+        1
+      ],
+      "postfix": {
+        "short": "n. PS",
+        "long": "nach Penalty-Schie\u00DFen"
+      },
+      "forfait": false,
+      "overtime": true
+    }
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "SSC Leipzig",
+    "game_id": 35244,
+    "game_number": 20,
+    "game_day": 2,
+    "game_day_id": 12316,
+    "group_identifier": "null",
+    "series_title": null,
+    "series_number": "   ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Galetzka / T. K\u00F6stler",
+    "state": "ended",
+    "arena": 310,
+    "arena_name": "Br\u00FCderstra\u00DFe",
+    "arena_address": "Br\u00FCderstra\u00DFe 15, 04103 Leipzig",
+    "arena_short": "Leipzig, Br\u00FCderstra\u00DFe",
+    "date": "2024-03-30",
+    "started": true,
+    "ended": true,
+    "home_team_name": "MFBC Leipzig",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_name": "ETV Piranhhas Hamburg",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "referees": [
+      {
+        "license_id": "237",
+        "first_name": "Tim",
+        "last_name": "Galetzka"
+      },
+      {
+        "license_id": "451",
+        "first_name": "Tobias",
+        "last_name": "K\u00F6stler"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "3:7",
+    "result": {
+      "home_goals": 3,
+      "guest_goals": 7,
+      "home_goals_period": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "guest_goals_period": [
+        2,
+        1,
+        4,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "UHC Wei\u00DFenfels",
+    "game_id": 35248,
+    "game_number": 19,
+    "game_day": 2,
+    "game_day_id": 12315,
+    "group_identifier": "null",
+    "series_title": null,
+    "series_number": "   ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "O. Hofmann / T. Schnelle",
+    "state": "ended",
+    "arena": 9,
+    "arena_name": "Sporthalle West",
+    "arena_address": "Thomas-M\u00FCntzer-Stra\u00DFe 17, 06667 Wei\u00DFenfels",
+    "arena_short": "Wei\u00DFenfels, Sporthalle West",
+    "date": "2024-03-30",
+    "started": true,
+    "ended": true,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "Floor Fighters Chemnitz",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "referees": [
+      {
+        "license_id": "453",
+        "first_name": "Oliver",
+        "last_name": "Hofmann"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "6:4",
+    "result": {
+      "home_goals": 6,
+      "guest_goals": 4,
+      "home_goals_period": [
+        2,
+        2,
+        2,
+        0
+      ],
+      "guest_goals_period": [
+        1,
+        0,
+        3,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "13:00",
+    "hosting_club": "SSC Leipzig",
+    "game_id": 35246,
+    "game_number": 22,
+    "game_day": 2,
+    "game_day_id": 12318,
+    "group_identifier": "null",
+    "series_title": null,
+    "series_number": "   ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "O. Hofmann / T. Schnelle",
+    "state": "no_record",
+    "arena": 310,
+    "arena_name": "Br\u00FCderstra\u00DFe",
+    "arena_address": "Br\u00FCderstra\u00DFe 15, 04103 Leipzig",
+    "arena_short": "Leipzig, Br\u00FCderstra\u00DFe",
+    "date": "2024-03-31",
+    "started": false,
+    "ended": false,
+    "home_team_name": "MFBC Leipzig",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_name": "ETV Piranhhas Hamburg",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "referees": [],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": null,
+    "result_string": null,
+    "result": null
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "UHC Wei\u00DFenfels",
+    "game_id": 35245,
+    "game_number": 21,
+    "game_day": 2,
+    "game_day_id": 12317,
+    "group_identifier": "null",
+    "series_title": null,
+    "series_number": "   ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Galetzka / S. Richter",
+    "state": "no_record",
+    "arena": 38,
+    "arena_name": "Stadthalle",
+    "arena_address": "Beuditzstra\u00DFe 69A, 06667 Wei\u00DFenfels",
+    "arena_short": "Wei\u00DFenfels, Stadthalle",
+    "date": "2024-03-31",
+    "started": false,
+    "ended": false,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "Floor Fighters Chemnitz",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "referees": [],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": null,
+    "result_string": null,
+    "result": null
+  },
+  {
+    "time": "17:00",
+    "hosting_club": "SSC Leipzig",
+    "game_id": 35312,
+    "game_number": 24,
+    "game_day": 3,
+    "game_day_id": 12350,
+    "group_identifier": null,
+    "series_title": "",
+    "series_number": "   ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Schnelle / S. Liers",
+    "state": "ended",
+    "arena": 310,
+    "arena_name": "Br\u00FCderstra\u00DFe",
+    "arena_address": "Br\u00FCderstra\u00DFe 15, 04103 Leipzig",
+    "arena_short": "Leipzig, Br\u00FCderstra\u00DFe",
+    "date": "2024-04-06",
+    "started": true,
+    "ended": true,
+    "home_team_name": "MFBC Leipzig",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_name": "Floor Fighters Chemnitz",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "referees": [
+      {
+        "license_id": "51",
+        "first_name": "Stefan",
+        "last_name": "Liers"
+      },
+      {
+        "license_id": "879",
+        "first_name": "Toni",
+        "last_name": "Schnelle"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "11:6",
+    "result": {
+      "home_goals": 11,
+      "guest_goals": 6,
+      "home_goals_period": [
+        4,
+        2,
+        5,
+        0
+      ],
+      "guest_goals_period": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "UHC Wei\u00DFenfels",
+    "game_id": 35313,
+    "game_number": 23,
+    "game_day": 3,
+    "game_day_id": 12351,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Galetzka / T. K\u00F6stler",
+    "state": "ended",
+    "arena": 38,
+    "arena_name": "Stadthalle",
+    "arena_address": "Beuditzstra\u00DFe 69A, 06667 Wei\u00DFenfels",
+    "arena_short": "Wei\u00DFenfels, Stadthalle",
+    "date": "2024-04-07",
+    "started": true,
+    "ended": true,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "ETV Piranhhas Hamburg",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "referees": [
+      {
+        "license_id": "237",
+        "first_name": "Tim",
+        "last_name": "Galetzka"
+      },
+      {
+        "license_id": "451",
+        "first_name": "Tobias",
+        "last_name": "K\u00F6stler"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "7:5",
+    "result": {
+      "home_goals": 7,
+      "guest_goals": 5,
+      "home_goals_period": [
+        2,
+        1,
+        4,
+        0
+      ],
+      "guest_goals_period": [
+        0,
+        3,
+        2,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "ETV Hamburg",
+    "game_id": 35314,
+    "game_number": 25,
+    "game_day": 3,
+    "game_day_id": 12352,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "K. Moors / M. Siljamo",
+    "state": "ended",
+    "arena": 242,
+    "arena_name": "Sporthalle Hoheluft",
+    "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
+    "arena_short": "Hamburg, Sporthalle Hoheluft",
+    "date": "2024-04-13",
+    "started": true,
+    "ended": true,
+    "home_team_name": "ETV Piranhhas Hamburg",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "referees": [
+      {
+        "license_id": "5677",
+        "first_name": "Karlis",
+        "last_name": "Moors"
+      },
+      {
+        "license_id": "2901",
+        "first_name": "Miro",
+        "last_name": "Siljamo"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "6:3",
+    "result": {
+      "home_goals": 6,
+      "guest_goals": 3,
+      "home_goals_period": [
+        0,
+        2,
+        4,
+        0
+      ],
+      "guest_goals_period": [
+        0,
+        2,
+        1,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "ETV Hamburg",
+    "game_id": 35315,
+    "game_number": 26,
+    "game_day": 3,
+    "game_day_id": 12353,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "T. Galetzka / T. K\u00F6stler",
+    "state": "ended",
+    "arena": 242,
+    "arena_name": "Sporthalle Hoheluft",
+    "arena_address": "Lokstedter Steindamm 52, 22529 Hamburg",
+    "arena_short": "Hamburg, Sporthalle Hoheluft",
+    "date": "2024-04-14",
+    "started": true,
+    "ended": true,
+    "home_team_name": "ETV Piranhhas Hamburg",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "referees": [
+      {
+        "license_id": "237",
+        "first_name": "Tim",
+        "last_name": "Galetzka"
+      },
+      {
+        "license_id": "451",
+        "first_name": "Tobias",
+        "last_name": "K\u00F6stler"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "4:8",
+    "result": {
+      "home_goals": 4,
+      "guest_goals": 8,
+      "home_goals_period": [
+        0,
+        1,
+        3,
+        0
+      ],
+      "guest_goals_period": [
+        2,
+        3,
+        3,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "UHC Wei\u00DFenfels",
+    "game_id": 35316,
+    "game_number": 27,
+    "game_day": 3,
+    "game_day_id": 12354,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "S. Ehebrecht / T. K\u00F6stler",
+    "state": "ended",
+    "arena": 38,
+    "arena_name": "Stadthalle",
+    "arena_address": "Beuditzstra\u00DFe 69A, 06667 Wei\u00DFenfels",
+    "arena_short": "Wei\u00DFenfels, Stadthalle",
+    "date": "2024-04-20",
+    "started": true,
+    "ended": true,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "ETV Piranhhas Hamburg",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "referees": [
+      {
+        "license_id": "451",
+        "first_name": "Tobias",
+        "last_name": "K\u00F6stler"
+      },
+      {
+        "license_id": "527",
+        "first_name": "Steven",
+        "last_name": "Ehebrecht"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "4:9",
+    "result": {
+      "home_goals": 4,
+      "guest_goals": 9,
+      "home_goals_period": [
+        2,
+        2,
+        0,
+        0
+      ],
+      "guest_goals_period": [
+        3,
+        1,
+        5,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "16:00",
+    "hosting_club": "UHC Wei\u00DFenfels",
+    "game_id": 35317,
+    "game_number": 28,
+    "game_day": 3,
+    "game_day_id": 12355,
+    "group_identifier": null,
+    "series_title": null,
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "S. Liers / T. Schnelle",
+    "state": "ended",
+    "arena": 38,
+    "arena_name": "Stadthalle",
+    "arena_address": "Beuditzstra\u00DFe 69A, 06667 Wei\u00DFenfels",
+    "arena_short": "Wei\u00DFenfels, Stadthalle",
+    "date": "2024-04-21",
+    "started": true,
+    "ended": true,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "ETV Piranhhas Hamburg",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97a4a83195b8ac4578ae6a640edf1f4df250d9ac/81.png",
+    "referees": [
+      {
+        "license_id": "879",
+        "first_name": "Toni",
+        "last_name": "Schnelle"
+      },
+      {
+        "license_id": "51",
+        "first_name": "Stefan",
+        "last_name": "Liers"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "7:4",
+    "result": {
+      "home_goals": 7,
+      "guest_goals": 4,
+      "home_goals_period": [
+        2,
+        1,
+        4,
+        0
+      ],
+      "guest_goals_period": [
+        0,
+        2,
+        2,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  }
 ]

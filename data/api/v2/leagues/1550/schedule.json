@@ -1,542 +1,607 @@
 [
-    {
-        "game_id": 35414,
-        "game_number": 1,
-        "game_day": 1,
-        "arena": 476,
-        "arena_name": "Jahnbaude",
-        "arena_address": "Fürstenstraße 87, 09130 Chemnitz",
-        "arena_short": "Chemnitz, Jahnbaude",
-        "hosting_club": "Floor Fighters Chemnitz",
-        "game_day_id": 12403,
-        "date": "2024-04-27",
-        "time": "14:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Floor Fighters Chemnitz II",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_name": "SG TSV Rangsdorf  / RSV Mellensee",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWWM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0bca5a6cbb9cbe16ea488b7da4536f6914480b6a/171-tsvrangsdorf.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWWM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0bca5a6cbb9cbe16ea488b7da4536f6914480b6a/171-tsvrangsdorf.png",
-        "nominated_referee_string": "Tim Galetzka, Jannik Rex",
-        "referees": [
-            {
-                "license_id": "5590",
-                "first_name": "Jannik",
-                "last_name": "Rex"
-            },
-            {
-                "license_id": "4242",
-                "first_name": "Lukas",
-                "last_name": "Eilenberger"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": "Viertelfinale",
-        "series_number": "1  ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "12:4",
-        "result": {
-            "home_goals": 12,
-            "guest_goals": 4,
-            "home_goals_period": [
-                3,
-                4,
-                5,
-                0
-            ],
-            "guest_goals_period": [
-                1,
-                3,
-                0,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
+  {
+    "time": "14:00",
+    "hosting_club": "Floor Fighters Chemnitz",
+    "game_id": 35414,
+    "game_number": 1,
+    "game_day": 1,
+    "game_day_id": 12403,
+    "group_identifier": null,
+    "series_title": "Viertelfinale",
+    "series_number": "1  ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "Tim Galetzka, Jannik Rex",
+    "state": "ended",
+    "arena": 476,
+    "arena_name": "Jahnbaude",
+    "arena_address": "F\u00FCrstenstra\u00DFe 87, 09130 Chemnitz",
+    "arena_short": "Chemnitz, Jahnbaude",
+    "date": "2024-04-27",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Floor Fighters Chemnitz II",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_name": "SG TSV Rangsdorf  / RSV Mellensee",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWWM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0bca5a6cbb9cbe16ea488b7da4536f6914480b6a/171-tsvrangsdorf.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWWM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0bca5a6cbb9cbe16ea488b7da4536f6914480b6a/171-tsvrangsdorf.png",
+    "referees": [
+      {
+        "license_id": "5590",
+        "first_name": "Jannik",
+        "last_name": "Rex"
+      },
+      {
+        "license_id": "4242",
+        "first_name": "Lukas",
+        "last_name": "Eilenberger"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
     },
-    {
-        "game_id": 35411,
-        "game_number": 3,
-        "game_day": 1,
-        "arena": 265,
-        "arena_name": "Sporthalle Havelland-Grundschule",
-        "arena_address": "Wilhelm-Kabus-Straße 30 - 30 a, 10829 Berlin",
-        "arena_short": "Berlin, Sporthalle Havelland-Grundschule",
-        "hosting_club": "Berlin Rockets",
-        "game_day_id": 12400,
-        "date": "2024-04-28",
-        "time": "14:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Berlin Rockets (Laikas)",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "guest_team_name": "Unihockey Igels Dresden II",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
-        "nominated_referee_string": "Davor Matijasevic, Jakob Schnaithmann",
-        "referees": [
-            {
-                "license_id": "3700",
-                "first_name": "Davor",
-                "last_name": "Matijasevic"
-            },
-            {
-                "license_id": "5507",
-                "first_name": "Jakob",
-                "last_name": "Schnaithmann"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": "Viertelfinale",
-        "series_number": "3  ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "9:1",
-        "result": {
-            "home_goals": 9,
-            "guest_goals": 1,
-            "home_goals_period": [
-                3,
-                4,
-                2,
-                0
-            ],
-            "guest_goals_period": [
-                1,
-                0,
-                0,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35413,
-        "game_number": 2,
-        "game_day": 1,
-        "arena": 641,
-        "arena_name": "Carl-Friedrich-von-Siemens Gymnasium",
-        "arena_address": "Jungfernheideweg 79, 13629 Berlin",
-        "arena_short": "Berlin, Carl-Friedrich-von-Siemens Gymnasium",
-        "hosting_club": "SC Siemensstadt",
-        "game_day_id": 12402,
-        "date": "2024-04-28",
-        "time": "15:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "UHC Sparkasse Weißenfels II",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "SCS Berlin",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYW89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62804dc12db011adff92edb65b6446734e70a7bc/50-berlinscs.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYW89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62804dc12db011adff92edb65b6446734e70a7bc/50-berlinscs.png",
-        "nominated_referee_string": "Benjamin Dinter, Gordon Arning",
-        "referees": [
-            {
-                "license_id": "1117",
-                "first_name": "Benjamin ",
-                "last_name": "Dinter"
-            },
-            {
-                "license_id": "0",
-                "first_name": "Gordon",
-                "last_name": "Arning"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": "Viertelfinale",
-        "series_number": "2  ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "6:2",
-        "result": {
-            "home_goals": 6,
-            "guest_goals": 2,
-            "home_goals_period": [
-                1,
-                2,
-                3,
-                0
-            ],
-            "guest_goals_period": [
-                1,
-                1,
-                0,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35412,
-        "game_number": 4,
-        "game_day": 1,
-        "arena": 642,
-        "arena_name": "Konrad-Wolf-Straße 11",
-        "arena_address": "Konrad-Wolf-Straße 11, 13055 Berlin",
-        "arena_short": "Berlin, Konrad-Wolf-Straße 11",
-        "hosting_club": "Eisbären Juniors",
-        "game_day_id": 12401,
-        "date": "2024-05-01",
-        "time": "14:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Eisbären Juniors",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26d2fd957ffe99d427c3ed6b7f4e0f960347ae4a/203-berlinjuniors.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26d2fd957ffe99d427c3ed6b7f4e0f960347ae4a/203-berlinjuniors.png",
-        "guest_team_name": "MFBC Leipzig/Grimma",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "nominated_referee_string": "Davor Matijasevic, Jakob Schnaithmann",
-        "referees": [
-            {
-                "license_id": "3700",
-                "first_name": "Davor",
-                "last_name": "Matijesevic"
-            },
-            {
-                "license_id": "5507",
-                "first_name": "Jakob C.",
-                "last_name": "Schnaithmann"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": "Viertelfinale",
-        "series_number": "4  ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "7:8",
-        "result": {
-            "home_goals": 7,
-            "guest_goals": 8,
-            "home_goals_period": [
-                3,
-                2,
-                2,
-                0
-            ],
-            "guest_goals_period": [
-                0,
-                5,
-                3,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35467,
-        "game_number": 0,
-        "game_day": 2,
-        "arena": 9,
-        "arena_name": "Sporthalle West",
-        "arena_address": "Thomas-Müntzer-Straße 17, 06667 Weißenfels",
-        "arena_short": "Weißenfels, Sporthalle West",
-        "hosting_club": "UHC Weißenfels",
-        "game_day_id": 12418,
-        "date": "2024-05-04",
-        "time": "19:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "UHC Sparkasse Weißenfels II",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_name": "MFBC Leipzig/Grimma",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "nominated_referee_string": "Jens Zoberbier, Christopher Gerold",
-        "referees": [
-            {
-                "license_id": "27",
-                "first_name": "Jens ",
-                "last_name": "Zoberbier "
-            },
-            {
-                "license_id": "4016",
-                "first_name": "Christopher ",
-                "last_name": "Gerold "
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": "Halbfinale",
-        "series_number": "2  ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "2:3",
-        "result": {
-            "home_goals": 2,
-            "guest_goals": 3,
-            "home_goals_period": [
-                0,
-                1,
-                1,
-                0
-            ],
-            "guest_goals_period": [
-                0,
-                0,
-                3,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35466,
-        "game_number": 0,
-        "game_day": 2,
-        "arena": 265,
-        "arena_name": "Sporthalle Havelland-Grundschule",
-        "arena_address": "Wilhelm-Kabus-Straße 30 - 30 a, 10829 Berlin",
-        "arena_short": "Berlin, Sporthalle Havelland-Grundschule",
-        "hosting_club": "Berlin Rockets",
-        "game_day_id": 12417,
-        "date": "2024-05-05",
-        "time": "14:00",
-        "started": true,
-        "ended": true,
-        "home_team_name": "Berlin Rockets (Laikas)",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "guest_team_name": "Floor Fighters Chemnitz II",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "nominated_referee_string": "Davor Matijasevic, Jakob Schnaithmann",
-        "referees": [
-            {
-                "license_id": "3700",
-                "first_name": "Davor",
-                "last_name": "Matijasevic"
-            },
-            {
-                "license_id": "5507",
-                "first_name": "Jakob",
-                "last_name": "Schnaithmann"
-            }
-        ],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "ended",
-        "current_period_title": {
-            "period": 3,
-            "short_title": "3",
-            "title": "3. Drittel",
-            "status_id": "period3",
-            "can_end_game": true,
-            "optional": false,
-            "running": true
-        },
-        "group_identifier": null,
-        "series_title": "Halbfinale",
-        "series_number": "1  ",
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null,
-        "result_string": "6:2",
-        "result": {
-            "home_goals": 6,
-            "guest_goals": 2,
-            "home_goals_period": [
-                1,
-                1,
-                4,
-                0
-            ],
-            "guest_goals_period": [
-                1,
-                1,
-                0,
-                0
-            ],
-            "postfix": {
-                "short": "",
-                "long": ""
-            },
-            "forfait": false,
-            "overtime": false
-        }
-    },
-    {
-        "game_id": 35488,
-        "game_number": 0,
-        "game_day": 3,
-        "arena": 265,
-        "arena_name": "Sporthalle Havelland-Grundschule",
-        "arena_address": "Wilhelm-Kabus-Straße 30 - 30 a, 10829 Berlin",
-        "arena_short": "Berlin, Sporthalle Havelland-Grundschule",
-        "hosting_club": "Berlin Rockets",
-        "game_day_id": 12425,
-        "date": "2024-05-25",
-        "time": "14:00",
-        "started": false,
-        "ended": false,
-        "home_team_name": "Berlin Rockets (Laikas)",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
-        "guest_team_name": "MFBC Leipzig/Grimma",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
-        "nominated_referee_string": "",
-        "referees": [],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "no_record",
-        "current_period_title": null,
-        "group_identifier": null,
-        "series_title": "Finale",
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null
-    },
-    {
-        "game_id": 35486,
-        "game_number": 0,
-        "game_day": 3,
-        "arena": 503,
-        "arena_name": "Schlossteichhalle",
-        "arena_address": "Schloßstraße 13, 09111 Chemnitz",
-        "arena_short": "Chemnitz, Schlossteichhalle",
-        "hosting_club": "Floor Fighters Chemnitz",
-        "game_day_id": 12424,
-        "date": "2024-05-25",
-        "time": "18:00",
-        "started": false,
-        "ended": false,
-        "home_team_name": "Floor Fighters Chemnitz II",
-        "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
-        "guest_team_name": "UHC Sparkasse Weißenfels II",
-        "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
-        "nominated_referee_string": "",
-        "referees": [],
-        "notice_type": "",
-        "notice_string": "",
-        "state": "no_record",
-        "current_period_title": null,
-        "group_identifier": null,
-        "series_title": "Spiel um Platz 3",
-        "series_number": null,
-        "home_team_filling_rule": null,
-        "home_team_filling_title": null,
-        "home_team_filling_parameter": null,
-        "guest_team_filling_rule": null,
-        "guest_team_filling_title": null,
-        "guest_team_filling_parameter": null
+    "result_string": "12:4",
+    "result": {
+      "home_goals": 12,
+      "guest_goals": 4,
+      "home_goals_period": [
+        3,
+        4,
+        5,
+        0
+      ],
+      "guest_goals_period": [
+        1,
+        3,
+        0,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
     }
+  },
+  {
+    "time": "14:00",
+    "hosting_club": "Berlin Rockets",
+    "game_id": 35411,
+    "game_number": 3,
+    "game_day": 1,
+    "game_day_id": 12400,
+    "group_identifier": null,
+    "series_title": "Viertelfinale",
+    "series_number": "3  ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "Davor Matijasevic, Jakob Schnaithmann",
+    "state": "ended",
+    "arena": 265,
+    "arena_name": "Sporthalle Havelland-Grundschule",
+    "arena_address": "Wilhelm-Kabus-Stra\u00DFe 30 - 30 a, 10829 Berlin",
+    "arena_short": "Berlin, Sporthalle Havelland-Grundschule",
+    "date": "2024-04-28",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Berlin Rockets (Laikas)",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "guest_team_name": "Unihockey Igels Dresden II",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBHZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc5343e2e42e969c656757c479661623f2010243/16-dresdenigels.png",
+    "referees": [
+      {
+        "license_id": "3700",
+        "first_name": "Davor",
+        "last_name": "Matijasevic"
+      },
+      {
+        "license_id": "5507",
+        "first_name": "Jakob",
+        "last_name": "Schnaithmann"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "9:1",
+    "result": {
+      "home_goals": 9,
+      "guest_goals": 1,
+      "home_goals_period": [
+        3,
+        4,
+        2,
+        0
+      ],
+      "guest_goals_period": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "15:00",
+    "hosting_club": "SC Siemensstadt",
+    "game_id": 35413,
+    "game_number": 2,
+    "game_day": 1,
+    "game_day_id": 12402,
+    "group_identifier": null,
+    "series_title": "Viertelfinale",
+    "series_number": "2  ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "Benjamin Dinter, Gordon Arning",
+    "state": "ended",
+    "arena": 641,
+    "arena_name": "Carl-Friedrich-von-Siemens Gymnasium",
+    "arena_address": "Jungfernheideweg 79, 13629 Berlin",
+    "arena_short": "Berlin, Carl-Friedrich-von-Siemens Gymnasium",
+    "date": "2024-04-28",
+    "started": true,
+    "ended": true,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels II",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "SCS Berlin",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYW89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62804dc12db011adff92edb65b6446734e70a7bc/50-berlinscs.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYW89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--62804dc12db011adff92edb65b6446734e70a7bc/50-berlinscs.png",
+    "referees": [
+      {
+        "license_id": "1117",
+        "first_name": "Benjamin ",
+        "last_name": "Dinter"
+      },
+      {
+        "license_id": "0",
+        "first_name": "Gordon",
+        "last_name": "Arning"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "6:2",
+    "result": {
+      "home_goals": 6,
+      "guest_goals": 2,
+      "home_goals_period": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "guest_goals_period": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "14:00",
+    "hosting_club": "Eisb\u00E4ren Juniors",
+    "game_id": 35412,
+    "game_number": 4,
+    "game_day": 1,
+    "game_day_id": 12401,
+    "group_identifier": null,
+    "series_title": "Viertelfinale",
+    "series_number": "4  ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "Davor Matijasevic, Jakob Schnaithmann",
+    "state": "ended",
+    "arena": 642,
+    "arena_name": "Konrad-Wolf-Stra\u00DFe 11",
+    "arena_address": "Konrad-Wolf-Stra\u00DFe 11, 13055 Berlin",
+    "arena_short": "Berlin, Konrad-Wolf-Stra\u00DFe 11",
+    "date": "2024-05-01",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Eisb\u00E4ren Juniors",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26d2fd957ffe99d427c3ed6b7f4e0f960347ae4a/203-berlinjuniors.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26d2fd957ffe99d427c3ed6b7f4e0f960347ae4a/203-berlinjuniors.png",
+    "guest_team_name": "MFBC Leipzig/Grimma",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "referees": [
+      {
+        "license_id": "3700",
+        "first_name": "Davor",
+        "last_name": "Matijesevic"
+      },
+      {
+        "license_id": "5507",
+        "first_name": "Jakob C.",
+        "last_name": "Schnaithmann"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "7:8",
+    "result": {
+      "home_goals": 7,
+      "guest_goals": 8,
+      "home_goals_period": [
+        3,
+        2,
+        2,
+        0
+      ],
+      "guest_goals_period": [
+        0,
+        5,
+        3,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "19:00",
+    "hosting_club": "UHC Wei\u00DFenfels",
+    "game_id": 35467,
+    "game_number": 0,
+    "game_day": 2,
+    "game_day_id": 12418,
+    "group_identifier": null,
+    "series_title": "Halbfinale",
+    "series_number": "2  ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "Jens Zoberbier, Christopher Gerold",
+    "state": "ended",
+    "arena": 9,
+    "arena_name": "Sporthalle West",
+    "arena_address": "Thomas-M\u00FCntzer-Stra\u00DFe 17, 06667 Wei\u00DFenfels",
+    "arena_short": "Wei\u00DFenfels, Sporthalle West",
+    "date": "2024-05-04",
+    "started": true,
+    "ended": true,
+    "home_team_name": "UHC Sparkasse Wei\u00DFenfels II",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_name": "MFBC Leipzig/Grimma",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "referees": [
+      {
+        "license_id": "27",
+        "first_name": "Jens ",
+        "last_name": "Zoberbier "
+      },
+      {
+        "license_id": "4016",
+        "first_name": "Christopher ",
+        "last_name": "Gerold "
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "2:3",
+    "result": {
+      "home_goals": 2,
+      "guest_goals": 3,
+      "home_goals_period": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "guest_goals_period": [
+        0,
+        0,
+        3,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "14:00",
+    "hosting_club": "Berlin Rockets",
+    "game_id": 35466,
+    "game_number": 0,
+    "game_day": 2,
+    "game_day_id": 12417,
+    "group_identifier": null,
+    "series_title": "Halbfinale",
+    "series_number": "1  ",
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "Davor Matijasevic, Jakob Schnaithmann",
+    "state": "ended",
+    "arena": 265,
+    "arena_name": "Sporthalle Havelland-Grundschule",
+    "arena_address": "Wilhelm-Kabus-Stra\u00DFe 30 - 30 a, 10829 Berlin",
+    "arena_short": "Berlin, Sporthalle Havelland-Grundschule",
+    "date": "2024-05-05",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Berlin Rockets (Laikas)",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "guest_team_name": "Floor Fighters Chemnitz II",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "referees": [
+      {
+        "license_id": "3700",
+        "first_name": "Davor",
+        "last_name": "Matijasevic"
+      },
+      {
+        "license_id": "5507",
+        "first_name": "Jakob",
+        "last_name": "Schnaithmann"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "6:2",
+    "result": {
+      "home_goals": 6,
+      "guest_goals": 2,
+      "home_goals_period": [
+        1,
+        1,
+        4,
+        0
+      ],
+      "guest_goals_period": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "14:00",
+    "hosting_club": "Berlin Rockets",
+    "game_id": 35488,
+    "game_number": 0,
+    "game_day": 3,
+    "game_day_id": 12425,
+    "group_identifier": null,
+    "series_title": "Finale",
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "Tim Kursawe / Moritz Genzer",
+    "state": "ended",
+    "arena": 265,
+    "arena_name": "Sporthalle Havelland-Grundschule",
+    "arena_address": "Wilhelm-Kabus-Stra\u00DFe 30 - 30 a, 10829 Berlin",
+    "arena_short": "Berlin, Sporthalle Havelland-Grundschule",
+    "date": "2024-05-25",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Berlin Rockets (Laikas)",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--642978e96d39889267d3c06e15dc87ec5a2f8d1e/94-berlinrockets.png",
+    "guest_team_name": "MFBC Leipzig/Grimma",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1659d315ae0b4c3560618163e5159264f16aa44/82-mfbcleipzig.png",
+    "referees": [
+      {
+        "license_id": "2896",
+        "first_name": "Tim",
+        "last_name": "Kursawe"
+      },
+      {
+        "license_id": "1442",
+        "first_name": "Moritz",
+        "last_name": "Genzer"
+      }
+    ],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": {
+      "period": 3,
+      "short_title": "3",
+      "title": "3. Drittel",
+      "status_id": "period3",
+      "can_end_game": true,
+      "optional": false,
+      "running": true
+    },
+    "result_string": "8:3",
+    "result": {
+      "home_goals": 8,
+      "guest_goals": 3,
+      "home_goals_period": [
+        2,
+        3,
+        3,
+        0
+      ],
+      "guest_goals_period": [
+        1,
+        2,
+        0,
+        0
+      ],
+      "postfix": {
+        "short": "",
+        "long": ""
+      },
+      "forfait": false,
+      "overtime": false
+    }
+  },
+  {
+    "time": "18:00",
+    "hosting_club": "Floor Fighters Chemnitz",
+    "game_id": 35486,
+    "game_number": 0,
+    "game_day": 3,
+    "game_day_id": 12424,
+    "group_identifier": null,
+    "series_title": "Spiel um Platz 3",
+    "series_number": null,
+    "home_team_filling_rule": null,
+    "home_team_filling_title": null,
+    "home_team_filling_parameter": null,
+    "guest_team_filling_rule": null,
+    "guest_team_filling_title": null,
+    "guest_team_filling_parameter": null,
+    "nominated_referee_string": "Christian Schulze / Christian Hoffmann",
+    "state": "ended",
+    "arena": 503,
+    "arena_name": "Schlossteichhalle",
+    "arena_address": "Schlo\u00DFstra\u00DFe 13, 09111 Chemnitz",
+    "arena_short": "Chemnitz, Schlossteichhalle",
+    "date": "2024-05-25",
+    "started": true,
+    "ended": true,
+    "home_team_name": "Floor Fighters Chemnitz II",
+    "home_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "home_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68328b4b8b635fec3c90a8be0a4c8c6de4e817d3/96-chemnitz.png",
+    "guest_team_name": "UHC Sparkasse Wei\u00DFenfels II",
+    "guest_team_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "guest_team_small_logo": "/api/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--417802d39da0153877ebcf99044c1721b15e3c86/84-weissenfels.png",
+    "referees": [],
+    "notice_type": "",
+    "notice_string": "",
+    "current_period_title": null,
+    "result_string": "5:0",
+    "result": {
+      "home_goals": 5,
+      "guest_goals": 0,
+      "home_goals_period": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "guest_goals_period": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "postfix": {
+        "short": " (forfait)",
+        "long": " kampflos"
+      },
+      "forfait": true,
+      "overtime": false
+    }
+  }
 ]
